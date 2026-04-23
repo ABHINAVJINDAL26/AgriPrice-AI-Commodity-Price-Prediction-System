@@ -997,7 +997,16 @@ python main.py
 ```
 Automatically chalega: Preprocessing → EDA → Training → Evaluation → Forecast
 
-### Option 2 — Step by Step
+### Option 2 — Modern Dashboard (Recommended)
+```bash
+streamlit run app.py
+```
+Ya shortcut command:
+```bash
+python main.py dashboard
+```
+
+### Option 3 — Step by Step
 ```bash
 python src/data_preprocessing.py   # Step 1: Data clean karo
 python src/eda.py                  # Step 2: Charts dekho
@@ -1005,7 +1014,7 @@ python src/model.py                # Step 3: Model train karo
 python src/evaluation.py          # Step 4: Predict + evaluate
 ```
 
-### Option 3 — Jupyter Notebooks
+### Option 4 — Jupyter Notebooks
 ```bash
 jupyter notebook
 ```
@@ -1071,7 +1080,7 @@ Charts saved in `outputs/` folder.
 
 - [ ] Real-Time Pipeline — Automated daily fetch from govt APIs
 - [ ] LSTM Deep Learning — Better long-term forecasting
-- [ ] Streamlit Dashboard — Interactive web UI with live forecasts
+- [x] Streamlit Dashboard — Interactive web UI with live forecasts
 - [ ] All 22 Commodities — Extend beyond onion/potato/pulses
 - [ ] Geospatial Heat Maps — State-wise price maps on India map
 - [ ] News Sentiment Analysis — Market shock detection from headlines
