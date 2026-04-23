@@ -1,0 +1,2 @@
+Commodity,Model,ModelPath,TrainRows,TestRows,ADF_PValue
+Onion,SARIMA,C:\Users\jabhi\Downloads\main-main\main-main\models\sarima_onion.pkl,5,2,0.9028954602520645
