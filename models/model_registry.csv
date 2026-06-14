@@ -1,2 +1,16 @@
 Commodity,Model,ModelPath,TrainRows,TestRows,ADF_PValue
-Onion,SARIMA,C:\Users\jabhi\Downloads\main-main\main-main\models\sarima_onion.pkl,5,2,0.9028954602520645
+Gram,SARIMA,C:\Users\jabhi\Desktop\Agriprice\models\sarima_gram.pkl,150,30,0.19908062564546897
+Gram,ARIMA,C:\Users\jabhi\Desktop\Agriprice\models\arima_gram.pkl,150,30,0.19908062564546897
+Gram,XGBoost,C:\Users\jabhi\Desktop\Agriprice\models\xgboost_gram.pkl,150,30,0.19908062564546897
+Onion,SARIMA,C:\Users\jabhi\Desktop\Agriprice\models\sarima_onion.pkl,150,30,0.9216571336379801
+Onion,ARIMA,C:\Users\jabhi\Desktop\Agriprice\models\arima_onion.pkl,150,30,0.9216571336379801
+Onion,XGBoost,C:\Users\jabhi\Desktop\Agriprice\models\xgboost_onion.pkl,150,30,0.9216571336379801
+Potato,SARIMA,C:\Users\jabhi\Desktop\Agriprice\models\sarima_potato.pkl,150,30,0.3850279341937045
+Potato,ARIMA,C:\Users\jabhi\Desktop\Agriprice\models\arima_potato.pkl,150,30,0.3850279341937045
+Potato,XGBoost,C:\Users\jabhi\Desktop\Agriprice\models\xgboost_potato.pkl,150,30,0.3850279341937045
+Tomato,SARIMA,C:\Users\jabhi\Desktop\Agriprice\models\sarima_tomato.pkl,139,30,0.2540116803743131
+Tomato,ARIMA,C:\Users\jabhi\Desktop\Agriprice\models\arima_tomato.pkl,139,30,0.2540116803743131
+Tomato,XGBoost,C:\Users\jabhi\Desktop\Agriprice\models\xgboost_tomato.pkl,139,30,0.2540116803743131
+Tur,SARIMA,C:\Users\jabhi\Desktop\Agriprice\models\sarima_tur.pkl,150,30,0.20229754309974474
+Tur,ARIMA,C:\Users\jabhi\Desktop\Agriprice\models\arima_tur.pkl,150,30,0.20229754309974474
+Tur,XGBoost,C:\Users\jabhi\Desktop\Agriprice\models\xgboost_tur.pkl,150,30,0.20229754309974474

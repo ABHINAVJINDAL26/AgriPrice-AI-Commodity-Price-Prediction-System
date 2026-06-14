@@ -35,8 +35,12 @@ def clean_data(data: pd.DataFrame) -> pd.DataFrame:
     if "Commodity" not in data.columns:
         data["Commodity"] = "Unknown"
 
+    groupby_cols = ["Commodity"]
+    if "State" in data.columns:
+        groupby_cols.append("State")
+
     cleaned_groups = []
-    for _, group in data.groupby("Commodity", dropna=False):
+    for _, group in data.groupby(groupby_cols, dropna=False):
         group = group.sort_values(by="Date").reset_index(drop=True)
         group = group.ffill()
 
@@ -51,7 +55,8 @@ def clean_data(data: pd.DataFrame) -> pd.DataFrame:
         cleaned_groups.append(group)
 
     cleaned = pd.concat(cleaned_groups, ignore_index=True)
-    return cleaned.sort_values(["Commodity", "Date"]).reset_index(drop=True)
+    sort_cols = ["Commodity", "State", "Date"] if "State" in cleaned.columns else ["Commodity", "Date"]
+    return cleaned.sort_values(sort_cols).reset_index(drop=True)
 
 
 def add_features(data: pd.DataFrame) -> pd.DataFrame:
@@ -59,8 +64,12 @@ def add_features(data: pd.DataFrame) -> pd.DataFrame:
     if "Commodity" not in data.columns:
         data["Commodity"] = "Unknown"
 
+    groupby_cols = ["Commodity"]
+    if "State" in data.columns:
+        groupby_cols.append("State")
+
     enriched_groups = []
-    for _, group in data.groupby("Commodity", dropna=False):
+    for _, group in data.groupby(groupby_cols, dropna=False):
         group = group.sort_values("Date").copy()
 
         for lag in (7, 14, 30):
@@ -90,7 +99,8 @@ def add_features(data: pd.DataFrame) -> pd.DataFrame:
         enriched_groups.append(group)
 
     enriched = pd.concat(enriched_groups, ignore_index=True)
-    return enriched.sort_values(["Commodity", "Date"]).reset_index(drop=True)
+    sort_cols = ["Commodity", "State", "Date"] if "State" in enriched.columns else ["Commodity", "Date"]
+    return enriched.sort_values(sort_cols).reset_index(drop=True)
 
 
 def save_data(data: pd.DataFrame, output_path: str) -> None:

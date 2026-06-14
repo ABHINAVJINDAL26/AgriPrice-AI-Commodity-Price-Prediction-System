@@ -1,8 +1,3601 @@
-Date,Commodity,Price,Volume
-2022-01-01,Onion,50,2000
-2022-01-02,Onion,52,2100
-2022-01-03,Onion,51,2150
-2022-01-04,Onion,49,1900
-2022-01-05,Onion,48,1800
-2022-01-06,Onion,50,2050
-2022-01-07,Onion,51,2100
+Date,Commodity,State,Price,Volume
+2025-12-16,Onion,Maharashtra,1139.61,6752
+2025-12-16,Onion,Karnataka,1217.72,8582
+2025-12-16,Onion,Uttar Pradesh,1171.9,5957
+2025-12-16,Onion,Delhi,1689.51,5767
+2025-12-16,Potato,Maharashtra,957.14,5598
+2025-12-16,Potato,Karnataka,1012.56,4339
+2025-12-16,Potato,Uttar Pradesh,1116.94,2806
+2025-12-16,Potato,Delhi,1254.26,3227
+2025-12-16,Tomato,Maharashtra,931.43,8435
+2025-12-16,Tomato,Karnataka,1015.4,5395
+2025-12-16,Tomato,Uttar Pradesh,1553.13,6820
+2025-12-16,Tomato,Delhi,1588.51,4086
+2025-12-16,Gram,Maharashtra,4759.47,5678
+2025-12-16,Gram,Karnataka,4822.15,5658
+2025-12-16,Gram,Uttar Pradesh,5289.78,4708
+2025-12-16,Gram,Delhi,6664.4,5481
+2025-12-16,Tur,Maharashtra,7121.93,3982
+2025-12-16,Tur,Karnataka,7894.15,3616
+2025-12-16,Tur,Uttar Pradesh,8013.99,2763
+2025-12-16,Tur,Delhi,9302.32,3779
+2025-12-17,Onion,Maharashtra,1169.19,7182
+2025-12-17,Onion,Karnataka,1126.73,6182
+2025-12-17,Onion,Uttar Pradesh,1023.22,5350
+2025-12-17,Onion,Delhi,1445.52,6057
+2025-12-17,Potato,Maharashtra,1014.45,3269
+2025-12-17,Potato,Karnataka,1068.1,4416
+2025-12-17,Potato,Uttar Pradesh,1053.06,5101
+2025-12-17,Potato,Delhi,1447.72,4313
+2025-12-17,Tomato,Maharashtra,966.91,7445
+2025-12-17,Tomato,Karnataka,1264.05,8985
+2025-12-17,Tomato,Uttar Pradesh,1165.01,6877
+2025-12-17,Tomato,Delhi,1354.78,4347
+2025-12-17,Gram,Maharashtra,5235.73,7062
+2025-12-17,Gram,Karnataka,5201.22,6319
+2025-12-17,Gram,Uttar Pradesh,5628.07,4354
+2025-12-17,Gram,Delhi,7003.36,5230
+2025-12-17,Tur,Maharashtra,7113.86,6630
+2025-12-17,Tur,Karnataka,6347.2,5571
+2025-12-17,Tur,Uttar Pradesh,7961.37,4273
+2025-12-17,Tur,Delhi,9944.04,2190
+2025-12-18,Onion,Maharashtra,1054.79,7440
+2025-12-18,Onion,Karnataka,1318.56,5897
+2025-12-18,Onion,Uttar Pradesh,1104.26,5622
+2025-12-18,Onion,Delhi,1611.45,5328
+2025-12-18,Potato,Maharashtra,953.71,5568
+2025-12-18,Potato,Karnataka,1052.63,5711
+2025-12-18,Potato,Uttar Pradesh,1051.74,4247
+2025-12-18,Potato,Delhi,1348.65,2571
+2025-12-18,Tomato,Maharashtra,1194.74,8350
+2025-12-18,Tomato,Karnataka,1199.62,7166
+2025-12-18,Tomato,Uttar Pradesh,978.61,6541
+2025-12-18,Tomato,Delhi,1508.56,4797
+2025-12-18,Gram,Maharashtra,4896.25,6004
+2025-12-18,Gram,Karnataka,5888.02,5446
+2025-12-18,Gram,Uttar Pradesh,5593.14,4925
+2025-12-18,Gram,Delhi,6207.18,3978
+2025-12-18,Tur,Maharashtra,7159.06,7538
+2025-12-18,Tur,Karnataka,7441.62,5073
+2025-12-18,Tur,Uttar Pradesh,7908.78,3483
+2025-12-18,Tur,Delhi,10419.77,4183
+2025-12-19,Onion,Maharashtra,1176.65,5681
+2025-12-19,Onion,Karnataka,1310.16,4734
+2025-12-19,Onion,Uttar Pradesh,1272.34,8988
+2025-12-19,Onion,Delhi,1383.54,4433
+2025-12-19,Potato,Maharashtra,998.16,4541
+2025-12-19,Potato,Karnataka,937.71,4850
+2025-12-19,Potato,Uttar Pradesh,1026.96,4975
+2025-12-19,Potato,Delhi,1312.29,4763
+2025-12-19,Tomato,Maharashtra,979.62,7425
+2025-12-19,Tomato,Karnataka,1362.1,5667
+2025-12-19,Tomato,Uttar Pradesh,1308.01,9010
+2025-12-19,Tomato,Delhi,1256.65,5925
+2025-12-19,Gram,Maharashtra,5045.01,6424
+2025-12-19,Gram,Karnataka,4796.34,3873
+2025-12-19,Gram,Uttar Pradesh,5687.18,5296
+2025-12-19,Gram,Delhi,6968.3,4277
+2025-12-19,Tur,Maharashtra,6827.93,5285
+2025-12-19,Tur,Karnataka,7662.15,4101
+2025-12-19,Tur,Uttar Pradesh,8766.2,4976
+2025-12-19,Tur,Delhi,9372.16,4113
+2025-12-20,Onion,Maharashtra,965.34,8037
+2025-12-20,Onion,Karnataka,1281.46,5499
+2025-12-20,Onion,Uttar Pradesh,1318.17,6765
+2025-12-20,Onion,Delhi,1601.85,6896
+2025-12-20,Potato,Maharashtra,974.41,4289
+2025-12-20,Potato,Karnataka,984.41,4004
+2025-12-20,Potato,Uttar Pradesh,1096.36,4855
+2025-12-20,Potato,Delhi,1396.57,4237
+2025-12-20,Tomato,Maharashtra,1139.62,10243
+2025-12-20,Tomato,Karnataka,1147.26,11609
+2025-12-20,Tomato,Uttar Pradesh,1388.49,5918
+2025-12-20,Tomato,Delhi,1365.02,6265
+2025-12-20,Gram,Maharashtra,4877.19,6348
+2025-12-20,Gram,Karnataka,5396.33,5186
+2025-12-20,Gram,Uttar Pradesh,5209.62,3485
+2025-12-20,Gram,Delhi,6726.22,4685
+2025-12-20,Tur,Maharashtra,7232.26,3792
+2025-12-20,Tur,Karnataka,7610.29,5153
+2025-12-20,Tur,Uttar Pradesh,7531.06,4685
+2025-12-20,Tur,Delhi,9937.19,2805
+2025-12-21,Onion,Maharashtra,1125.81,7723
+2025-12-21,Onion,Karnataka,1273.01,7965
+2025-12-21,Onion,Uttar Pradesh,1037.88,5077
+2025-12-21,Onion,Delhi,1565.8,5513
+2025-12-21,Potato,Maharashtra,1028.03,8942
+2025-12-21,Potato,Karnataka,1087.05,5871
+2025-12-21,Potato,Uttar Pradesh,1168.98,5137
+2025-12-21,Potato,Delhi,1355.68,4188
+2025-12-21,Tomato,Maharashtra,983.21,7560
+2025-12-21,Tomato,Karnataka,1103.92,7641
+2025-12-21,Tomato,Uttar Pradesh,1727.13,4475
+2025-12-21,Tomato,Delhi,1717.5,3871
+2025-12-21,Gram,Maharashtra,4791.57,6765
+2025-12-21,Gram,Karnataka,5254.62,4128
+2025-12-21,Gram,Uttar Pradesh,5257.14,5679
+2025-12-21,Gram,Delhi,6628.75,4173
+2025-12-21,Tur,Maharashtra,7158.41,4392
+2025-12-21,Tur,Karnataka,8499.22,5391
+2025-12-21,Tur,Uttar Pradesh,7019.69,4714
+2025-12-21,Tur,Delhi,9615.95,4256
+2025-12-22,Onion,Maharashtra,988.35,6785
+2025-12-22,Onion,Karnataka,1204.25,7718
+2025-12-22,Onion,Uttar Pradesh,1059.8,5831
+2025-12-22,Onion,Delhi,1447.81,4346
+2025-12-22,Potato,Maharashtra,1115.96,5459
+2025-12-22,Potato,Karnataka,959.25,5663
+2025-12-22,Potato,Uttar Pradesh,1251.19,5484
+2025-12-22,Potato,Delhi,1271.94,3284
+2025-12-22,Tomato,Maharashtra,1391.92,6813
+2025-12-22,Tomato,Karnataka,1290.55,8683
+2025-12-22,Tomato,Uttar Pradesh,1079.65,7057
+2025-12-22,Tomato,Delhi,933.05,4543
+2025-12-22,Gram,Maharashtra,4869.7,4169
+2025-12-22,Gram,Karnataka,5804.89,3757
+2025-12-22,Gram,Uttar Pradesh,5354.98,5130
+2025-12-22,Gram,Delhi,7390.7,2851
+2025-12-22,Tur,Maharashtra,7663.3,5060
+2025-12-22,Tur,Karnataka,7094.86,5226
+2025-12-22,Tur,Uttar Pradesh,8022.78,3999
+2025-12-22,Tur,Delhi,9947.91,3356
+2025-12-23,Onion,Maharashtra,1097.65,7864
+2025-12-23,Onion,Karnataka,1334.58,4950
+2025-12-23,Onion,Uttar Pradesh,1460.44,3809
+2025-12-23,Onion,Delhi,1487.39,5588
+2025-12-23,Potato,Maharashtra,1012.44,4421
+2025-12-23,Potato,Karnataka,1033.36,4312
+2025-12-23,Potato,Uttar Pradesh,1061.82,5317
+2025-12-23,Potato,Delhi,1403.84,3132
+2025-12-23,Tomato,Maharashtra,1319.21,8424
+2025-12-23,Tomato,Karnataka,1365.16,8465
+2025-12-23,Tomato,Uttar Pradesh,1100.08,6342
+2025-12-23,Tomato,Delhi,1731.81,6411
+2025-12-23,Gram,Maharashtra,4952.13,5685
+2025-12-23,Gram,Karnataka,5682.16,4640
+2025-12-23,Gram,Uttar Pradesh,5701.98,4797
+2025-12-23,Gram,Delhi,6811.94,4879
+2025-12-23,Tur,Maharashtra,7513.3,5872
+2025-12-23,Tur,Karnataka,8126.1,4804
+2025-12-23,Tur,Uttar Pradesh,8242.28,4263
+2025-12-23,Tur,Delhi,10065.12,3541
+2025-12-24,Onion,Maharashtra,1096.25,7771
+2025-12-24,Onion,Karnataka,1046.68,9332
+2025-12-24,Onion,Uttar Pradesh,1084.4,4732
+2025-12-24,Onion,Delhi,1645.37,5791
+2025-12-24,Potato,Maharashtra,1036.86,5685
+2025-12-24,Potato,Karnataka,1047.49,3926
+2025-12-24,Potato,Uttar Pradesh,1108.83,3929
+2025-12-24,Potato,Delhi,1447.66,3529
+2025-12-24,Tomato,Maharashtra,974.95,7426
+2025-12-24,Tomato,Karnataka,1285.97,6671
+2025-12-24,Tomato,Uttar Pradesh,1102.28,7490
+2025-12-24,Tomato,Delhi,1632.39,5134
+2025-12-24,Gram,Maharashtra,4795.94,5813
+2025-12-24,Gram,Karnataka,4729.57,3781
+2025-12-24,Gram,Uttar Pradesh,5260.54,4786
+2025-12-24,Gram,Delhi,6998.82,5180
+2025-12-24,Tur,Maharashtra,7529.79,4888
+2025-12-24,Tur,Karnataka,7532.16,3825
+2025-12-24,Tur,Uttar Pradesh,7929.27,4283
+2025-12-24,Tur,Delhi,10067.22,3034
+2025-12-25,Onion,Maharashtra,1147.51,9073
+2025-12-25,Onion,Karnataka,1132.42,7107
+2025-12-25,Onion,Uttar Pradesh,1288.58,5748
+2025-12-25,Onion,Delhi,1534.09,5012
+2025-12-25,Potato,Maharashtra,1000.4,4269
+2025-12-25,Potato,Karnataka,1050.48,5261
+2025-12-25,Potato,Uttar Pradesh,1205.54,5417
+2025-12-25,Potato,Delhi,1530.67,3078
+2025-12-25,Tomato,Maharashtra,1315.27,8227
+2025-12-25,Tomato,Karnataka,1642.14,6303
+2025-12-25,Tomato,Uttar Pradesh,1099.62,6286
+2025-12-25,Tomato,Delhi,1159.67,5113
+2025-12-25,Gram,Maharashtra,4696.45,5722
+2025-12-25,Gram,Karnataka,5357.44,7238
+2025-12-25,Gram,Uttar Pradesh,5846.15,4423
+2025-12-25,Gram,Delhi,6577.43,4393
+2025-12-25,Tur,Maharashtra,6551.72,6900
+2025-12-25,Tur,Karnataka,8073.56,4335
+2025-12-25,Tur,Uttar Pradesh,7168.89,5776
+2025-12-25,Tur,Delhi,9873.21,4536
+2025-12-26,Onion,Maharashtra,894.43,6111
+2025-12-26,Onion,Karnataka,1146.71,6640
+2025-12-26,Onion,Uttar Pradesh,1152.39,7028
+2025-12-26,Onion,Delhi,1379.89,4857
+2025-12-26,Potato,Maharashtra,1002.38,5570
+2025-12-26,Potato,Karnataka,1098.99,3708
+2025-12-26,Potato,Uttar Pradesh,997.01,5706
+2025-12-26,Potato,Delhi,1403.76,3092
+2025-12-26,Tomato,Maharashtra,1451.79,8120
+2025-12-26,Tomato,Karnataka,1440.84,7620
+2025-12-26,Tomato,Uttar Pradesh,1680.55,9650
+2025-12-26,Tomato,Delhi,1535.71,6824
+2025-12-26,Gram,Maharashtra,5189.38,7076
+2025-12-26,Gram,Karnataka,4901.53,5985
+2025-12-26,Gram,Uttar Pradesh,5885.45,3241
+2025-12-26,Gram,Delhi,6479.61,2368
+2025-12-26,Tur,Maharashtra,7026.57,5775
+2025-12-26,Tur,Karnataka,8220.96,4855
+2025-12-26,Tur,Uttar Pradesh,8674.88,3290
+2025-12-26,Tur,Delhi,9160.98,3595
+2025-12-27,Onion,Maharashtra,1132.42,6899
+2025-12-27,Onion,Karnataka,898.59,6461
+2025-12-27,Onion,Uttar Pradesh,1050.5,7087
+2025-12-27,Onion,Delhi,1552.79,4060
+2025-12-27,Potato,Maharashtra,958.39,3980
+2025-12-27,Potato,Karnataka,1045.21,5698
+2025-12-27,Potato,Uttar Pradesh,1035.84,5003
+2025-12-27,Potato,Delhi,1343.93,3059
+2025-12-27,Tomato,Maharashtra,1120.91,6293
+2025-12-27,Tomato,Karnataka,1095.05,5717
+2025-12-27,Tomato,Uttar Pradesh,1662.19,7193
+2025-12-27,Tomato,Delhi,1446.6,5958
+2025-12-27,Gram,Maharashtra,4925.54,5310
+2025-12-27,Gram,Karnataka,5455.63,6060
+2025-12-27,Gram,Uttar Pradesh,5330.82,4424
+2025-12-27,Gram,Delhi,6799.36,2158
+2025-12-27,Tur,Maharashtra,6467.94,6431
+2025-12-27,Tur,Karnataka,8287.23,4546
+2025-12-27,Tur,Uttar Pradesh,8203.65,4828
+2025-12-27,Tur,Delhi,11315.75,4450
+2025-12-28,Onion,Maharashtra,1071.56,5617
+2025-12-28,Onion,Karnataka,954.52,6846
+2025-12-28,Onion,Uttar Pradesh,1116.92,4472
+2025-12-28,Onion,Delhi,1432.01,3918
+2025-12-28,Potato,Maharashtra,1112.85,5941
+2025-12-28,Potato,Karnataka,1049.46,6200
+2025-12-28,Potato,Uttar Pradesh,1110.7,3762
+2025-12-28,Potato,Delhi,1488.22,4028
+2025-12-28,Tomato,Maharashtra,935.62,7634
+2025-12-28,Tomato,Karnataka,1031.45,5439
+2025-12-28,Tomato,Uttar Pradesh,1455.32,9870
+2025-12-28,Tomato,Delhi,1307.89,6357
+2025-12-28,Gram,Maharashtra,4738.48,5014
+2025-12-28,Gram,Karnataka,5034.76,4353
+2025-12-28,Gram,Uttar Pradesh,5534.98,4169
+2025-12-28,Gram,Delhi,6992.16,3959
+2025-12-28,Tur,Maharashtra,7044.23,4133
+2025-12-28,Tur,Karnataka,7289.53,5507
+2025-12-28,Tur,Uttar Pradesh,8171.81,3656
+2025-12-28,Tur,Delhi,9977.7,4182
+2025-12-29,Onion,Maharashtra,887.16,7699
+2025-12-29,Onion,Karnataka,1068.39,7329
+2025-12-29,Onion,Uttar Pradesh,1116.73,3993
+2025-12-29,Onion,Delhi,1315.09,5048
+2025-12-29,Potato,Maharashtra,1013.33,4137
+2025-12-29,Potato,Karnataka,1095.14,3194
+2025-12-29,Potato,Uttar Pradesh,1101.09,3444
+2025-12-29,Potato,Delhi,1336.52,3670
+2025-12-29,Tomato,Maharashtra,971.75,7326
+2025-12-29,Tomato,Karnataka,1408.63,6651
+2025-12-29,Tomato,Uttar Pradesh,1438.06,5528
+2025-12-29,Tomato,Delhi,1694.61,7361
+2025-12-29,Gram,Maharashtra,4102.47,4670
+2025-12-29,Gram,Karnataka,5445.5,5049
+2025-12-29,Gram,Uttar Pradesh,5649.4,4396
+2025-12-29,Gram,Delhi,6929.68,3875
+2025-12-29,Tur,Maharashtra,7679.24,5307
+2025-12-29,Tur,Karnataka,7703.09,4390
+2025-12-29,Tur,Uttar Pradesh,7729.18,4152
+2025-12-29,Tur,Delhi,10113.25,3330
+2025-12-30,Onion,Maharashtra,1122.84,9826
+2025-12-30,Onion,Karnataka,1253.05,6149
+2025-12-30,Onion,Uttar Pradesh,1353.11,5739
+2025-12-30,Onion,Delhi,1266.63,3991
+2025-12-30,Potato,Maharashtra,864.59,4695
+2025-12-30,Potato,Karnataka,1052.14,6388
+2025-12-30,Potato,Uttar Pradesh,1129.04,4346
+2025-12-30,Potato,Delhi,1440.76,2028
+2025-12-30,Tomato,Maharashtra,1191.71,9160
+2025-12-30,Tomato,Karnataka,912.45,9238
+2025-12-30,Tomato,Uttar Pradesh,1339.46,6549
+2025-12-30,Tomato,Delhi,1716.26,8309
+2025-12-30,Gram,Maharashtra,5032.55,5831
+2025-12-30,Gram,Karnataka,5084.17,4368
+2025-12-30,Gram,Uttar Pradesh,5811.62,4143
+2025-12-30,Gram,Delhi,6926.3,3617
+2025-12-30,Tur,Maharashtra,7371.26,5387
+2025-12-30,Tur,Karnataka,8020.15,4296
+2025-12-30,Tur,Uttar Pradesh,7829.36,3655
+2025-12-30,Tur,Delhi,9738.57,3910
+2025-12-31,Onion,Maharashtra,1179.48,5663
+2025-12-31,Onion,Karnataka,1253.47,8362
+2025-12-31,Onion,Uttar Pradesh,1259.21,8595
+2025-12-31,Onion,Delhi,1419.15,3755
+2025-12-31,Potato,Maharashtra,871.43,6561
+2025-12-31,Potato,Karnataka,1097.08,4731
+2025-12-31,Potato,Uttar Pradesh,1126.2,3522
+2025-12-31,Potato,Delhi,1554.45,3730
+2025-12-31,Tomato,Maharashtra,1167.22,9088
+2025-12-31,Tomato,Karnataka,1305.17,7855
+2025-12-31,Tomato,Uttar Pradesh,1114.51,7816
+2025-12-31,Tomato,Delhi,1967.15,7251
+2025-12-31,Gram,Maharashtra,5527.87,4987
+2025-12-31,Gram,Karnataka,4900.01,5130
+2025-12-31,Gram,Uttar Pradesh,5542.0,6094
+2025-12-31,Gram,Delhi,6310.76,5223
+2025-12-31,Tur,Maharashtra,7086.6,4619
+2025-12-31,Tur,Karnataka,7099.9,3201
+2025-12-31,Tur,Uttar Pradesh,8323.43,4612
+2025-12-31,Tur,Delhi,9360.77,2694
+2026-01-01,Onion,Maharashtra,1048.92,9262
+2026-01-01,Onion,Karnataka,1118.58,4601
+2026-01-01,Onion,Uttar Pradesh,1180.75,5909
+2026-01-01,Onion,Delhi,1189.17,4945
+2026-01-01,Potato,Maharashtra,617.87,9041
+2026-01-01,Potato,Karnataka,798.68,9212
+2026-01-01,Potato,Uttar Pradesh,685.66,5562
+2026-01-01,Potato,Delhi,1060.74,5781
+2026-01-01,Tomato,Maharashtra,1312.61,6910
+2026-01-01,Tomato,Karnataka,1422.21,6388
+2026-01-01,Tomato,Uttar Pradesh,1340.63,5566
+2026-01-01,Tomato,Delhi,1812.65,4456
+2026-01-01,Gram,Maharashtra,4722.1,5673
+2026-01-01,Gram,Karnataka,5158.56,6846
+2026-01-01,Gram,Uttar Pradesh,4596.16,6091
+2026-01-01,Gram,Delhi,7341.13,2341
+2026-01-01,Tur,Maharashtra,5703.71,5714
+2026-01-01,Tur,Karnataka,5549.98,4938
+2026-01-01,Tur,Uttar Pradesh,6009.04,7502
+2026-01-01,Tur,Delhi,8557.06,5574
+2026-01-02,Onion,Maharashtra,1176.39,5376
+2026-01-02,Onion,Karnataka,1087.39,7222
+2026-01-02,Onion,Uttar Pradesh,1064.22,7141
+2026-01-02,Onion,Delhi,1484.76,4625
+2026-01-02,Potato,Maharashtra,684.05,8641
+2026-01-02,Potato,Karnataka,644.25,9262
+2026-01-02,Potato,Uttar Pradesh,629.09,8022
+2026-01-02,Potato,Delhi,922.47,5360
+2026-01-02,Tomato,Maharashtra,1375.91,5206
+2026-01-02,Tomato,Karnataka,1568.31,6335
+2026-01-02,Tomato,Uttar Pradesh,1351.78,7561
+2026-01-02,Tomato,Delhi,1679.53,3591
+2026-01-02,Gram,Maharashtra,4428.13,6228
+2026-01-02,Gram,Karnataka,4801.07,7110
+2026-01-02,Gram,Uttar Pradesh,4796.82,6696
+2026-01-02,Gram,Delhi,6980.73,3922
+2026-01-02,Tur,Maharashtra,5614.33,6665
+2026-01-02,Tur,Karnataka,6168.13,7138
+2026-01-02,Tur,Uttar Pradesh,6562.0,5722
+2026-01-02,Tur,Delhi,7974.62,4393
+2026-01-03,Onion,Maharashtra,1127.3,4569
+2026-01-03,Onion,Karnataka,989.16,7556
+2026-01-03,Onion,Uttar Pradesh,1232.02,6020
+2026-01-03,Onion,Delhi,1516.61,5347
+2026-01-03,Potato,Maharashtra,596.75,6701
+2026-01-03,Potato,Karnataka,683.5,6047
+2026-01-03,Potato,Uttar Pradesh,733.62,4710
+2026-01-03,Potato,Delhi,953.34,6254
+2026-01-03,Tomato,Maharashtra,1362.76,8309
+2026-01-03,Tomato,Karnataka,1717.51,7913
+2026-01-03,Tomato,Uttar Pradesh,1089.11,4650
+2026-01-03,Tomato,Delhi,1696.64,5026
+2026-01-03,Gram,Maharashtra,5155.48,4749
+2026-01-03,Gram,Karnataka,5316.02,4468
+2026-01-03,Gram,Uttar Pradesh,5312.97,3593
+2026-01-03,Gram,Delhi,6585.62,2918
+2026-01-03,Tur,Maharashtra,5422.02,7473
+2026-01-03,Tur,Karnataka,5759.55,8926
+2026-01-03,Tur,Uttar Pradesh,6734.39,5760
+2026-01-03,Tur,Delhi,7754.24,5066
+2026-01-04,Onion,Maharashtra,1021.87,7113
+2026-01-04,Onion,Karnataka,1458.76,6452
+2026-01-04,Onion,Uttar Pradesh,1350.07,5371
+2026-01-04,Onion,Delhi,1511.0,6770
+2026-01-04,Potato,Maharashtra,590.9,10813
+2026-01-04,Potato,Karnataka,719.6,6672
+2026-01-04,Potato,Uttar Pradesh,749.59,8532
+2026-01-04,Potato,Delhi,925.18,3919
+2026-01-04,Tomato,Maharashtra,1166.99,6600
+2026-01-04,Tomato,Karnataka,1370.44,7395
+2026-01-04,Tomato,Uttar Pradesh,1493.78,4580
+2026-01-04,Tomato,Delhi,1898.84,5610
+2026-01-04,Gram,Maharashtra,5171.58,6756
+2026-01-04,Gram,Karnataka,5543.95,5746
+2026-01-04,Gram,Uttar Pradesh,5503.94,3339
+2026-01-04,Gram,Delhi,7060.99,4166
+2026-01-04,Tur,Maharashtra,5984.99,4596
+2026-01-04,Tur,Karnataka,5702.01,7079
+2026-01-04,Tur,Uttar Pradesh,6496.4,6312
+2026-01-04,Tur,Delhi,8155.49,4470
+2026-01-05,Onion,Maharashtra,1204.11,6227
+2026-01-05,Onion,Karnataka,1163.69,5970
+2026-01-05,Onion,Uttar Pradesh,1160.66,5863
+2026-01-05,Onion,Delhi,1542.66,4521
+2026-01-05,Potato,Maharashtra,722.94,6516
+2026-01-05,Potato,Karnataka,657.24,6857
+2026-01-05,Potato,Uttar Pradesh,806.89,7423
+2026-01-05,Potato,Delhi,954.23,4016
+2026-01-05,Tomato,Maharashtra,1366.69,8180
+2026-01-05,Tomato,Karnataka,1402.7,7980
+2026-01-05,Tomato,Uttar Pradesh,1355.74,8011
+2026-01-05,Tomato,Delhi,2283.78,4637
+2026-01-05,Gram,Maharashtra,4821.07,7170
+2026-01-05,Gram,Karnataka,5806.35,4712
+2026-01-05,Gram,Uttar Pradesh,5382.93,4718
+2026-01-05,Gram,Delhi,6441.94,3265
+2026-01-05,Tur,Maharashtra,5412.54,5224
+2026-01-05,Tur,Karnataka,6174.59,6121
+2026-01-05,Tur,Uttar Pradesh,7213.73,4446
+2026-01-05,Tur,Delhi,8587.95,4254
+2026-01-06,Onion,Maharashtra,1086.16,7881
+2026-01-06,Onion,Karnataka,1018.04,7082
+2026-01-06,Onion,Uttar Pradesh,1233.41,6865
+2026-01-06,Onion,Delhi,1551.5,7455
+2026-01-06,Potato,Maharashtra,590.65,7093
+2026-01-06,Potato,Karnataka,626.97,6683
+2026-01-06,Potato,Uttar Pradesh,661.26,8841
+2026-01-06,Potato,Delhi,981.79,5062
+2026-01-06,Tomato,Maharashtra,1147.67,7599
+2026-01-06,Tomato,Karnataka,1276.71,7411
+2026-01-06,Tomato,Uttar Pradesh,1500.74,4355
+2026-01-06,Tomato,Delhi,2134.7,6795
+2026-01-06,Gram,Maharashtra,4763.87,5124
+2026-01-06,Gram,Karnataka,5354.98,5615
+2026-01-06,Gram,Uttar Pradesh,5761.99,7010
+2026-01-06,Gram,Delhi,6852.44,3361
+2026-01-06,Tur,Maharashtra,5245.33,5270
+2026-01-06,Tur,Karnataka,6177.0,7946
+2026-01-06,Tur,Uttar Pradesh,6284.87,5804
+2026-01-06,Tur,Delhi,8139.86,5500
+2026-01-07,Onion,Maharashtra,1395.9,6207
+2026-01-07,Onion,Karnataka,1094.64,7952
+2026-01-07,Onion,Uttar Pradesh,1295.91,8558
+2026-01-07,Onion,Delhi,1587.67,4640
+2026-01-07,Potato,Maharashtra,676.89,9696
+2026-01-07,Potato,Karnataka,728.29,8281
+2026-01-07,Potato,Uttar Pradesh,780.83,8813
+2026-01-07,Potato,Delhi,979.45,6455
+2026-01-07,Tomato,Maharashtra,1281.58,7148
+2026-01-07,Tomato,Karnataka,1629.37,5504
+2026-01-07,Tomato,Uttar Pradesh,1534.85,5758
+2026-01-07,Tomato,Delhi,1832.15,6278
+2026-01-07,Gram,Maharashtra,5046.58,5607
+2026-01-07,Gram,Karnataka,4780.4,6048
+2026-01-07,Gram,Uttar Pradesh,5758.92,7163
+2026-01-07,Gram,Delhi,6808.53,4175
+2026-01-07,Tur,Maharashtra,5979.86,8120
+2026-01-07,Tur,Karnataka,6150.74,6174
+2026-01-07,Tur,Uttar Pradesh,6793.15,5762
+2026-01-07,Tur,Delhi,7948.6,4616
+2026-01-08,Onion,Maharashtra,1222.08,5518
+2026-01-08,Onion,Karnataka,1169.94,5657
+2026-01-08,Onion,Uttar Pradesh,1358.13,4346
+2026-01-08,Onion,Delhi,1451.33,5377
+2026-01-08,Potato,Maharashtra,745.38,7832
+2026-01-08,Potato,Karnataka,632.25,10347
+2026-01-08,Potato,Uttar Pradesh,605.08,4001
+2026-01-08,Potato,Delhi,913.85,5140
+2026-01-08,Tomato,Maharashtra,1111.63,7928
+2026-01-08,Tomato,Karnataka,1437.74,5836
+2026-01-08,Tomato,Uttar Pradesh,1206.02,7340
+2026-01-08,Tomato,Delhi,1957.64,4900
+2026-01-08,Gram,Maharashtra,5627.37,4366
+2026-01-08,Gram,Karnataka,4723.84,4534
+2026-01-08,Gram,Uttar Pradesh,5518.54,5243
+2026-01-08,Gram,Delhi,6833.69,4281
+2026-01-08,Tur,Maharashtra,5306.07,7955
+2026-01-08,Tur,Karnataka,6158.36,7154
+2026-01-08,Tur,Uttar Pradesh,6675.63,6063
+2026-01-08,Tur,Delhi,8408.15,4842
+2026-01-09,Onion,Maharashtra,1170.95,8790
+2026-01-09,Onion,Karnataka,1178.17,7511
+2026-01-09,Onion,Uttar Pradesh,1204.59,8050
+2026-01-09,Onion,Delhi,1438.03,6800
+2026-01-09,Potato,Maharashtra,633.24,5665
+2026-01-09,Potato,Karnataka,680.35,6494
+2026-01-09,Potato,Uttar Pradesh,765.57,6210
+2026-01-09,Potato,Delhi,852.17,3554
+2026-01-09,Tomato,Maharashtra,1226.27,3577
+2026-01-09,Tomato,Karnataka,1073.11,7579
+2026-01-09,Tomato,Uttar Pradesh,1620.2,6781
+2026-01-09,Tomato,Delhi,1635.4,4952
+2026-01-09,Gram,Maharashtra,4981.14,4268
+2026-01-09,Gram,Karnataka,5785.39,6186
+2026-01-09,Gram,Uttar Pradesh,5458.66,5026
+2026-01-09,Gram,Delhi,6992.93,2366
+2026-01-09,Tur,Maharashtra,5759.65,5330
+2026-01-09,Tur,Karnataka,5746.31,5519
+2026-01-09,Tur,Uttar Pradesh,7332.16,6267
+2026-01-09,Tur,Delhi,7896.97,4953
+2026-01-10,Onion,Maharashtra,1262.32,8228
+2026-01-10,Onion,Karnataka,1162.36,5727
+2026-01-10,Onion,Uttar Pradesh,1299.79,6741
+2026-01-10,Onion,Delhi,1627.42,5635
+2026-01-10,Potato,Maharashtra,709.77,7086
+2026-01-10,Potato,Karnataka,763.87,7815
+2026-01-10,Potato,Uttar Pradesh,852.27,6158
+2026-01-10,Potato,Delhi,1005.27,5940
+2026-01-10,Tomato,Maharashtra,1187.32,6272
+2026-01-10,Tomato,Karnataka,1326.73,7137
+2026-01-10,Tomato,Uttar Pradesh,1568.57,5532
+2026-01-10,Tomato,Delhi,1825.13,7142
+2026-01-10,Gram,Maharashtra,5588.39,6040
+2026-01-10,Gram,Karnataka,5273.93,5389
+2026-01-10,Gram,Uttar Pradesh,5752.23,3977
+2026-01-10,Gram,Delhi,6831.79,2665
+2026-01-10,Tur,Maharashtra,6052.15,6971
+2026-01-10,Tur,Karnataka,5981.32,7688
+2026-01-10,Tur,Uttar Pradesh,5973.41,3928
+2026-01-10,Tur,Delhi,8257.25,5375
+2026-01-11,Onion,Maharashtra,1297.05,6307
+2026-01-11,Onion,Karnataka,1285.25,6528
+2026-01-11,Onion,Uttar Pradesh,1195.92,7354
+2026-01-11,Onion,Delhi,1599.08,3423
+2026-01-11,Potato,Maharashtra,739.91,10127
+2026-01-11,Potato,Karnataka,628.13,8113
+2026-01-11,Potato,Uttar Pradesh,741.86,7515
+2026-01-11,Potato,Delhi,845.58,4946
+2026-01-11,Tomato,Maharashtra,1313.35,8573
+2026-01-11,Tomato,Karnataka,1500.43,6091
+2026-01-11,Tomato,Uttar Pradesh,1619.3,2689
+2026-01-11,Tomato,Delhi,2060.95,3260
+2026-01-11,Gram,Maharashtra,4858.25,4311
+2026-01-11,Gram,Karnataka,4808.91,6485
+2026-01-11,Gram,Uttar Pradesh,5375.3,5346
+2026-01-11,Gram,Delhi,6907.33,4381
+2026-01-11,Tur,Maharashtra,5908.69,4588
+2026-01-11,Tur,Karnataka,6648.78,5270
+2026-01-11,Tur,Uttar Pradesh,5826.34,5079
+2026-01-11,Tur,Delhi,8833.84,5200
+2026-01-12,Onion,Maharashtra,1053.71,6459
+2026-01-12,Onion,Karnataka,1117.82,9311
+2026-01-12,Onion,Uttar Pradesh,1263.11,6787
+2026-01-12,Onion,Delhi,1645.23,5238
+2026-01-12,Potato,Maharashtra,618.67,7624
+2026-01-12,Potato,Karnataka,667.17,7462
+2026-01-12,Potato,Uttar Pradesh,758.49,7217
+2026-01-12,Potato,Delhi,935.73,5622
+2026-01-12,Tomato,Maharashtra,1335.06,4169
+2026-01-12,Tomato,Karnataka,1575.89,7034
+2026-01-12,Tomato,Uttar Pradesh,1665.52,2629
+2026-01-12,Tomato,Delhi,2250.07,4860
+2026-01-12,Gram,Maharashtra,5374.31,4400
+2026-01-12,Gram,Karnataka,5477.95,4154
+2026-01-12,Gram,Uttar Pradesh,5322.18,6914
+2026-01-12,Gram,Delhi,6858.89,4173
+2026-01-12,Tur,Maharashtra,6267.27,6784
+2026-01-12,Tur,Karnataka,6269.86,6274
+2026-01-12,Tur,Uttar Pradesh,7610.14,5491
+2026-01-12,Tur,Delhi,8251.24,5378
+2026-01-13,Onion,Maharashtra,1228.79,8593
+2026-01-13,Onion,Karnataka,1233.67,5074
+2026-01-13,Onion,Uttar Pradesh,1413.93,4817
+2026-01-13,Onion,Delhi,1558.72,4245
+2026-01-13,Potato,Maharashtra,632.57,8458
+2026-01-13,Potato,Karnataka,694.94,8153
+2026-01-13,Potato,Uttar Pradesh,820.8,7790
+2026-01-13,Potato,Delhi,867.71,6816
+2026-01-13,Tomato,Maharashtra,1558.09,5239
+2026-01-13,Tomato,Karnataka,1513.02,7501
+2026-01-13,Tomato,Uttar Pradesh,1407.37,7969
+2026-01-13,Tomato,Delhi,1803.59,5125
+2026-01-13,Gram,Maharashtra,4927.22,5572
+2026-01-13,Gram,Karnataka,4881.2,3747
+2026-01-13,Gram,Uttar Pradesh,6100.08,4153
+2026-01-13,Gram,Delhi,6580.51,2277
+2026-01-13,Tur,Maharashtra,5589.83,4539
+2026-01-13,Tur,Karnataka,6942.79,7029
+2026-01-13,Tur,Uttar Pradesh,6220.73,8058
+2026-01-13,Tur,Delhi,8604.79,4155
+2026-01-14,Onion,Maharashtra,796.78,10126
+2026-01-14,Onion,Karnataka,990.88,4413
+2026-01-14,Onion,Uttar Pradesh,1341.27,9299
+2026-01-14,Onion,Delhi,1689.31,5563
+2026-01-14,Potato,Maharashtra,678.94,9291
+2026-01-14,Potato,Karnataka,725.84,7941
+2026-01-14,Potato,Uttar Pradesh,715.41,7053
+2026-01-14,Potato,Delhi,832.37,5393
+2026-01-14,Tomato,Maharashtra,982.46,6807
+2026-01-14,Tomato,Karnataka,1196.73,5126
+2026-01-14,Tomato,Uttar Pradesh,1503.82,7990
+2026-01-14,Tomato,Delhi,2018.46,3429
+2026-01-14,Gram,Maharashtra,4642.78,6600
+2026-01-14,Gram,Karnataka,4922.45,5026
+2026-01-14,Gram,Uttar Pradesh,5736.02,4031
+2026-01-14,Gram,Delhi,6966.26,2932
+2026-01-14,Tur,Maharashtra,5608.36,6567
+2026-01-14,Tur,Karnataka,5488.74,6363
+2026-01-14,Tur,Uttar Pradesh,6523.36,6169
+2026-01-14,Tur,Delhi,8266.01,5657
+2026-01-15,Onion,Maharashtra,1112.31,6348
+2026-01-15,Onion,Karnataka,1172.92,7293
+2026-01-15,Onion,Uttar Pradesh,1225.06,6300
+2026-01-15,Onion,Delhi,1439.76,4337
+2026-01-15,Potato,Maharashtra,539.38,10713
+2026-01-15,Potato,Karnataka,585.91,6476
+2026-01-15,Potato,Uttar Pradesh,658.11,8421
+2026-01-15,Potato,Delhi,864.85,7140
+2026-01-15,Tomato,Maharashtra,1187.22,7331
+2026-01-15,Tomato,Karnataka,1228.29,9401
+2026-01-15,Tomato,Uttar Pradesh,1231.28,6637
+2026-01-15,Tomato,Delhi,1962.76,5413
+2026-01-15,Gram,Maharashtra,4925.65,5411
+2026-01-15,Gram,Karnataka,5283.08,5108
+2026-01-15,Gram,Uttar Pradesh,5882.36,7210
+2026-01-15,Gram,Delhi,6736.13,2904
+2026-01-15,Tur,Maharashtra,5840.87,9357
+2026-01-15,Tur,Karnataka,5845.65,7765
+2026-01-15,Tur,Uttar Pradesh,7288.97,4940
+2026-01-15,Tur,Delhi,8423.54,5891
+2026-01-16,Onion,Maharashtra,1052.36,6661
+2026-01-16,Onion,Karnataka,1089.05,5243
+2026-01-16,Onion,Uttar Pradesh,1141.93,4720
+2026-01-16,Onion,Delhi,1528.89,4230
+2026-01-16,Potato,Maharashtra,654.18,5466
+2026-01-16,Potato,Karnataka,696.41,8772
+2026-01-16,Potato,Uttar Pradesh,569.12,7677
+2026-01-16,Potato,Delhi,971.79,4331
+2026-01-16,Tomato,Maharashtra,1657.3,7526
+2026-01-16,Tomato,Karnataka,1255.27,6505
+2026-01-16,Tomato,Uttar Pradesh,1581.43,6345
+2026-01-16,Tomato,Delhi,1944.95,4079
+2026-01-16,Gram,Maharashtra,5051.13,3984
+2026-01-16,Gram,Karnataka,5230.25,4311
+2026-01-16,Gram,Uttar Pradesh,5289.06,6236
+2026-01-16,Gram,Delhi,7315.08,4487
+2026-01-16,Tur,Maharashtra,5390.68,5782
+2026-01-16,Tur,Karnataka,6754.9,6013
+2026-01-16,Tur,Uttar Pradesh,7579.5,5992
+2026-01-16,Tur,Delhi,8256.17,4169
+2026-01-17,Onion,Maharashtra,1114.46,6732
+2026-01-17,Onion,Karnataka,1244.43,7837
+2026-01-17,Onion,Uttar Pradesh,1126.16,4585
+2026-01-17,Onion,Delhi,1305.26,5507
+2026-01-17,Potato,Maharashtra,560.83,4519
+2026-01-17,Potato,Karnataka,700.71,11267
+2026-01-17,Potato,Uttar Pradesh,708.54,8340
+2026-01-17,Potato,Delhi,891.93,5601
+2026-01-17,Tomato,Maharashtra,1507.46,6541
+2026-01-17,Tomato,Karnataka,1450.66,7002
+2026-01-17,Tomato,Uttar Pradesh,1337.1,7490
+2026-01-17,Tomato,Delhi,1803.41,4244
+2026-01-17,Gram,Maharashtra,5180.98,4557
+2026-01-17,Gram,Karnataka,5280.46,5253
+2026-01-17,Gram,Uttar Pradesh,5928.06,5474
+2026-01-17,Gram,Delhi,6926.24,4654
+2026-01-17,Tur,Maharashtra,6509.43,6861
+2026-01-17,Tur,Karnataka,6215.38,4313
+2026-01-17,Tur,Uttar Pradesh,6058.3,5216
+2026-01-17,Tur,Delhi,7897.72,4278
+2026-01-18,Onion,Maharashtra,1105.81,7680
+2026-01-18,Onion,Karnataka,1151.6,7219
+2026-01-18,Onion,Uttar Pradesh,1228.86,3780
+2026-01-18,Onion,Delhi,1413.68,4855
+2026-01-18,Potato,Maharashtra,553.64,8888
+2026-01-18,Potato,Karnataka,780.93,9351
+2026-01-18,Potato,Uttar Pradesh,694.3,9272
+2026-01-18,Potato,Delhi,896.96,5329
+2026-01-18,Tomato,Maharashtra,1201.83,6524
+2026-01-18,Tomato,Karnataka,1320.46,6803
+2026-01-18,Tomato,Uttar Pradesh,1503.79,6253
+2026-01-18,Tomato,Delhi,1926.99,6190
+2026-01-18,Gram,Maharashtra,5326.89,3905
+2026-01-18,Gram,Karnataka,4378.15,6246
+2026-01-18,Gram,Uttar Pradesh,5071.09,4775
+2026-01-18,Gram,Delhi,6527.34,2558
+2026-01-18,Tur,Maharashtra,6129.12,7110
+2026-01-18,Tur,Karnataka,5953.0,2817
+2026-01-18,Tur,Uttar Pradesh,6293.59,5990
+2026-01-18,Tur,Delhi,7508.74,4607
+2026-01-19,Onion,Maharashtra,1097.75,7749
+2026-01-19,Onion,Karnataka,1175.02,5298
+2026-01-19,Onion,Uttar Pradesh,1365.35,6051
+2026-01-19,Onion,Delhi,1523.92,4066
+2026-01-19,Potato,Maharashtra,607.54,6532
+2026-01-19,Potato,Karnataka,661.94,10092
+2026-01-19,Potato,Uttar Pradesh,613.49,4837
+2026-01-19,Potato,Delhi,989.88,5475
+2026-01-19,Tomato,Maharashtra,1191.56,8388
+2026-01-19,Tomato,Karnataka,1277.88,8981
+2026-01-19,Tomato,Uttar Pradesh,1608.23,5640
+2026-01-19,Tomato,Delhi,2272.26,4394
+2026-01-19,Gram,Maharashtra,5255.63,5888
+2026-01-19,Gram,Karnataka,5729.06,6906
+2026-01-19,Gram,Uttar Pradesh,5562.2,4246
+2026-01-19,Gram,Delhi,7099.74,3457
+2026-01-19,Tur,Maharashtra,6793.1,6341
+2026-01-19,Tur,Karnataka,6049.75,6063
+2026-01-19,Tur,Uttar Pradesh,5934.99,4475
+2026-01-19,Tur,Delhi,8716.69,3860
+2026-01-20,Onion,Maharashtra,974.53,7689
+2026-01-20,Onion,Karnataka,1303.56,7524
+2026-01-20,Onion,Uttar Pradesh,1341.93,5304
+2026-01-20,Onion,Delhi,1357.38,6501
+2026-01-20,Potato,Maharashtra,616.23,7538
+2026-01-20,Potato,Karnataka,767.28,8355
+2026-01-20,Potato,Uttar Pradesh,741.71,10235
+2026-01-20,Potato,Delhi,842.2,6774
+2026-01-20,Tomato,Maharashtra,1337.64,7317
+2026-01-20,Tomato,Karnataka,1705.61,7247
+2026-01-20,Tomato,Uttar Pradesh,1581.26,7590
+2026-01-20,Tomato,Delhi,1769.01,4160
+2026-01-20,Gram,Maharashtra,4631.57,3370
+2026-01-20,Gram,Karnataka,5994.55,4101
+2026-01-20,Gram,Uttar Pradesh,5475.06,4723
+2026-01-20,Gram,Delhi,7048.22,4652
+2026-01-20,Tur,Maharashtra,6275.91,5452
+2026-01-20,Tur,Karnataka,6140.65,6178
+2026-01-20,Tur,Uttar Pradesh,6431.09,7341
+2026-01-20,Tur,Delhi,8399.69,5097
+2026-01-21,Onion,Maharashtra,1180.28,8574
+2026-01-21,Onion,Karnataka,1183.61,4872
+2026-01-21,Onion,Uttar Pradesh,1271.0,5435
+2026-01-21,Onion,Delhi,1465.37,5586
+2026-01-21,Potato,Maharashtra,725.75,7970
+2026-01-21,Potato,Karnataka,696.19,10078
+2026-01-21,Potato,Uttar Pradesh,726.93,10859
+2026-01-21,Potato,Delhi,927.19,3701
+2026-01-21,Tomato,Maharashtra,1477.77,7473
+2026-01-21,Tomato,Karnataka,1658.78,7464
+2026-01-21,Tomato,Uttar Pradesh,1446.87,4719
+2026-01-21,Tomato,Delhi,1801.4,4149
+2026-01-21,Gram,Maharashtra,4795.42,6209
+2026-01-21,Gram,Karnataka,5860.77,5678
+2026-01-21,Gram,Uttar Pradesh,5135.44,5444
+2026-01-21,Gram,Delhi,7361.32,3512
+2026-01-21,Tur,Maharashtra,5830.01,6190
+2026-01-21,Tur,Karnataka,5864.36,6606
+2026-01-21,Tur,Uttar Pradesh,6490.37,6021
+2026-01-21,Tur,Delhi,7781.63,4055
+2026-01-22,Onion,Maharashtra,1188.0,6426
+2026-01-22,Onion,Karnataka,1369.73,6053
+2026-01-22,Onion,Uttar Pradesh,1250.64,7415
+2026-01-22,Onion,Delhi,1359.4,3239
+2026-01-22,Potato,Maharashtra,532.53,9940
+2026-01-22,Potato,Karnataka,636.21,11365
+2026-01-22,Potato,Uttar Pradesh,670.86,7406
+2026-01-22,Potato,Delhi,995.9,8006
+2026-01-22,Tomato,Maharashtra,1740.27,8622
+2026-01-22,Tomato,Karnataka,1606.56,7358
+2026-01-22,Tomato,Uttar Pradesh,1631.19,5561
+2026-01-22,Tomato,Delhi,1680.76,4996
+2026-01-22,Gram,Maharashtra,4940.39,5051
+2026-01-22,Gram,Karnataka,5521.46,6268
+2026-01-22,Gram,Uttar Pradesh,5586.44,6477
+2026-01-22,Gram,Delhi,6544.78,3845
+2026-01-22,Tur,Maharashtra,5569.37,3868
+2026-01-22,Tur,Karnataka,6182.06,5705
+2026-01-22,Tur,Uttar Pradesh,7227.65,6256
+2026-01-22,Tur,Delhi,7722.37,6092
+2026-01-23,Onion,Maharashtra,1248.41,7752
+2026-01-23,Onion,Karnataka,1135.93,5316
+2026-01-23,Onion,Uttar Pradesh,1179.66,7610
+2026-01-23,Onion,Delhi,1756.55,6543
+2026-01-23,Potato,Maharashtra,605.36,6159
+2026-01-23,Potato,Karnataka,684.97,4859
+2026-01-23,Potato,Uttar Pradesh,733.26,6931
+2026-01-23,Potato,Delhi,855.68,3891
+2026-01-23,Tomato,Maharashtra,1431.55,6204
+2026-01-23,Tomato,Karnataka,1168.67,2799
+2026-01-23,Tomato,Uttar Pradesh,1470.98,8465
+2026-01-23,Tomato,Delhi,2177.85,4542
+2026-01-23,Gram,Maharashtra,4790.53,6076
+2026-01-23,Gram,Karnataka,4929.72,5580
+2026-01-23,Gram,Uttar Pradesh,5825.13,6226
+2026-01-23,Gram,Delhi,6911.2,3837
+2026-01-23,Tur,Maharashtra,5498.47,5151
+2026-01-23,Tur,Karnataka,6119.06,6277
+2026-01-23,Tur,Uttar Pradesh,6959.51,4663
+2026-01-23,Tur,Delhi,8857.21,4203
+2026-01-24,Onion,Maharashtra,1099.9,5906
+2026-01-24,Onion,Karnataka,872.8,7742
+2026-01-24,Onion,Uttar Pradesh,1313.38,5898
+2026-01-24,Onion,Delhi,1539.24,5515
+2026-01-24,Potato,Maharashtra,530.45,7096
+2026-01-24,Potato,Karnataka,730.97,5632
+2026-01-24,Potato,Uttar Pradesh,731.47,5204
+2026-01-24,Potato,Delhi,921.3,5673
+2026-01-24,Tomato,Maharashtra,1006.67,8562
+2026-01-24,Tomato,Karnataka,1256.65,5512
+2026-01-24,Tomato,Uttar Pradesh,1517.55,7685
+2026-01-24,Tomato,Delhi,1643.64,5061
+2026-01-24,Gram,Maharashtra,5152.74,6325
+2026-01-24,Gram,Karnataka,5342.33,4876
+2026-01-24,Gram,Uttar Pradesh,5268.84,5086
+2026-01-24,Gram,Delhi,6572.88,1662
+2026-01-24,Tur,Maharashtra,6091.63,7288
+2026-01-24,Tur,Karnataka,5159.37,4666
+2026-01-24,Tur,Uttar Pradesh,6828.82,7841
+2026-01-24,Tur,Delhi,8197.11,3797
+2026-01-25,Onion,Maharashtra,1081.09,8853
+2026-01-25,Onion,Karnataka,1086.8,5527
+2026-01-25,Onion,Uttar Pradesh,1167.67,5058
+2026-01-25,Onion,Delhi,1546.72,6624
+2026-01-25,Potato,Maharashtra,662.7,7535
+2026-01-25,Potato,Karnataka,655.21,5168
+2026-01-25,Potato,Uttar Pradesh,773.02,7031
+2026-01-25,Potato,Delhi,876.37,9363
+2026-01-25,Tomato,Maharashtra,1390.31,5900
+2026-01-25,Tomato,Karnataka,1319.21,8090
+2026-01-25,Tomato,Uttar Pradesh,1501.05,4452
+2026-01-25,Tomato,Delhi,2031.85,4331
+2026-01-25,Gram,Maharashtra,5659.65,6755
+2026-01-25,Gram,Karnataka,5125.44,6611
+2026-01-25,Gram,Uttar Pradesh,5583.75,5852
+2026-01-25,Gram,Delhi,7119.66,3322
+2026-01-25,Tur,Maharashtra,5607.2,7444
+2026-01-25,Tur,Karnataka,6073.75,5375
+2026-01-25,Tur,Uttar Pradesh,6122.19,6026
+2026-01-25,Tur,Delhi,9118.14,3495
+2026-01-26,Onion,Maharashtra,1106.52,8905
+2026-01-26,Onion,Karnataka,1155.37,7174
+2026-01-26,Onion,Uttar Pradesh,1098.75,6785
+2026-01-26,Onion,Delhi,1510.34,5985
+2026-01-26,Potato,Maharashtra,723.45,12046
+2026-01-26,Potato,Karnataka,716.48,8008
+2026-01-26,Potato,Uttar Pradesh,725.09,6638
+2026-01-26,Potato,Delhi,913.04,5376
+2026-01-26,Tomato,Maharashtra,1365.12,8774
+2026-01-26,Tomato,Karnataka,1204.08,8078
+2026-01-26,Tomato,Uttar Pradesh,1742.78,6102
+2026-01-26,Tomato,Delhi,1424.83,4392
+2026-01-26,Gram,Maharashtra,5459.3,5530
+2026-01-26,Gram,Karnataka,4933.67,4731
+2026-01-26,Gram,Uttar Pradesh,5855.72,5546
+2026-01-26,Gram,Delhi,6868.25,3706
+2026-01-26,Tur,Maharashtra,5722.13,5034
+2026-01-26,Tur,Karnataka,6953.03,5470
+2026-01-26,Tur,Uttar Pradesh,7101.52,7245
+2026-01-26,Tur,Delhi,8641.49,4060
+2026-01-27,Onion,Maharashtra,1152.64,6910
+2026-01-27,Onion,Karnataka,1057.09,7005
+2026-01-27,Onion,Uttar Pradesh,1085.4,7734
+2026-01-27,Onion,Delhi,1477.85,5201
+2026-01-27,Potato,Maharashtra,660.41,7525
+2026-01-27,Potato,Karnataka,717.24,6804
+2026-01-27,Potato,Uttar Pradesh,772.75,5220
+2026-01-27,Potato,Delhi,898.55,7930
+2026-01-27,Tomato,Maharashtra,1132.22,6003
+2026-01-27,Tomato,Karnataka,1509.09,6815
+2026-01-27,Tomato,Uttar Pradesh,1550.45,6861
+2026-01-27,Tomato,Delhi,1977.34,6109
+2026-01-27,Gram,Maharashtra,5150.14,5287
+2026-01-27,Gram,Karnataka,5520.25,7263
+2026-01-27,Gram,Uttar Pradesh,5516.58,4025
+2026-01-27,Gram,Delhi,7341.23,3903
+2026-01-27,Tur,Maharashtra,4922.34,7219
+2026-01-27,Tur,Karnataka,5986.92,5742
+2026-01-27,Tur,Uttar Pradesh,6704.99,5767
+2026-01-27,Tur,Delhi,8513.75,4057
+2026-01-28,Onion,Maharashtra,1166.34,6583
+2026-01-28,Onion,Karnataka,1254.8,7388
+2026-01-28,Onion,Uttar Pradesh,1115.27,7607
+2026-01-28,Onion,Delhi,1470.08,5808
+2026-01-28,Potato,Maharashtra,666.55,10854
+2026-01-28,Potato,Karnataka,660.8,6993
+2026-01-28,Potato,Uttar Pradesh,710.68,6709
+2026-01-28,Potato,Delhi,946.05,3867
+2026-01-28,Tomato,Maharashtra,1122.42,5461
+2026-01-28,Tomato,Karnataka,1597.28,8829
+2026-01-28,Tomato,Uttar Pradesh,1460.39,6038
+2026-01-28,Tomato,Delhi,1865.61,6161
+2026-01-28,Gram,Maharashtra,4683.48,5820
+2026-01-28,Gram,Karnataka,5627.59,5790
+2026-01-28,Gram,Uttar Pradesh,5630.85,6001
+2026-01-28,Gram,Delhi,6009.49,4542
+2026-01-28,Tur,Maharashtra,5607.33,3912
+2026-01-28,Tur,Karnataka,6459.57,7454
+2026-01-28,Tur,Uttar Pradesh,6495.55,6614
+2026-01-28,Tur,Delhi,8922.28,5613
+2026-01-29,Onion,Maharashtra,1302.14,7975
+2026-01-29,Onion,Karnataka,1175.8,4471
+2026-01-29,Onion,Uttar Pradesh,1198.63,5195
+2026-01-29,Onion,Delhi,1795.71,4824
+2026-01-29,Potato,Maharashtra,649.71,8811
+2026-01-29,Potato,Karnataka,679.76,10067
+2026-01-29,Potato,Uttar Pradesh,668.73,7420
+2026-01-29,Potato,Delhi,838.43,4205
+2026-01-29,Tomato,Maharashtra,1211.66,6893
+2026-01-29,Tomato,Karnataka,1322.27,5667
+2026-01-29,Tomato,Uttar Pradesh,1200.98,6146
+2026-01-29,Tomato,Delhi,1551.86,5760
+2026-01-29,Gram,Maharashtra,5038.25,3936
+2026-01-29,Gram,Karnataka,5179.48,4471
+2026-01-29,Gram,Uttar Pradesh,5677.71,6340
+2026-01-29,Gram,Delhi,6301.19,4092
+2026-01-29,Tur,Maharashtra,5831.22,7001
+2026-01-29,Tur,Karnataka,6327.18,4968
+2026-01-29,Tur,Uttar Pradesh,6415.63,4671
+2026-01-29,Tur,Delhi,8683.2,4463
+2026-01-30,Onion,Maharashtra,1334.06,6860
+2026-01-30,Onion,Karnataka,1082.35,4587
+2026-01-30,Onion,Uttar Pradesh,1012.42,4269
+2026-01-30,Onion,Delhi,1568.06,5508
+2026-01-30,Potato,Maharashtra,530.66,9357
+2026-01-30,Potato,Karnataka,643.16,7739
+2026-01-30,Potato,Uttar Pradesh,825.46,8424
+2026-01-30,Potato,Delhi,871.95,4695
+2026-01-30,Tomato,Maharashtra,904.52,5945
+2026-01-30,Tomato,Karnataka,1366.81,5280
+2026-01-30,Tomato,Uttar Pradesh,1456.95,6346
+2026-01-30,Tomato,Delhi,1809.03,4349
+2026-01-30,Gram,Maharashtra,5069.78,6046
+2026-01-30,Gram,Karnataka,4907.49,6748
+2026-01-30,Gram,Uttar Pradesh,5532.99,5018
+2026-01-30,Gram,Delhi,7207.25,4186
+2026-01-30,Tur,Maharashtra,6333.81,6527
+2026-01-30,Tur,Karnataka,5957.35,6270
+2026-01-30,Tur,Uttar Pradesh,6046.32,5676
+2026-01-30,Tur,Delhi,8186.3,4259
+2026-01-31,Onion,Maharashtra,1091.07,4330
+2026-01-31,Onion,Karnataka,1102.12,6701
+2026-01-31,Onion,Uttar Pradesh,1248.62,4965
+2026-01-31,Onion,Delhi,1688.68,4133
+2026-01-31,Potato,Maharashtra,709.45,8614
+2026-01-31,Potato,Karnataka,632.0,10188
+2026-01-31,Potato,Uttar Pradesh,629.33,8455
+2026-01-31,Potato,Delhi,961.14,4947
+2026-01-31,Tomato,Maharashtra,1614.24,6597
+2026-01-31,Tomato,Karnataka,1467.69,6921
+2026-01-31,Tomato,Uttar Pradesh,1457.3,7263
+2026-01-31,Tomato,Delhi,2013.9,3251
+2026-01-31,Gram,Maharashtra,5468.62,3708
+2026-01-31,Gram,Karnataka,5651.94,6449
+2026-01-31,Gram,Uttar Pradesh,5187.16,4589
+2026-01-31,Gram,Delhi,6574.25,3828
+2026-01-31,Tur,Maharashtra,5767.9,7135
+2026-01-31,Tur,Karnataka,6824.3,7480
+2026-01-31,Tur,Uttar Pradesh,6309.82,5323
+2026-01-31,Tur,Delhi,7445.95,3728
+2026-02-01,Onion,Maharashtra,1499.62,7350
+2026-02-01,Onion,Karnataka,1312.6,4639
+2026-02-01,Onion,Uttar Pradesh,1534.43,5280
+2026-02-01,Onion,Delhi,1824.85,4339
+2026-02-01,Potato,Maharashtra,608.68,7913
+2026-02-01,Potato,Karnataka,715.74,7528
+2026-02-01,Potato,Uttar Pradesh,682.61,6986
+2026-02-01,Potato,Delhi,885.26,5291
+2026-02-01,Tomato,Maharashtra,1619.0,7331
+2026-02-01,Tomato,Karnataka,1875.76,4952
+2026-02-01,Tomato,Uttar Pradesh,1995.79,4666
+2026-02-01,Tomato,Delhi,2555.12,4295
+2026-02-01,Gram,Maharashtra,4975.89,6053
+2026-02-01,Gram,Karnataka,4742.17,4077
+2026-02-01,Gram,Uttar Pradesh,5152.63,5142
+2026-02-01,Gram,Delhi,7569.51,5785
+2026-02-01,Tur,Maharashtra,6523.49,6433
+2026-02-01,Tur,Karnataka,5772.36,4938
+2026-02-01,Tur,Uttar Pradesh,6574.8,4609
+2026-02-01,Tur,Delhi,8585.96,3812
+2026-02-02,Onion,Maharashtra,1147.04,6386
+2026-02-02,Onion,Karnataka,1332.75,5514
+2026-02-02,Onion,Uttar Pradesh,1787.29,4080
+2026-02-02,Onion,Delhi,1619.37,3771
+2026-02-02,Potato,Maharashtra,719.16,11044
+2026-02-02,Potato,Karnataka,591.7,8265
+2026-02-02,Potato,Uttar Pradesh,680.87,6991
+2026-02-02,Potato,Delhi,1076.9,3996
+2026-02-02,Tomato,Maharashtra,1722.59,6075
+2026-02-02,Tomato,Karnataka,1981.88,5366
+2026-02-02,Tomato,Uttar Pradesh,1919.21,4608
+2026-02-02,Tomato,Delhi,2375.83,3725
+2026-02-02,Gram,Maharashtra,5232.35,5144
+2026-02-02,Gram,Karnataka,5425.39,5232
+2026-02-02,Gram,Uttar Pradesh,5966.12,4948
+2026-02-02,Gram,Delhi,6344.44,5009
+2026-02-02,Tur,Maharashtra,5830.5,5083
+2026-02-02,Tur,Karnataka,6316.59,7063
+2026-02-02,Tur,Uttar Pradesh,5970.15,8566
+2026-02-02,Tur,Delhi,9139.23,4398
+2026-02-03,Onion,Maharashtra,1378.69,5872
+2026-02-03,Onion,Karnataka,1524.77,5942
+2026-02-03,Onion,Uttar Pradesh,1605.87,5089
+2026-02-03,Onion,Delhi,1900.32,3878
+2026-02-03,Potato,Maharashtra,628.7,9736
+2026-02-03,Potato,Karnataka,719.58,3097
+2026-02-03,Potato,Uttar Pradesh,759.63,7421
+2026-02-03,Potato,Delhi,890.84,5270
+2026-02-03,Tomato,Maharashtra,1897.74,6608
+2026-02-03,Tomato,Karnataka,1611.28,5691
+2026-02-03,Tomato,Uttar Pradesh,1664.47,3620
+2026-02-03,Tomato,Delhi,2198.16,4689
+2026-02-03,Gram,Maharashtra,5349.74,6125
+2026-02-03,Gram,Karnataka,5548.61,5806
+2026-02-03,Gram,Uttar Pradesh,5348.98,5431
+2026-02-03,Gram,Delhi,7247.02,4603
+2026-02-03,Tur,Maharashtra,6774.8,6676
+2026-02-03,Tur,Karnataka,6744.6,6725
+2026-02-03,Tur,Uttar Pradesh,6921.17,4334
+2026-02-03,Tur,Delhi,8592.99,3583
+2026-02-04,Onion,Maharashtra,1304.98,5394
+2026-02-04,Onion,Karnataka,1367.91,4938
+2026-02-04,Onion,Uttar Pradesh,1312.77,5213
+2026-02-04,Onion,Delhi,1925.14,3346
+2026-02-04,Potato,Maharashtra,688.75,9424
+2026-02-04,Potato,Karnataka,565.77,6371
+2026-02-04,Potato,Uttar Pradesh,660.16,5800
+2026-02-04,Potato,Delhi,950.56,5492
+2026-02-04,Tomato,Maharashtra,1621.1,3329
+2026-02-04,Tomato,Karnataka,1894.08,3958
+2026-02-04,Tomato,Uttar Pradesh,1871.99,5277
+2026-02-04,Tomato,Delhi,2597.13,2952
+2026-02-04,Gram,Maharashtra,3960.67,5759
+2026-02-04,Gram,Karnataka,5926.43,6567
+2026-02-04,Gram,Uttar Pradesh,5648.38,4508
+2026-02-04,Gram,Delhi,7251.24,3221
+2026-02-04,Tur,Maharashtra,6455.86,6439
+2026-02-04,Tur,Karnataka,7065.34,8597
+2026-02-04,Tur,Uttar Pradesh,7111.59,4727
+2026-02-04,Tur,Delhi,8657.24,2720
+2026-02-05,Onion,Maharashtra,1303.35,5100
+2026-02-05,Onion,Karnataka,1400.87,5423
+2026-02-05,Onion,Uttar Pradesh,1442.11,6121
+2026-02-05,Onion,Delhi,1926.02,3992
+2026-02-05,Potato,Maharashtra,619.9,8182
+2026-02-05,Potato,Karnataka,736.32,6214
+2026-02-05,Potato,Uttar Pradesh,668.21,6708
+2026-02-05,Potato,Delhi,798.64,4777
+2026-02-05,Tomato,Maharashtra,1579.84,6527
+2026-02-05,Tomato,Karnataka,1820.65,5466
+2026-02-05,Tomato,Uttar Pradesh,2031.38,4862
+2026-02-05,Tomato,Delhi,2404.59,3917
+2026-02-05,Gram,Maharashtra,5111.73,4908
+2026-02-05,Gram,Karnataka,4444.09,5121
+2026-02-05,Gram,Uttar Pradesh,6074.46,5926
+2026-02-05,Gram,Delhi,7308.51,4988
+2026-02-05,Tur,Maharashtra,6283.11,6078
+2026-02-05,Tur,Karnataka,6312.11,5189
+2026-02-05,Tur,Uttar Pradesh,7214.0,6530
+2026-02-05,Tur,Delhi,8608.37,3831
+2026-02-06,Onion,Maharashtra,1387.5,6223
+2026-02-06,Onion,Karnataka,1291.26,2846
+2026-02-06,Onion,Uttar Pradesh,1475.54,3779
+2026-02-06,Onion,Delhi,1866.02,3881
+2026-02-06,Potato,Maharashtra,611.38,10242
+2026-02-06,Potato,Karnataka,701.7,7970
+2026-02-06,Potato,Uttar Pradesh,758.11,5515
+2026-02-06,Potato,Delhi,965.94,5627
+2026-02-06,Tomato,Maharashtra,1810.26,4364
+2026-02-06,Tomato,Karnataka,1458.53,6124
+2026-02-06,Tomato,Uttar Pradesh,1937.68,4097
+2026-02-06,Tomato,Delhi,2154.07,4900
+2026-02-06,Gram,Maharashtra,4603.91,7380
+2026-02-06,Gram,Karnataka,4983.88,5935
+2026-02-06,Gram,Uttar Pradesh,5462.98,5603
+2026-02-06,Gram,Delhi,6782.06,3869
+2026-02-06,Tur,Maharashtra,6263.33,4675
+2026-02-06,Tur,Karnataka,6925.23,4971
+2026-02-06,Tur,Uttar Pradesh,6835.93,4216
+2026-02-06,Tur,Delhi,7520.45,4049
+2026-02-07,Onion,Maharashtra,1677.67,6427
+2026-02-07,Onion,Karnataka,1462.97,4986
+2026-02-07,Onion,Uttar Pradesh,1545.1,5547
+2026-02-07,Onion,Delhi,1786.3,4891
+2026-02-07,Potato,Maharashtra,693.43,9076
+2026-02-07,Potato,Karnataka,709.79,7548
+2026-02-07,Potato,Uttar Pradesh,761.94,7988
+2026-02-07,Potato,Delhi,868.77,5058
+2026-02-07,Tomato,Maharashtra,1697.61,7276
+2026-02-07,Tomato,Karnataka,1522.6,3718
+2026-02-07,Tomato,Uttar Pradesh,1896.55,5050
+2026-02-07,Tomato,Delhi,2364.17,4195
+2026-02-07,Gram,Maharashtra,4943.43,7210
+2026-02-07,Gram,Karnataka,4740.21,4391
+2026-02-07,Gram,Uttar Pradesh,5543.36,3356
+2026-02-07,Gram,Delhi,6912.83,5329
+2026-02-07,Tur,Maharashtra,6256.03,6117
+2026-02-07,Tur,Karnataka,6026.59,4857
+2026-02-07,Tur,Uttar Pradesh,6771.86,4928
+2026-02-07,Tur,Delhi,9252.61,4680
+2026-02-08,Onion,Maharashtra,1255.51,5829
+2026-02-08,Onion,Karnataka,1525.83,6463
+2026-02-08,Onion,Uttar Pradesh,1732.86,3984
+2026-02-08,Onion,Delhi,1831.7,2993
+2026-02-08,Potato,Maharashtra,627.23,8676
+2026-02-08,Potato,Karnataka,748.48,7404
+2026-02-08,Potato,Uttar Pradesh,692.73,7359
+2026-02-08,Potato,Delhi,835.44,8102
+2026-02-08,Tomato,Maharashtra,1356.79,5760
+2026-02-08,Tomato,Karnataka,2176.28,5270
+2026-02-08,Tomato,Uttar Pradesh,1826.79,4642
+2026-02-08,Tomato,Delhi,2294.92,5098
+2026-02-08,Gram,Maharashtra,4248.75,7259
+2026-02-08,Gram,Karnataka,4803.56,4982
+2026-02-08,Gram,Uttar Pradesh,5430.76,5588
+2026-02-08,Gram,Delhi,6416.91,4369
+2026-02-08,Tur,Maharashtra,7159.28,4253
+2026-02-08,Tur,Karnataka,6680.84,4806
+2026-02-08,Tur,Uttar Pradesh,7134.25,5283
+2026-02-08,Tur,Delhi,8389.58,4621
+2026-02-09,Onion,Maharashtra,1606.12,5343
+2026-02-09,Onion,Karnataka,1553.17,3901
+2026-02-09,Onion,Uttar Pradesh,1429.23,5472
+2026-02-09,Onion,Delhi,2108.09,4284
+2026-02-09,Potato,Maharashtra,621.95,7935
+2026-02-09,Potato,Karnataka,592.1,8427
+2026-02-09,Potato,Uttar Pradesh,777.16,6497
+2026-02-09,Potato,Delhi,861.35,6018
+2026-02-09,Tomato,Maharashtra,1592.06,5482
+2026-02-09,Tomato,Karnataka,2192.64,5003
+2026-02-09,Tomato,Uttar Pradesh,1794.33,4352
+2026-02-09,Tomato,Delhi,2481.34,3855
+2026-02-09,Gram,Maharashtra,4796.97,7023
+2026-02-09,Gram,Karnataka,5800.24,4631
+2026-02-09,Gram,Uttar Pradesh,4929.21,6007
+2026-02-09,Gram,Delhi,6738.5,4632
+2026-02-09,Tur,Maharashtra,5363.5,6891
+2026-02-09,Tur,Karnataka,6052.25,6349
+2026-02-09,Tur,Uttar Pradesh,6950.92,4259
+2026-02-09,Tur,Delhi,8497.46,4788
+2026-02-10,Onion,Maharashtra,1403.03,6204
+2026-02-10,Onion,Karnataka,1704.73,3616
+2026-02-10,Onion,Uttar Pradesh,1738.87,5104
+2026-02-10,Onion,Delhi,1823.15,2935
+2026-02-10,Potato,Maharashtra,630.87,9399
+2026-02-10,Potato,Karnataka,670.97,9791
+2026-02-10,Potato,Uttar Pradesh,614.1,7125
+2026-02-10,Potato,Delhi,806.93,6129
+2026-02-10,Tomato,Maharashtra,1857.86,5088
+2026-02-10,Tomato,Karnataka,1253.0,5472
+2026-02-10,Tomato,Uttar Pradesh,1954.55,5404
+2026-02-10,Tomato,Delhi,2581.16,3143
+2026-02-10,Gram,Maharashtra,5263.68,6880
+2026-02-10,Gram,Karnataka,4682.29,5599
+2026-02-10,Gram,Uttar Pradesh,5407.54,4918
+2026-02-10,Gram,Delhi,7101.69,3610
+2026-02-10,Tur,Maharashtra,5947.69,5887
+2026-02-10,Tur,Karnataka,6109.82,4337
+2026-02-10,Tur,Uttar Pradesh,7252.12,4053
+2026-02-10,Tur,Delhi,8982.84,4600
+2026-02-11,Onion,Maharashtra,1183.94,4802
+2026-02-11,Onion,Karnataka,1611.61,4230
+2026-02-11,Onion,Uttar Pradesh,1489.87,5462
+2026-02-11,Onion,Delhi,2026.01,3798
+2026-02-11,Potato,Maharashtra,602.54,10194
+2026-02-11,Potato,Karnataka,801.88,8990
+2026-02-11,Potato,Uttar Pradesh,721.93,5988
+2026-02-11,Potato,Delhi,836.82,6311
+2026-02-11,Tomato,Maharashtra,1765.24,7112
+2026-02-11,Tomato,Karnataka,1905.07,3680
+2026-02-11,Tomato,Uttar Pradesh,2078.79,4001
+2026-02-11,Tomato,Delhi,2258.71,4200
+2026-02-11,Gram,Maharashtra,5725.43,9011
+2026-02-11,Gram,Karnataka,5518.58,5070
+2026-02-11,Gram,Uttar Pradesh,5772.58,5887
+2026-02-11,Gram,Delhi,6869.64,5436
+2026-02-11,Tur,Maharashtra,6357.0,6430
+2026-02-11,Tur,Karnataka,6900.55,6007
+2026-02-11,Tur,Uttar Pradesh,7325.82,4613
+2026-02-11,Tur,Delhi,8434.14,3284
+2026-02-12,Onion,Maharashtra,1444.5,6421
+2026-02-12,Onion,Karnataka,1524.01,7025
+2026-02-12,Onion,Uttar Pradesh,1545.73,5668
+2026-02-12,Onion,Delhi,1802.0,3690
+2026-02-12,Potato,Maharashtra,693.3,9284
+2026-02-12,Potato,Karnataka,659.85,7411
+2026-02-12,Potato,Uttar Pradesh,609.99,6632
+2026-02-12,Potato,Delhi,957.63,6371
+2026-02-12,Tomato,Maharashtra,1782.77,5610
+2026-02-12,Tomato,Karnataka,1777.53,4568
+2026-02-12,Tomato,Uttar Pradesh,2009.37,5420
+2026-02-12,Tomato,Delhi,2435.4,3579
+2026-02-12,Gram,Maharashtra,4274.63,6774
+2026-02-12,Gram,Karnataka,5140.06,4354
+2026-02-12,Gram,Uttar Pradesh,5829.72,4607
+2026-02-12,Gram,Delhi,7354.73,4493
+2026-02-12,Tur,Maharashtra,6562.79,4250
+2026-02-12,Tur,Karnataka,7148.06,5829
+2026-02-12,Tur,Uttar Pradesh,6784.03,5414
+2026-02-12,Tur,Delhi,7888.44,4554
+2026-02-13,Onion,Maharashtra,1268.96,4052
+2026-02-13,Onion,Karnataka,1287.16,6434
+2026-02-13,Onion,Uttar Pradesh,1471.69,6533
+2026-02-13,Onion,Delhi,1869.7,2634
+2026-02-13,Potato,Maharashtra,566.71,9898
+2026-02-13,Potato,Karnataka,669.78,6694
+2026-02-13,Potato,Uttar Pradesh,727.72,7859
+2026-02-13,Potato,Delhi,973.87,7369
+2026-02-13,Tomato,Maharashtra,1611.77,4082
+2026-02-13,Tomato,Karnataka,1694.57,5537
+2026-02-13,Tomato,Uttar Pradesh,1678.05,4042
+2026-02-13,Tomato,Delhi,2407.26,3961
+2026-02-13,Gram,Maharashtra,5041.13,4712
+2026-02-13,Gram,Karnataka,5228.43,4290
+2026-02-13,Gram,Uttar Pradesh,5900.07,6035
+2026-02-13,Gram,Delhi,6339.46,3256
+2026-02-13,Tur,Maharashtra,5583.45,5087
+2026-02-13,Tur,Karnataka,6566.95,3933
+2026-02-13,Tur,Uttar Pradesh,6537.26,4206
+2026-02-13,Tur,Delhi,8783.4,4268
+2026-02-14,Onion,Maharashtra,1306.59,5752
+2026-02-14,Onion,Karnataka,1405.0,4977
+2026-02-14,Onion,Uttar Pradesh,1748.81,6340
+2026-02-14,Onion,Delhi,1779.05,4663
+2026-02-14,Potato,Maharashtra,701.92,6113
+2026-02-14,Potato,Karnataka,738.27,9831
+2026-02-14,Potato,Uttar Pradesh,638.22,5832
+2026-02-14,Potato,Delhi,967.24,6024
+2026-02-14,Tomato,Maharashtra,1795.1,5933
+2026-02-14,Tomato,Karnataka,1856.54,3866
+2026-02-14,Tomato,Uttar Pradesh,2081.46,6169
+2026-02-14,Tomato,Delhi,2294.12,3965
+2026-02-14,Gram,Maharashtra,4495.11,6126
+2026-02-14,Gram,Karnataka,5510.72,5197
+2026-02-14,Gram,Uttar Pradesh,5983.52,4665
+2026-02-14,Gram,Delhi,7185.11,3184
+2026-02-14,Tur,Maharashtra,6248.0,5644
+2026-02-14,Tur,Karnataka,6707.69,5130
+2026-02-14,Tur,Uttar Pradesh,6894.84,6132
+2026-02-14,Tur,Delhi,8495.96,2857
+2026-02-15,Onion,Maharashtra,1603.87,7090
+2026-02-15,Onion,Karnataka,1316.29,5989
+2026-02-15,Onion,Uttar Pradesh,1488.44,5263
+2026-02-15,Onion,Delhi,1971.31,3812
+2026-02-15,Potato,Maharashtra,590.51,6840
+2026-02-15,Potato,Karnataka,617.09,6267
+2026-02-15,Potato,Uttar Pradesh,712.38,6120
+2026-02-15,Potato,Delhi,944.09,7413
+2026-02-15,Tomato,Maharashtra,1569.87,5821
+2026-02-15,Tomato,Karnataka,1879.48,5760
+2026-02-15,Tomato,Uttar Pradesh,1888.39,5742
+2026-02-15,Tomato,Delhi,2437.95,3009
+2026-02-15,Gram,Maharashtra,5336.55,6541
+2026-02-15,Gram,Karnataka,5044.77,5303
+2026-02-15,Gram,Uttar Pradesh,5830.67,4790
+2026-02-15,Gram,Delhi,7364.92,5891
+2026-02-15,Tur,Maharashtra,5906.62,4232
+2026-02-15,Tur,Karnataka,6744.82,6339
+2026-02-15,Tur,Uttar Pradesh,6852.01,6792
+2026-02-15,Tur,Delhi,8092.5,4794
+2026-02-16,Onion,Maharashtra,1321.94,7465
+2026-02-16,Onion,Karnataka,1711.22,4456
+2026-02-16,Onion,Uttar Pradesh,1483.65,5859
+2026-02-16,Onion,Delhi,1890.54,3963
+2026-02-16,Potato,Maharashtra,647.4,4889
+2026-02-16,Potato,Karnataka,680.52,6481
+2026-02-16,Potato,Uttar Pradesh,682.84,9205
+2026-02-16,Potato,Delhi,808.74,6643
+2026-02-16,Tomato,Maharashtra,1631.17,5244
+2026-02-16,Tomato,Karnataka,1938.75,5621
+2026-02-16,Tomato,Uttar Pradesh,1988.52,5968
+2026-02-16,Tomato,Delhi,2276.74,3510
+2026-02-16,Gram,Maharashtra,4653.9,4638
+2026-02-16,Gram,Karnataka,6345.53,6573
+2026-02-16,Gram,Uttar Pradesh,5120.12,3677
+2026-02-16,Gram,Delhi,7159.9,4437
+2026-02-16,Tur,Maharashtra,6509.02,5549
+2026-02-16,Tur,Karnataka,6553.46,5903
+2026-02-16,Tur,Uttar Pradesh,6996.45,2927
+2026-02-16,Tur,Delhi,8593.84,3493
+2026-02-17,Onion,Maharashtra,1416.39,8872
+2026-02-17,Onion,Karnataka,1516.98,4933
+2026-02-17,Onion,Uttar Pradesh,1661.02,5482
+2026-02-17,Onion,Delhi,1988.41,4485
+2026-02-17,Potato,Maharashtra,789.83,6141
+2026-02-17,Potato,Karnataka,714.91,6125
+2026-02-17,Potato,Uttar Pradesh,756.53,5830
+2026-02-17,Potato,Delhi,867.83,5377
+2026-02-17,Tomato,Maharashtra,1883.2,6576
+2026-02-17,Tomato,Karnataka,1532.68,5320
+2026-02-17,Tomato,Uttar Pradesh,1733.68,3741
+2026-02-17,Tomato,Delhi,2301.1,3753
+2026-02-17,Gram,Maharashtra,5884.4,6036
+2026-02-17,Gram,Karnataka,4832.61,4668
+2026-02-17,Gram,Uttar Pradesh,5951.98,7088
+2026-02-17,Gram,Delhi,6438.03,2496
+2026-02-17,Tur,Maharashtra,7105.66,6303
+2026-02-17,Tur,Karnataka,6220.98,6132
+2026-02-17,Tur,Uttar Pradesh,5773.61,5266
+2026-02-17,Tur,Delhi,8847.14,4988
+2026-02-18,Onion,Maharashtra,1274.41,5650
+2026-02-18,Onion,Karnataka,1362.59,5531
+2026-02-18,Onion,Uttar Pradesh,1443.76,4591
+2026-02-18,Onion,Delhi,1819.5,4520
+2026-02-18,Potato,Maharashtra,706.22,7564
+2026-02-18,Potato,Karnataka,684.7,5340
+2026-02-18,Potato,Uttar Pradesh,696.94,7071
+2026-02-18,Potato,Delhi,1080.86,4443
+2026-02-18,Tomato,Maharashtra,1981.96,6663
+2026-02-18,Tomato,Karnataka,1839.09,7114
+2026-02-18,Tomato,Uttar Pradesh,1951.22,5389
+2026-02-18,Tomato,Delhi,2335.38,4978
+2026-02-18,Gram,Maharashtra,5420.16,4860
+2026-02-18,Gram,Karnataka,4854.46,5049
+2026-02-18,Gram,Uttar Pradesh,5315.99,4936
+2026-02-18,Gram,Delhi,7428.1,3634
+2026-02-18,Tur,Maharashtra,6246.17,5915
+2026-02-18,Tur,Karnataka,6995.31,3050
+2026-02-18,Tur,Uttar Pradesh,6688.58,5485
+2026-02-18,Tur,Delhi,9242.04,3796
+2026-02-19,Onion,Maharashtra,1171.61,6244
+2026-02-19,Onion,Karnataka,1398.16,4010
+2026-02-19,Onion,Uttar Pradesh,1477.08,4815
+2026-02-19,Onion,Delhi,1867.43,2235
+2026-02-19,Potato,Maharashtra,709.17,9960
+2026-02-19,Potato,Karnataka,727.9,5807
+2026-02-19,Potato,Uttar Pradesh,704.1,7133
+2026-02-19,Potato,Delhi,939.67,6478
+2026-02-19,Tomato,Maharashtra,1543.37,5646
+2026-02-19,Tomato,Karnataka,1875.56,6795
+2026-02-19,Tomato,Uttar Pradesh,2018.9,5789
+2026-02-19,Tomato,Delhi,2364.27,5128
+2026-02-19,Gram,Maharashtra,5181.17,4598
+2026-02-19,Gram,Karnataka,5808.8,5997
+2026-02-19,Gram,Uttar Pradesh,5442.43,4520
+2026-02-19,Gram,Delhi,7100.68,4370
+2026-02-19,Tur,Maharashtra,6355.93,6212
+2026-02-19,Tur,Karnataka,7380.31,6727
+2026-02-19,Tur,Uttar Pradesh,7049.29,6254
+2026-02-19,Tur,Delhi,8239.74,4545
+2026-02-20,Onion,Maharashtra,1614.64,5313
+2026-02-20,Onion,Karnataka,1373.44,4576
+2026-02-20,Onion,Uttar Pradesh,1422.04,4215
+2026-02-20,Onion,Delhi,1896.54,2875
+2026-02-20,Potato,Maharashtra,647.73,9368
+2026-02-20,Potato,Karnataka,619.01,9803
+2026-02-20,Potato,Uttar Pradesh,754.24,8615
+2026-02-20,Potato,Delhi,852.05,6690
+2026-02-20,Tomato,Maharashtra,1472.89,6544
+2026-02-20,Tomato,Karnataka,1819.61,5845
+2026-02-20,Tomato,Uttar Pradesh,1644.08,4104
+2026-02-20,Tomato,Delhi,2468.45,3241
+2026-02-20,Gram,Maharashtra,5201.22,4036
+2026-02-20,Gram,Karnataka,5615.91,3965
+2026-02-20,Gram,Uttar Pradesh,5792.3,5625
+2026-02-20,Gram,Delhi,6754.88,4465
+2026-02-20,Tur,Maharashtra,6386.06,5217
+2026-02-20,Tur,Karnataka,6163.28,3365
+2026-02-20,Tur,Uttar Pradesh,7122.74,3615
+2026-02-20,Tur,Delhi,8749.65,3988
+2026-02-21,Onion,Maharashtra,1479.74,5219
+2026-02-21,Onion,Karnataka,1436.39,6033
+2026-02-21,Onion,Uttar Pradesh,1593.81,5316
+2026-02-21,Onion,Delhi,1998.31,2771
+2026-02-21,Potato,Maharashtra,699.86,8908
+2026-02-21,Potato,Karnataka,611.65,7151
+2026-02-21,Potato,Uttar Pradesh,716.01,6950
+2026-02-21,Potato,Delhi,921.82,7350
+2026-02-21,Tomato,Maharashtra,1908.71,4097
+2026-02-21,Tomato,Karnataka,1910.79,6662
+2026-02-21,Tomato,Uttar Pradesh,1957.76,6090
+2026-02-21,Tomato,Delhi,2752.95,4818
+2026-02-21,Gram,Maharashtra,5127.71,6716
+2026-02-21,Gram,Karnataka,5371.19,5288
+2026-02-21,Gram,Uttar Pradesh,5477.51,6563
+2026-02-21,Gram,Delhi,6714.17,5225
+2026-02-21,Tur,Maharashtra,6495.51,4211
+2026-02-21,Tur,Karnataka,6784.38,3213
+2026-02-21,Tur,Uttar Pradesh,7248.78,6194
+2026-02-21,Tur,Delhi,8442.56,4314
+2026-02-22,Onion,Maharashtra,1633.46,4993
+2026-02-22,Onion,Karnataka,1349.61,6822
+2026-02-22,Onion,Uttar Pradesh,1789.91,5003
+2026-02-22,Onion,Delhi,2064.38,5073
+2026-02-22,Potato,Maharashtra,595.16,7166
+2026-02-22,Potato,Karnataka,769.25,10052
+2026-02-22,Potato,Uttar Pradesh,758.44,5885
+2026-02-22,Potato,Delhi,1037.89,5107
+2026-02-22,Tomato,Maharashtra,1626.41,5935
+2026-02-22,Tomato,Karnataka,2098.35,6162
+2026-02-22,Tomato,Uttar Pradesh,1964.57,5463
+2026-02-22,Tomato,Delhi,2360.7,4446
+2026-02-22,Gram,Maharashtra,4156.45,5225
+2026-02-22,Gram,Karnataka,5406.36,4051
+2026-02-22,Gram,Uttar Pradesh,5737.21,4795
+2026-02-22,Gram,Delhi,7616.92,5258
+2026-02-22,Tur,Maharashtra,6062.67,5671
+2026-02-22,Tur,Karnataka,6587.46,5039
+2026-02-22,Tur,Uttar Pradesh,7056.96,4464
+2026-02-22,Tur,Delhi,8202.72,4734
+2026-02-23,Onion,Maharashtra,1475.22,4661
+2026-02-23,Onion,Karnataka,1584.88,4598
+2026-02-23,Onion,Uttar Pradesh,1585.58,5820
+2026-02-23,Onion,Delhi,1939.97,4363
+2026-02-23,Potato,Maharashtra,611.24,7624
+2026-02-23,Potato,Karnataka,668.94,6396
+2026-02-23,Potato,Uttar Pradesh,706.95,4930
+2026-02-23,Potato,Delhi,864.77,5388
+2026-02-23,Tomato,Maharashtra,1643.28,5287
+2026-02-23,Tomato,Karnataka,1776.31,5767
+2026-02-23,Tomato,Uttar Pradesh,2057.7,4350
+2026-02-23,Tomato,Delhi,2112.86,3166
+2026-02-23,Gram,Maharashtra,4872.63,5164
+2026-02-23,Gram,Karnataka,5053.83,3898
+2026-02-23,Gram,Uttar Pradesh,5443.86,5181
+2026-02-23,Gram,Delhi,7212.64,3554
+2026-02-23,Tur,Maharashtra,6088.14,4764
+2026-02-23,Tur,Karnataka,6608.4,4600
+2026-02-23,Tur,Uttar Pradesh,7229.01,3383
+2026-02-23,Tur,Delhi,8552.04,4464
+2026-02-24,Onion,Maharashtra,1422.46,8547
+2026-02-24,Onion,Karnataka,1520.18,4206
+2026-02-24,Onion,Uttar Pradesh,1544.54,3223
+2026-02-24,Onion,Delhi,1935.33,3333
+2026-02-24,Potato,Maharashtra,711.72,7064
+2026-02-24,Potato,Karnataka,675.45,6563
+2026-02-24,Potato,Uttar Pradesh,841.32,6683
+2026-02-24,Potato,Delhi,1027.78,6644
+2026-02-24,Tomato,Maharashtra,1792.01,5965
+2026-02-24,Tomato,Karnataka,1868.56,3234
+2026-02-24,Tomato,Uttar Pradesh,1828.22,5845
+2026-02-24,Tomato,Delhi,2345.22,2875
+2026-02-24,Gram,Maharashtra,5026.16,7449
+2026-02-24,Gram,Karnataka,5761.16,5197
+2026-02-24,Gram,Uttar Pradesh,5938.01,4633
+2026-02-24,Gram,Delhi,6409.89,3260
+2026-02-24,Tur,Maharashtra,6979.0,5527
+2026-02-24,Tur,Karnataka,6514.83,5207
+2026-02-24,Tur,Uttar Pradesh,7829.86,6974
+2026-02-24,Tur,Delhi,9714.7,4076
+2026-02-25,Onion,Maharashtra,1436.59,3870
+2026-02-25,Onion,Karnataka,1656.19,4033
+2026-02-25,Onion,Uttar Pradesh,1582.81,3902
+2026-02-25,Onion,Delhi,1875.34,3330
+2026-02-25,Potato,Maharashtra,605.34,7080
+2026-02-25,Potato,Karnataka,645.51,8771
+2026-02-25,Potato,Uttar Pradesh,642.54,7457
+2026-02-25,Potato,Delhi,985.11,5127
+2026-02-25,Tomato,Maharashtra,1553.1,5299
+2026-02-25,Tomato,Karnataka,2026.89,5467
+2026-02-25,Tomato,Uttar Pradesh,1778.96,5483
+2026-02-25,Tomato,Delhi,2136.04,4545
+2026-02-25,Gram,Maharashtra,5188.86,5213
+2026-02-25,Gram,Karnataka,5032.67,4329
+2026-02-25,Gram,Uttar Pradesh,5793.69,6228
+2026-02-25,Gram,Delhi,6785.07,4366
+2026-02-25,Tur,Maharashtra,5338.25,5164
+2026-02-25,Tur,Karnataka,6612.18,4532
+2026-02-25,Tur,Uttar Pradesh,6553.47,4560
+2026-02-25,Tur,Delhi,8850.11,4052
+2026-02-26,Onion,Maharashtra,1133.25,3199
+2026-02-26,Onion,Karnataka,1406.9,5744
+2026-02-26,Onion,Uttar Pradesh,1227.9,4500
+2026-02-26,Onion,Delhi,1883.85,5110
+2026-02-26,Potato,Maharashtra,621.19,8544
+2026-02-26,Potato,Karnataka,694.04,4314
+2026-02-26,Potato,Uttar Pradesh,773.93,7450
+2026-02-26,Potato,Delhi,935.78,10201
+2026-02-26,Tomato,Maharashtra,1280.94,7471
+2026-02-26,Tomato,Karnataka,1734.59,5565
+2026-02-26,Tomato,Uttar Pradesh,1877.3,4575
+2026-02-26,Tomato,Delhi,2244.03,4263
+2026-02-26,Gram,Maharashtra,4516.19,6389
+2026-02-26,Gram,Karnataka,5181.93,4073
+2026-02-26,Gram,Uttar Pradesh,5450.5,6257
+2026-02-26,Gram,Delhi,6822.63,4286
+2026-02-26,Tur,Maharashtra,5950.19,6734
+2026-02-26,Tur,Karnataka,6936.44,7588
+2026-02-26,Tur,Uttar Pradesh,6897.8,5967
+2026-02-26,Tur,Delhi,8765.13,5301
+2026-02-27,Onion,Maharashtra,1316.3,6383
+2026-02-27,Onion,Karnataka,1457.12,5195
+2026-02-27,Onion,Uttar Pradesh,1569.41,5252
+2026-02-27,Onion,Delhi,1934.05,4171
+2026-02-27,Potato,Maharashtra,758.86,9500
+2026-02-27,Potato,Karnataka,745.26,6833
+2026-02-27,Potato,Uttar Pradesh,658.19,8507
+2026-02-27,Potato,Delhi,961.87,7397
+2026-02-27,Tomato,Maharashtra,1578.04,5300
+2026-02-27,Tomato,Karnataka,1465.32,4850
+2026-02-27,Tomato,Uttar Pradesh,2086.91,4533
+2026-02-27,Tomato,Delhi,2487.6,3847
+2026-02-27,Gram,Maharashtra,5161.97,4280
+2026-02-27,Gram,Karnataka,5358.85,2114
+2026-02-27,Gram,Uttar Pradesh,5544.09,3369
+2026-02-27,Gram,Delhi,7433.97,4621
+2026-02-27,Tur,Maharashtra,6490.83,7626
+2026-02-27,Tur,Karnataka,6202.75,7476
+2026-02-27,Tur,Uttar Pradesh,7398.19,5014
+2026-02-27,Tur,Delhi,9234.4,3278
+2026-02-28,Onion,Maharashtra,1304.34,4879
+2026-02-28,Onion,Karnataka,1417.76,4150
+2026-02-28,Onion,Uttar Pradesh,1705.97,4741
+2026-02-28,Onion,Delhi,1991.3,3543
+2026-02-28,Potato,Maharashtra,521.21,8365
+2026-02-28,Potato,Karnataka,550.83,7415
+2026-02-28,Potato,Uttar Pradesh,624.94,9981
+2026-02-28,Potato,Delhi,964.7,5835
+2026-02-28,Tomato,Maharashtra,1952.66,4615
+2026-02-28,Tomato,Karnataka,1903.06,5473
+2026-02-28,Tomato,Uttar Pradesh,1941.6,6272
+2026-02-28,Tomato,Delhi,2507.5,4230
+2026-02-28,Gram,Maharashtra,4470.69,4488
+2026-02-28,Gram,Karnataka,5287.5,5361
+2026-02-28,Gram,Uttar Pradesh,5215.43,7411
+2026-02-28,Gram,Delhi,7544.49,4481
+2026-02-28,Tur,Maharashtra,6314.96,5599
+2026-02-28,Tur,Karnataka,6203.21,5626
+2026-02-28,Tur,Uttar Pradesh,7096.59,3956
+2026-02-28,Tur,Delhi,8876.13,4079
+2026-03-01,Onion,Maharashtra,1175.06,4599
+2026-03-01,Onion,Karnataka,1432.37,7250
+2026-03-01,Onion,Uttar Pradesh,1626.79,3664
+2026-03-01,Onion,Delhi,2008.32,2762
+2026-03-01,Potato,Maharashtra,817.39,6290
+2026-03-01,Potato,Karnataka,776.25,8323
+2026-03-01,Potato,Uttar Pradesh,733.9,4503
+2026-03-01,Potato,Delhi,989.15,6038
+2026-03-01,Tomato,Maharashtra,1397.13,2408
+2026-03-01,Tomato,Karnataka,1705.27,5843
+2026-03-01,Tomato,Uttar Pradesh,2130.05,4536
+2026-03-01,Tomato,Delhi,2280.21,4923
+2026-03-01,Gram,Maharashtra,3891.72,5693
+2026-03-01,Gram,Karnataka,4865.34,6373
+2026-03-01,Gram,Uttar Pradesh,4872.82,5593
+2026-03-01,Gram,Delhi,5443.15,3859
+2026-03-01,Tur,Maharashtra,6819.08,4464
+2026-03-01,Tur,Karnataka,7009.04,5733
+2026-03-01,Tur,Uttar Pradesh,7195.85,5170
+2026-03-01,Tur,Delhi,8754.27,3834
+2026-03-02,Onion,Maharashtra,1477.95,5729
+2026-03-02,Onion,Karnataka,1412.38,5499
+2026-03-02,Onion,Uttar Pradesh,1646.55,2950
+2026-03-02,Onion,Delhi,2090.09,3730
+2026-03-02,Potato,Maharashtra,771.67,8607
+2026-03-02,Potato,Karnataka,687.09,5645
+2026-03-02,Potato,Uttar Pradesh,804.12,5270
+2026-03-02,Potato,Delhi,1151.85,4143
+2026-03-02,Tomato,Maharashtra,1590.97,5782
+2026-03-02,Tomato,Karnataka,1556.21,4846
+2026-03-02,Tomato,Uttar Pradesh,1954.69,4667
+2026-03-02,Tomato,Delhi,2345.32,3576
+2026-03-02,Gram,Maharashtra,4017.28,6569
+2026-03-02,Gram,Karnataka,5414.2,5869
+2026-03-02,Gram,Uttar Pradesh,5131.44,6325
+2026-03-02,Gram,Delhi,5871.48,5957
+2026-03-02,Tur,Maharashtra,6707.85,7368
+2026-03-02,Tur,Karnataka,6654.54,7176
+2026-03-02,Tur,Uttar Pradesh,7700.82,5553
+2026-03-02,Tur,Delhi,9295.31,3801
+2026-03-03,Onion,Maharashtra,1549.5,5711
+2026-03-03,Onion,Karnataka,1247.47,4087
+2026-03-03,Onion,Uttar Pradesh,1539.3,5309
+2026-03-03,Onion,Delhi,1945.21,4975
+2026-03-03,Potato,Maharashtra,605.6,7143
+2026-03-03,Potato,Karnataka,656.15,7578
+2026-03-03,Potato,Uttar Pradesh,818.03,6774
+2026-03-03,Potato,Delhi,970.33,6279
+2026-03-03,Tomato,Maharashtra,1911.5,6203
+2026-03-03,Tomato,Karnataka,1771.88,5873
+2026-03-03,Tomato,Uttar Pradesh,1751.02,5855
+2026-03-03,Tomato,Delhi,2695.4,4856
+2026-03-03,Gram,Maharashtra,4293.19,6619
+2026-03-03,Gram,Karnataka,4348.65,6517
+2026-03-03,Gram,Uttar Pradesh,5211.66,3477
+2026-03-03,Gram,Delhi,5910.81,4192
+2026-03-03,Tur,Maharashtra,6483.21,4211
+2026-03-03,Tur,Karnataka,7161.34,5527
+2026-03-03,Tur,Uttar Pradesh,7266.58,4244
+2026-03-03,Tur,Delhi,9664.42,5324
+2026-03-04,Onion,Maharashtra,1348.13,4875
+2026-03-04,Onion,Karnataka,1543.22,4886
+2026-03-04,Onion,Uttar Pradesh,1545.67,5739
+2026-03-04,Onion,Delhi,1723.88,5054
+2026-03-04,Potato,Maharashtra,747.55,6372
+2026-03-04,Potato,Karnataka,777.47,6529
+2026-03-04,Potato,Uttar Pradesh,703.78,8118
+2026-03-04,Potato,Delhi,1034.09,5443
+2026-03-04,Tomato,Maharashtra,1894.55,4420
+2026-03-04,Tomato,Karnataka,1893.61,4981
+2026-03-04,Tomato,Uttar Pradesh,2062.95,2872
+2026-03-04,Tomato,Delhi,2347.18,3517
+2026-03-04,Gram,Maharashtra,4701.06,6753
+2026-03-04,Gram,Karnataka,4554.87,5015
+2026-03-04,Gram,Uttar Pradesh,5016.57,4559
+2026-03-04,Gram,Delhi,6613.82,4116
+2026-03-04,Tur,Maharashtra,5312.26,5139
+2026-03-04,Tur,Karnataka,6520.86,3546
+2026-03-04,Tur,Uttar Pradesh,6799.16,5109
+2026-03-04,Tur,Delhi,9792.89,4250
+2026-03-05,Onion,Maharashtra,1334.1,6062
+2026-03-05,Onion,Karnataka,1429.95,4531
+2026-03-05,Onion,Uttar Pradesh,1424.68,3248
+2026-03-05,Onion,Delhi,1907.21,4126
+2026-03-05,Potato,Maharashtra,735.99,6366
+2026-03-05,Potato,Karnataka,717.81,7379
+2026-03-05,Potato,Uttar Pradesh,733.08,7220
+2026-03-05,Potato,Delhi,961.44,4247
+2026-03-05,Tomato,Maharashtra,1411.96,4998
+2026-03-05,Tomato,Karnataka,1995.12,5805
+2026-03-05,Tomato,Uttar Pradesh,2090.48,5522
+2026-03-05,Tomato,Delhi,2147.77,3735
+2026-03-05,Gram,Maharashtra,4277.92,7815
+2026-03-05,Gram,Karnataka,4384.94,6893
+2026-03-05,Gram,Uttar Pradesh,5369.18,7588
+2026-03-05,Gram,Delhi,6177.42,5077
+2026-03-05,Tur,Maharashtra,7648.94,4869
+2026-03-05,Tur,Karnataka,6299.33,3284
+2026-03-05,Tur,Uttar Pradesh,7678.72,3116
+2026-03-05,Tur,Delhi,9029.96,4349
+2026-03-06,Onion,Maharashtra,1429.82,6028
+2026-03-06,Onion,Karnataka,1512.47,6609
+2026-03-06,Onion,Uttar Pradesh,1449.72,4323
+2026-03-06,Onion,Delhi,1862.28,4664
+2026-03-06,Potato,Maharashtra,806.07,7571
+2026-03-06,Potato,Karnataka,867.16,5028
+2026-03-06,Potato,Uttar Pradesh,942.31,8154
+2026-03-06,Potato,Delhi,1083.49,6781
+2026-03-06,Tomato,Maharashtra,1375.08,4972
+2026-03-06,Tomato,Karnataka,1654.14,6022
+2026-03-06,Tomato,Uttar Pradesh,1685.97,5757
+2026-03-06,Tomato,Delhi,2644.11,4556
+2026-03-06,Gram,Maharashtra,4651.51,4953
+2026-03-06,Gram,Karnataka,4508.7,7309
+2026-03-06,Gram,Uttar Pradesh,5330.77,5512
+2026-03-06,Gram,Delhi,6176.23,2643
+2026-03-06,Tur,Maharashtra,6142.12,7679
+2026-03-06,Tur,Karnataka,6415.79,5462
+2026-03-06,Tur,Uttar Pradesh,7813.35,3745
+2026-03-06,Tur,Delhi,9283.12,4750
+2026-03-07,Onion,Maharashtra,1409.82,8742
+2026-03-07,Onion,Karnataka,1286.33,6377
+2026-03-07,Onion,Uttar Pradesh,1544.06,5771
+2026-03-07,Onion,Delhi,2008.96,3413
+2026-03-07,Potato,Maharashtra,759.36,4364
+2026-03-07,Potato,Karnataka,826.85,6971
+2026-03-07,Potato,Uttar Pradesh,870.63,7572
+2026-03-07,Potato,Delhi,1058.13,5148
+2026-03-07,Tomato,Maharashtra,1531.27,4764
+2026-03-07,Tomato,Karnataka,2039.69,6775
+2026-03-07,Tomato,Uttar Pradesh,1849.58,5046
+2026-03-07,Tomato,Delhi,2190.58,4938
+2026-03-07,Gram,Maharashtra,4786.31,8569
+2026-03-07,Gram,Karnataka,4498.97,5405
+2026-03-07,Gram,Uttar Pradesh,5140.36,6273
+2026-03-07,Gram,Delhi,6248.7,3668
+2026-03-07,Tur,Maharashtra,7022.43,6356
+2026-03-07,Tur,Karnataka,6581.58,6689
+2026-03-07,Tur,Uttar Pradesh,7888.59,5134
+2026-03-07,Tur,Delhi,9238.32,4443
+2026-03-08,Onion,Maharashtra,1305.64,5588
+2026-03-08,Onion,Karnataka,1229.03,6185
+2026-03-08,Onion,Uttar Pradesh,1378.22,6503
+2026-03-08,Onion,Delhi,1917.39,3830
+2026-03-08,Potato,Maharashtra,699.67,6544
+2026-03-08,Potato,Karnataka,884.23,3305
+2026-03-08,Potato,Uttar Pradesh,915.63,6672
+2026-03-08,Potato,Delhi,948.31,3924
+2026-03-08,Tomato,Maharashtra,2043.84,4504
+2026-03-08,Tomato,Karnataka,1572.81,6460
+2026-03-08,Tomato,Uttar Pradesh,1966.11,4062
+2026-03-08,Tomato,Delhi,2416.32,3179
+2026-03-08,Gram,Maharashtra,4939.92,7483
+2026-03-08,Gram,Karnataka,4993.87,6270
+2026-03-08,Gram,Uttar Pradesh,5677.12,5555
+2026-03-08,Gram,Delhi,5912.22,4843
+2026-03-08,Tur,Maharashtra,7566.32,4428
+2026-03-08,Tur,Karnataka,6833.14,5701
+2026-03-08,Tur,Uttar Pradesh,7339.74,4017
+2026-03-08,Tur,Delhi,9709.84,5856
+2026-03-09,Onion,Maharashtra,1433.3,4551
+2026-03-09,Onion,Karnataka,1302.2,5534
+2026-03-09,Onion,Uttar Pradesh,1698.87,5475
+2026-03-09,Onion,Delhi,1957.71,3528
+2026-03-09,Potato,Maharashtra,667.45,8103
+2026-03-09,Potato,Karnataka,849.2,4545
+2026-03-09,Potato,Uttar Pradesh,937.85,6967
+2026-03-09,Potato,Delhi,1131.17,3657
+2026-03-09,Tomato,Maharashtra,1436.48,5390
+2026-03-09,Tomato,Karnataka,1905.18,7154
+2026-03-09,Tomato,Uttar Pradesh,2040.82,4757
+2026-03-09,Tomato,Delhi,2169.23,4984
+2026-03-09,Gram,Maharashtra,4218.2,8183
+2026-03-09,Gram,Karnataka,4709.41,7708
+2026-03-09,Gram,Uttar Pradesh,5299.68,5403
+2026-03-09,Gram,Delhi,6145.77,4141
+2026-03-09,Tur,Maharashtra,6822.14,5641
+2026-03-09,Tur,Karnataka,6730.48,5088
+2026-03-09,Tur,Uttar Pradesh,7401.36,2871
+2026-03-09,Tur,Delhi,9413.68,3216
+2026-03-10,Onion,Maharashtra,1272.08,3680
+2026-03-10,Onion,Karnataka,1273.57,3836
+2026-03-10,Onion,Uttar Pradesh,1482.12,6953
+2026-03-10,Onion,Delhi,1895.89,4142
+2026-03-10,Potato,Maharashtra,772.23,7126
+2026-03-10,Potato,Karnataka,780.11,5006
+2026-03-10,Potato,Uttar Pradesh,928.44,8508
+2026-03-10,Potato,Delhi,915.81,3975
+2026-03-10,Tomato,Maharashtra,1654.76,4483
+2026-03-10,Tomato,Karnataka,1906.95,4496
+2026-03-10,Tomato,Uttar Pradesh,2333.81,6190
+2026-03-10,Tomato,Delhi,2418.51,4821
+2026-03-10,Gram,Maharashtra,4944.13,5476
+2026-03-10,Gram,Karnataka,4524.55,5939
+2026-03-10,Gram,Uttar Pradesh,5364.97,5710
+2026-03-10,Gram,Delhi,5777.3,3730
+2026-03-10,Tur,Maharashtra,6597.91,5471
+2026-03-10,Tur,Karnataka,7887.24,3804
+2026-03-10,Tur,Uttar Pradesh,7595.52,6489
+2026-03-10,Tur,Delhi,10232.15,3676
+2026-03-11,Onion,Maharashtra,1470.17,6188
+2026-03-11,Onion,Karnataka,1513.06,5159
+2026-03-11,Onion,Uttar Pradesh,1620.32,2467
+2026-03-11,Onion,Delhi,2041.85,4100
+2026-03-11,Potato,Maharashtra,728.91,9787
+2026-03-11,Potato,Karnataka,738.59,6048
+2026-03-11,Potato,Uttar Pradesh,966.61,5209
+2026-03-11,Potato,Delhi,995.49,4852
+2026-03-11,Tomato,Maharashtra,1879.95,5786
+2026-03-11,Tomato,Karnataka,1548.37,4702
+2026-03-11,Tomato,Uttar Pradesh,1780.53,4922
+2026-03-11,Tomato,Delhi,2462.67,4334
+2026-03-11,Gram,Maharashtra,3936.67,7486
+2026-03-11,Gram,Karnataka,4899.91,7467
+2026-03-11,Gram,Uttar Pradesh,5220.22,6779
+2026-03-11,Gram,Delhi,6494.23,5641
+2026-03-11,Tur,Maharashtra,6868.01,5446
+2026-03-11,Tur,Karnataka,8024.1,6198
+2026-03-11,Tur,Uttar Pradesh,7628.18,3723
+2026-03-11,Tur,Delhi,8632.76,4234
+2026-03-12,Onion,Maharashtra,1429.38,4873
+2026-03-12,Onion,Karnataka,1507.28,6935
+2026-03-12,Onion,Uttar Pradesh,1652.25,3858
+2026-03-12,Onion,Delhi,1947.62,3356
+2026-03-12,Potato,Maharashtra,717.63,6369
+2026-03-12,Potato,Karnataka,752.71,4927
+2026-03-12,Potato,Uttar Pradesh,818.58,5549
+2026-03-12,Potato,Delhi,829.34,7052
+2026-03-12,Tomato,Maharashtra,1930.63,5137
+2026-03-12,Tomato,Karnataka,1811.8,4029
+2026-03-12,Tomato,Uttar Pradesh,2242.34,6897
+2026-03-12,Tomato,Delhi,2410.34,4818
+2026-03-12,Gram,Maharashtra,4620.84,4522
+2026-03-12,Gram,Karnataka,4668.66,6002
+2026-03-12,Gram,Uttar Pradesh,4907.01,5312
+2026-03-12,Gram,Delhi,6300.64,4372
+2026-03-12,Tur,Maharashtra,6658.32,4377
+2026-03-12,Tur,Karnataka,6680.74,3910
+2026-03-12,Tur,Uttar Pradesh,7812.02,2894
+2026-03-12,Tur,Delhi,9734.12,5109
+2026-03-13,Onion,Maharashtra,1376.38,2663
+2026-03-13,Onion,Karnataka,1447.76,5195
+2026-03-13,Onion,Uttar Pradesh,1448.33,4484
+2026-03-13,Onion,Delhi,2145.62,4531
+2026-03-13,Potato,Maharashtra,680.34,4725
+2026-03-13,Potato,Karnataka,763.56,6298
+2026-03-13,Potato,Uttar Pradesh,862.57,5580
+2026-03-13,Potato,Delhi,1070.6,6935
+2026-03-13,Tomato,Maharashtra,1877.06,5502
+2026-03-13,Tomato,Karnataka,1772.55,4887
+2026-03-13,Tomato,Uttar Pradesh,2140.53,4372
+2026-03-13,Tomato,Delhi,2389.54,4040
+2026-03-13,Gram,Maharashtra,4385.08,4478
+2026-03-13,Gram,Karnataka,4927.12,5776
+2026-03-13,Gram,Uttar Pradesh,5242.53,4962
+2026-03-13,Gram,Delhi,6761.6,3665
+2026-03-13,Tur,Maharashtra,7407.02,3613
+2026-03-13,Tur,Karnataka,7200.95,5763
+2026-03-13,Tur,Uttar Pradesh,7016.0,5424
+2026-03-13,Tur,Delhi,9793.28,2226
+2026-03-14,Onion,Maharashtra,1473.69,2785
+2026-03-14,Onion,Karnataka,1376.0,6978
+2026-03-14,Onion,Uttar Pradesh,1500.59,3826
+2026-03-14,Onion,Delhi,1939.25,5654
+2026-03-14,Potato,Maharashtra,617.13,5484
+2026-03-14,Potato,Karnataka,891.57,9023
+2026-03-14,Potato,Uttar Pradesh,820.92,4701
+2026-03-14,Potato,Delhi,1181.91,6594
+2026-03-14,Tomato,Maharashtra,1850.83,4652
+2026-03-14,Tomato,Karnataka,1800.51,5094
+2026-03-14,Tomato,Uttar Pradesh,1971.77,6451
+2026-03-14,Tomato,Delhi,2557.88,3138
+2026-03-14,Gram,Maharashtra,5043.69,6559
+2026-03-14,Gram,Karnataka,5055.83,7563
+2026-03-14,Gram,Uttar Pradesh,4679.75,5515
+2026-03-14,Gram,Delhi,6149.99,3050
+2026-03-14,Tur,Maharashtra,6794.42,8346
+2026-03-14,Tur,Karnataka,6179.17,5229
+2026-03-14,Tur,Uttar Pradesh,7664.24,5123
+2026-03-14,Tur,Delhi,9169.09,2960
+2026-03-15,Onion,Maharashtra,1442.01,4714
+2026-03-15,Onion,Karnataka,1229.85,6520
+2026-03-15,Onion,Uttar Pradesh,1686.21,5051
+2026-03-15,Onion,Delhi,1991.49,4859
+2026-03-15,Potato,Maharashtra,761.34,8200
+2026-03-15,Potato,Karnataka,766.23,8305
+2026-03-15,Potato,Uttar Pradesh,850.94,6492
+2026-03-15,Potato,Delhi,946.7,5286
+2026-03-15,Tomato,Maharashtra,1549.73,4846
+2026-03-15,Tomato,Karnataka,1648.38,4140
+2026-03-15,Tomato,Uttar Pradesh,2331.75,6331
+2026-03-15,Tomato,Delhi,2767.57,3021
+2026-03-15,Gram,Maharashtra,4588.07,4575
+2026-03-15,Gram,Karnataka,4573.15,4774
+2026-03-15,Gram,Uttar Pradesh,5504.0,5115
+2026-03-15,Gram,Delhi,6711.62,4981
+2026-03-15,Tur,Maharashtra,7676.84,3911
+2026-03-15,Tur,Karnataka,7575.75,6469
+2026-03-15,Tur,Uttar Pradesh,6939.98,6007
+2026-03-15,Tur,Delhi,9373.77,3818
+2026-03-16,Onion,Maharashtra,1315.93,4756
+2026-03-16,Onion,Karnataka,1739.38,5263
+2026-03-16,Onion,Uttar Pradesh,1665.86,4209
+2026-03-16,Onion,Delhi,1871.42,4865
+2026-03-16,Potato,Maharashtra,651.45,6367
+2026-03-16,Potato,Karnataka,789.74,6725
+2026-03-16,Potato,Uttar Pradesh,816.26,6744
+2026-03-16,Potato,Delhi,1084.5,5734
+2026-03-16,Tomato,Maharashtra,1520.04,5239
+2026-03-16,Tomato,Karnataka,2051.55,6204
+2026-03-16,Tomato,Uttar Pradesh,1633.43,5351
+2026-03-16,Tomato,Delhi,1989.35,4037
+2026-03-16,Gram,Maharashtra,5228.57,5002
+2026-03-16,Gram,Karnataka,4525.91,6741
+2026-03-16,Gram,Uttar Pradesh,4531.52,4852
+2026-03-16,Gram,Delhi,6548.13,3880
+2026-03-16,Tur,Maharashtra,6535.81,6382
+2026-03-16,Tur,Karnataka,7200.7,5544
+2026-03-16,Tur,Uttar Pradesh,7227.39,5370
+2026-03-16,Tur,Delhi,9169.32,4366
+2026-03-17,Onion,Maharashtra,1355.89,5352
+2026-03-17,Onion,Karnataka,1375.37,5226
+2026-03-17,Onion,Uttar Pradesh,1475.48,3885
+2026-03-17,Onion,Delhi,1997.04,4170
+2026-03-17,Potato,Maharashtra,801.01,6345
+2026-03-17,Potato,Karnataka,816.23,7303
+2026-03-17,Potato,Uttar Pradesh,860.25,5217
+2026-03-17,Potato,Delhi,1046.86,5364
+2026-03-17,Tomato,Maharashtra,1719.72,3237
+2026-03-17,Tomato,Karnataka,1845.84,7592
+2026-03-17,Tomato,Uttar Pradesh,1837.19,4271
+2026-03-17,Tomato,Delhi,2461.17,4249
+2026-03-17,Gram,Maharashtra,4983.02,4619
+2026-03-17,Gram,Karnataka,5075.19,6538
+2026-03-17,Gram,Uttar Pradesh,5023.1,5931
+2026-03-17,Gram,Delhi,6701.37,5219
+2026-03-17,Tur,Maharashtra,6129.44,6466
+2026-03-17,Tur,Karnataka,6983.79,5339
+2026-03-17,Tur,Uttar Pradesh,7414.94,4849
+2026-03-17,Tur,Delhi,9763.77,3933
+2026-03-18,Onion,Maharashtra,1281.89,5118
+2026-03-18,Onion,Karnataka,1516.36,6557
+2026-03-18,Onion,Uttar Pradesh,1645.97,4149
+2026-03-18,Onion,Delhi,2265.22,4211
+2026-03-18,Potato,Maharashtra,835.77,6733
+2026-03-18,Potato,Karnataka,825.3,7683
+2026-03-18,Potato,Uttar Pradesh,914.71,7571
+2026-03-18,Potato,Delhi,1097.85,4684
+2026-03-18,Tomato,Maharashtra,1605.01,5925
+2026-03-18,Tomato,Karnataka,2001.51,5028
+2026-03-18,Tomato,Uttar Pradesh,2123.43,6452
+2026-03-18,Tomato,Delhi,2204.74,3330
+2026-03-18,Gram,Maharashtra,4517.65,6552
+2026-03-18,Gram,Karnataka,4636.89,7429
+2026-03-18,Gram,Uttar Pradesh,5222.62,5599
+2026-03-18,Gram,Delhi,5840.18,3274
+2026-03-18,Tur,Maharashtra,6772.05,3186
+2026-03-18,Tur,Karnataka,7470.49,5096
+2026-03-18,Tur,Uttar Pradesh,8843.39,7307
+2026-03-18,Tur,Delhi,9148.35,3914
+2026-03-19,Onion,Maharashtra,1536.43,7447
+2026-03-19,Onion,Karnataka,1299.12,3382
+2026-03-19,Onion,Uttar Pradesh,1499.76,5582
+2026-03-19,Onion,Delhi,2027.62,4855
+2026-03-19,Potato,Maharashtra,662.81,3727
+2026-03-19,Potato,Karnataka,848.33,5489
+2026-03-19,Potato,Uttar Pradesh,688.47,6431
+2026-03-19,Potato,Delhi,1092.72,4877
+2026-03-19,Tomato,Maharashtra,1628.87,5378
+2026-03-19,Tomato,Karnataka,1741.9,3844
+2026-03-19,Tomato,Uttar Pradesh,1768.66,5521
+2026-03-19,Tomato,Delhi,2453.84,4134
+2026-03-19,Gram,Maharashtra,4219.69,5948
+2026-03-19,Gram,Karnataka,4059.8,6056
+2026-03-19,Gram,Uttar Pradesh,5575.65,3917
+2026-03-19,Gram,Delhi,6139.36,4736
+2026-03-19,Tur,Maharashtra,7211.18,5057
+2026-03-19,Tur,Karnataka,6705.19,3190
+2026-03-19,Tur,Uttar Pradesh,7432.55,7042
+2026-03-19,Tur,Delhi,9357.31,3982
+2026-03-20,Onion,Maharashtra,1456.33,5543
+2026-03-20,Onion,Karnataka,1398.88,6129
+2026-03-20,Onion,Uttar Pradesh,1602.29,5017
+2026-03-20,Onion,Delhi,1851.96,5042
+2026-03-20,Potato,Maharashtra,793.6,6176
+2026-03-20,Potato,Karnataka,858.7,5924
+2026-03-20,Potato,Uttar Pradesh,775.34,5300
+2026-03-20,Potato,Delhi,913.63,5471
+2026-03-20,Tomato,Maharashtra,1355.29,4190
+2026-03-20,Tomato,Karnataka,1402.04,5172
+2026-03-20,Tomato,Uttar Pradesh,1882.74,4673
+2026-03-20,Tomato,Delhi,2182.48,3062
+2026-03-20,Gram,Maharashtra,4731.74,5493
+2026-03-20,Gram,Karnataka,4933.78,4812
+2026-03-20,Gram,Uttar Pradesh,5140.27,7003
+2026-03-20,Gram,Delhi,6551.28,4077
+2026-03-20,Tur,Maharashtra,6764.94,5288
+2026-03-20,Tur,Karnataka,7022.15,4920
+2026-03-20,Tur,Uttar Pradesh,7314.05,5212
+2026-03-20,Tur,Delhi,8787.99,3187
+2026-03-21,Onion,Maharashtra,1251.77,3777
+2026-03-21,Onion,Karnataka,1351.13,5431
+2026-03-21,Onion,Uttar Pradesh,1468.87,5513
+2026-03-21,Onion,Delhi,1974.17,2425
+2026-03-21,Potato,Maharashtra,793.21,8070
+2026-03-21,Potato,Karnataka,719.31,7131
+2026-03-21,Potato,Uttar Pradesh,770.45,6372
+2026-03-21,Potato,Delhi,949.49,3206
+2026-03-21,Tomato,Maharashtra,1646.04,5418
+2026-03-21,Tomato,Karnataka,1738.76,4016
+2026-03-21,Tomato,Uttar Pradesh,1834.02,5269
+2026-03-21,Tomato,Delhi,2383.52,4146
+2026-03-21,Gram,Maharashtra,4335.88,7619
+2026-03-21,Gram,Karnataka,4412.68,6418
+2026-03-21,Gram,Uttar Pradesh,5491.91,6089
+2026-03-21,Gram,Delhi,6276.93,3974
+2026-03-21,Tur,Maharashtra,7117.24,3974
+2026-03-21,Tur,Karnataka,6583.94,4844
+2026-03-21,Tur,Uttar Pradesh,7946.94,5379
+2026-03-21,Tur,Delhi,8801.88,3751
+2026-03-22,Onion,Maharashtra,1345.4,4766
+2026-03-22,Onion,Karnataka,1615.43,3819
+2026-03-22,Onion,Uttar Pradesh,1769.85,5828
+2026-03-22,Onion,Delhi,2101.9,3629
+2026-03-22,Potato,Maharashtra,737.15,4953
+2026-03-22,Potato,Karnataka,752.46,7228
+2026-03-22,Potato,Uttar Pradesh,921.44,4866
+2026-03-22,Potato,Delhi,1012.81,4848
+2026-03-22,Tomato,Maharashtra,1444.52,6212
+2026-03-22,Tomato,Karnataka,1674.64,5057
+2026-03-22,Tomato,Uttar Pradesh,1824.81,4210
+2026-03-22,Tomato,Delhi,2392.59,3827
+2026-03-22,Gram,Maharashtra,4441.49,5273
+2026-03-22,Gram,Karnataka,4937.45,7782
+2026-03-22,Gram,Uttar Pradesh,5128.56,6662
+2026-03-22,Gram,Delhi,5862.92,4584
+2026-03-22,Tur,Maharashtra,6158.98,3914
+2026-03-22,Tur,Karnataka,6689.68,6517
+2026-03-22,Tur,Uttar Pradesh,7819.51,5243
+2026-03-22,Tur,Delhi,8550.28,3842
+2026-03-23,Onion,Maharashtra,1456.04,5750
+2026-03-23,Onion,Karnataka,1277.46,4325
+2026-03-23,Onion,Uttar Pradesh,1569.91,5536
+2026-03-23,Onion,Delhi,1708.46,3870
+2026-03-23,Potato,Maharashtra,757.95,8124
+2026-03-23,Potato,Karnataka,837.99,7345
+2026-03-23,Potato,Uttar Pradesh,775.04,3864
+2026-03-23,Potato,Delhi,1011.29,6001
+2026-03-23,Tomato,Maharashtra,2003.45,6345
+2026-03-23,Tomato,Karnataka,1906.45,5662
+2026-03-23,Tomato,Uttar Pradesh,1805.18,4869
+2026-03-23,Tomato,Delhi,2729.31,3245
+2026-03-23,Gram,Maharashtra,5138.03,5775
+2026-03-23,Gram,Karnataka,5290.8,4202
+2026-03-23,Gram,Uttar Pradesh,5286.02,4736
+2026-03-23,Gram,Delhi,5855.84,4638
+2026-03-23,Tur,Maharashtra,7108.86,4616
+2026-03-23,Tur,Karnataka,6349.74,5166
+2026-03-23,Tur,Uttar Pradesh,7354.65,5548
+2026-03-23,Tur,Delhi,9669.82,3952
+2026-03-24,Onion,Maharashtra,1643.22,5804
+2026-03-24,Onion,Karnataka,1457.91,3566
+2026-03-24,Onion,Uttar Pradesh,1546.88,4663
+2026-03-24,Onion,Delhi,2088.24,4369
+2026-03-24,Potato,Maharashtra,665.67,7183
+2026-03-24,Potato,Karnataka,836.8,8589
+2026-03-24,Potato,Uttar Pradesh,893.49,7201
+2026-03-24,Potato,Delhi,1043.41,5388
+2026-03-24,Tomato,Maharashtra,1975.74,4074
+2026-03-24,Tomato,Karnataka,1751.83,4449
+2026-03-24,Tomato,Uttar Pradesh,1993.43,6230
+2026-03-24,Tomato,Delhi,2277.61,2087
+2026-03-24,Gram,Maharashtra,4429.79,7300
+2026-03-24,Gram,Karnataka,5016.36,6348
+2026-03-24,Gram,Uttar Pradesh,4984.3,4134
+2026-03-24,Gram,Delhi,6533.23,3702
+2026-03-24,Tur,Maharashtra,7639.24,6189
+2026-03-24,Tur,Karnataka,6764.91,4619
+2026-03-24,Tur,Uttar Pradesh,7354.18,4760
+2026-03-24,Tur,Delhi,9747.58,4149
+2026-03-25,Onion,Maharashtra,1333.48,7656
+2026-03-25,Onion,Karnataka,1506.16,6072
+2026-03-25,Onion,Uttar Pradesh,1506.21,5363
+2026-03-25,Onion,Delhi,2011.33,2488
+2026-03-25,Potato,Maharashtra,889.58,8737
+2026-03-25,Potato,Karnataka,762.29,5128
+2026-03-25,Potato,Uttar Pradesh,856.01,6358
+2026-03-25,Potato,Delhi,1064.5,5191
+2026-03-25,Tomato,Maharashtra,1828.17,7163
+2026-03-25,Tomato,Karnataka,1936.48,4158
+2026-03-25,Tomato,Uttar Pradesh,2191.31,6640
+2026-03-25,Tomato,Delhi,3028.91,3101
+2026-03-25,Gram,Maharashtra,4660.29,3602
+2026-03-25,Gram,Karnataka,5023.07,5206
+2026-03-25,Gram,Uttar Pradesh,5756.86,4694
+2026-03-25,Gram,Delhi,5763.35,4025
+2026-03-25,Tur,Maharashtra,5769.23,6390
+2026-03-25,Tur,Karnataka,6098.81,5293
+2026-03-25,Tur,Uttar Pradesh,6462.98,4679
+2026-03-25,Tur,Delhi,9987.02,4288
+2026-03-26,Onion,Maharashtra,1318.38,5520
+2026-03-26,Onion,Karnataka,1503.16,5760
+2026-03-26,Onion,Uttar Pradesh,1415.98,5592
+2026-03-26,Onion,Delhi,1650.47,3496
+2026-03-26,Potato,Maharashtra,714.62,7824
+2026-03-26,Potato,Karnataka,791.98,4729
+2026-03-26,Potato,Uttar Pradesh,763.05,6498
+2026-03-26,Potato,Delhi,1034.47,4420
+2026-03-26,Tomato,Maharashtra,1631.83,6329
+2026-03-26,Tomato,Karnataka,1720.46,5170
+2026-03-26,Tomato,Uttar Pradesh,2353.99,3576
+2026-03-26,Tomato,Delhi,2029.63,4626
+2026-03-26,Gram,Maharashtra,4338.97,5779
+2026-03-26,Gram,Karnataka,4557.35,5544
+2026-03-26,Gram,Uttar Pradesh,5644.49,6446
+2026-03-26,Gram,Delhi,6658.03,3185
+2026-03-26,Tur,Maharashtra,6141.98,2401
+2026-03-26,Tur,Karnataka,6665.78,6270
+2026-03-26,Tur,Uttar Pradesh,7632.63,4778
+2026-03-26,Tur,Delhi,9239.96,3448
+2026-03-27,Onion,Maharashtra,1447.29,6406
+2026-03-27,Onion,Karnataka,1307.85,5578
+2026-03-27,Onion,Uttar Pradesh,1692.69,4584
+2026-03-27,Onion,Delhi,2060.08,6251
+2026-03-27,Potato,Maharashtra,741.78,7490
+2026-03-27,Potato,Karnataka,739.04,6817
+2026-03-27,Potato,Uttar Pradesh,864.54,6493
+2026-03-27,Potato,Delhi,969.02,5206
+2026-03-27,Tomato,Maharashtra,2021.52,6054
+2026-03-27,Tomato,Karnataka,2017.54,5013
+2026-03-27,Tomato,Uttar Pradesh,2071.18,5279
+2026-03-27,Tomato,Delhi,2211.32,4254
+2026-03-27,Gram,Maharashtra,4230.62,5391
+2026-03-27,Gram,Karnataka,4898.3,6195
+2026-03-27,Gram,Uttar Pradesh,4670.12,6726
+2026-03-27,Gram,Delhi,6558.14,3818
+2026-03-27,Tur,Maharashtra,5969.89,5394
+2026-03-27,Tur,Karnataka,6831.23,5382
+2026-03-27,Tur,Uttar Pradesh,7238.6,2992
+2026-03-27,Tur,Delhi,9077.74,3755
+2026-03-28,Onion,Maharashtra,1499.48,4779
+2026-03-28,Onion,Karnataka,1703.96,3250
+2026-03-28,Onion,Uttar Pradesh,1738.94,4775
+2026-03-28,Onion,Delhi,2080.15,4063
+2026-03-28,Potato,Maharashtra,829.14,6406
+2026-03-28,Potato,Karnataka,714.1,8448
+2026-03-28,Potato,Uttar Pradesh,824.7,6526
+2026-03-28,Potato,Delhi,1127.23,3968
+2026-03-28,Tomato,Maharashtra,1849.26,4900
+2026-03-28,Tomato,Karnataka,1799.85,5339
+2026-03-28,Tomato,Uttar Pradesh,1622.36,4221
+2026-03-28,Tomato,Delhi,2673.21,4708
+2026-03-28,Gram,Maharashtra,4557.01,6472
+2026-03-28,Gram,Karnataka,4730.33,7434
+2026-03-28,Gram,Uttar Pradesh,5017.58,5813
+2026-03-28,Gram,Delhi,6760.74,3753
+2026-03-28,Tur,Maharashtra,7365.06,3855
+2026-03-28,Tur,Karnataka,7767.14,4870
+2026-03-28,Tur,Uttar Pradesh,7294.79,3109
+2026-03-28,Tur,Delhi,9050.34,3168
+2026-03-29,Onion,Maharashtra,1351.24,5402
+2026-03-29,Onion,Karnataka,1618.21,5481
+2026-03-29,Onion,Uttar Pradesh,1619.32,3904
+2026-03-29,Onion,Delhi,1872.31,5438
+2026-03-29,Potato,Maharashtra,698.2,9244
+2026-03-29,Potato,Karnataka,774.3,6581
+2026-03-29,Potato,Uttar Pradesh,907.89,7839
+2026-03-29,Potato,Delhi,1033.44,4611
+2026-03-29,Tomato,Maharashtra,1720.06,5931
+2026-03-29,Tomato,Karnataka,2005.68,5267
+2026-03-29,Tomato,Uttar Pradesh,2047.38,6638
+2026-03-29,Tomato,Delhi,2480.76,4249
+2026-03-29,Gram,Maharashtra,4048.53,2925
+2026-03-29,Gram,Karnataka,4970.53,5737
+2026-03-29,Gram,Uttar Pradesh,4908.88,5826
+2026-03-29,Gram,Delhi,6340.17,5446
+2026-03-29,Tur,Maharashtra,6704.15,4725
+2026-03-29,Tur,Karnataka,7481.27,5034
+2026-03-29,Tur,Uttar Pradesh,7642.94,4522
+2026-03-29,Tur,Delhi,8965.08,4067
+2026-03-30,Onion,Maharashtra,1426.42,6088
+2026-03-30,Onion,Karnataka,1471.8,3330
+2026-03-30,Onion,Uttar Pradesh,1531.27,5793
+2026-03-30,Onion,Delhi,1943.31,3802
+2026-03-30,Potato,Maharashtra,819.0,5955
+2026-03-30,Potato,Karnataka,683.62,6367
+2026-03-30,Potato,Uttar Pradesh,799.39,5042
+2026-03-30,Potato,Delhi,1029.32,5491
+2026-03-30,Tomato,Maharashtra,1730.46,5896
+2026-03-30,Tomato,Karnataka,2191.24,4902
+2026-03-30,Tomato,Uttar Pradesh,1980.47,4490
+2026-03-30,Tomato,Delhi,2236.73,3532
+2026-03-30,Gram,Maharashtra,4413.79,6616
+2026-03-30,Gram,Karnataka,5658.06,5010
+2026-03-30,Gram,Uttar Pradesh,4944.58,5485
+2026-03-30,Gram,Delhi,6501.53,4678
+2026-03-30,Tur,Maharashtra,7245.04,2859
+2026-03-30,Tur,Karnataka,5963.48,4741
+2026-03-30,Tur,Uttar Pradesh,7901.79,3434
+2026-03-30,Tur,Delhi,7906.57,4456
+2026-03-31,Onion,Maharashtra,1454.84,4344
+2026-03-31,Onion,Karnataka,1386.54,4242
+2026-03-31,Onion,Uttar Pradesh,1597.26,4373
+2026-03-31,Onion,Delhi,2039.29,1716
+2026-03-31,Potato,Maharashtra,690.26,5380
+2026-03-31,Potato,Karnataka,773.98,5870
+2026-03-31,Potato,Uttar Pradesh,889.45,3925
+2026-03-31,Potato,Delhi,1045.18,5558
+2026-03-31,Tomato,Maharashtra,2104.73,5020
+2026-03-31,Tomato,Karnataka,1894.59,3364
+2026-03-31,Tomato,Uttar Pradesh,1447.61,5844
+2026-03-31,Tomato,Delhi,2406.39,4942
+2026-03-31,Gram,Maharashtra,4101.88,6814
+2026-03-31,Gram,Karnataka,5491.25,6338
+2026-03-31,Gram,Uttar Pradesh,5188.55,5565
+2026-03-31,Gram,Delhi,5814.88,5649
+2026-03-31,Tur,Maharashtra,6394.11,6116
+2026-03-31,Tur,Karnataka,6336.13,4021
+2026-03-31,Tur,Uttar Pradesh,8055.79,4652
+2026-03-31,Tur,Delhi,9916.47,3937
+2026-04-01,Onion,Maharashtra,1205.29,6546
+2026-04-01,Onion,Karnataka,1434.77,5998
+2026-04-01,Onion,Uttar Pradesh,1587.83,3456
+2026-04-01,Onion,Delhi,2000.72,5756
+2026-04-01,Potato,Maharashtra,972.67,5491
+2026-04-01,Potato,Karnataka,1065.55,5484
+2026-04-01,Potato,Uttar Pradesh,1057.07,3908
+2026-04-01,Potato,Delhi,1319.37,4828
+2026-04-01,Tomato,Maharashtra,1567.27,7138
+2026-04-01,Tomato,Karnataka,1812.5,4328
+2026-04-01,Tomato,Uttar Pradesh,2126.73,4713
+2026-04-01,Tomato,Delhi,2560.9,3766
+2026-04-01,Gram,Maharashtra,4562.85,6782
+2026-04-01,Gram,Karnataka,4940.26,3513
+2026-04-01,Gram,Uttar Pradesh,4700.66,6588
+2026-04-01,Gram,Delhi,6320.13,3978
+2026-04-01,Tur,Maharashtra,6059.44,4355
+2026-04-01,Tur,Karnataka,6131.59,5156
+2026-04-01,Tur,Uttar Pradesh,7142.7,4033
+2026-04-01,Tur,Delhi,9234.34,4291
+2026-04-02,Onion,Maharashtra,1678.22,3875
+2026-04-02,Onion,Karnataka,1645.45,6287
+2026-04-02,Onion,Uttar Pradesh,1492.11,5203
+2026-04-02,Onion,Delhi,1927.08,4148
+2026-04-02,Potato,Maharashtra,1044.16,6228
+2026-04-02,Potato,Karnataka,1026.26,4810
+2026-04-02,Potato,Uttar Pradesh,938.92,4791
+2026-04-02,Potato,Delhi,1387.96,2778
+2026-04-02,Tomato,Maharashtra,1524.54,5695
+2026-04-02,Tomato,Karnataka,1635.05,4428
+2026-04-02,Tomato,Uttar Pradesh,1843.68,3634
+2026-04-02,Tomato,Delhi,2215.68,4562
+2026-04-02,Gram,Maharashtra,4127.43,4200
+2026-04-02,Gram,Karnataka,4619.22,6704
+2026-04-02,Gram,Uttar Pradesh,5025.53,5039
+2026-04-02,Gram,Delhi,6383.59,2892
+2026-04-02,Tur,Maharashtra,6895.22,5981
+2026-04-02,Tur,Karnataka,6859.11,6322
+2026-04-02,Tur,Uttar Pradesh,6906.63,6127
+2026-04-02,Tur,Delhi,9337.02,3730
+2026-04-03,Onion,Maharashtra,1425.38,5436
+2026-04-03,Onion,Karnataka,1653.51,4129
+2026-04-03,Onion,Uttar Pradesh,1494.9,6036
+2026-04-03,Onion,Delhi,1911.54,4720
+2026-04-03,Potato,Maharashtra,1057.84,5109
+2026-04-03,Potato,Karnataka,1038.74,4048
+2026-04-03,Potato,Uttar Pradesh,1096.03,5199
+2026-04-03,Potato,Delhi,1337.11,3483
+2026-04-03,Tomato,Maharashtra,1404.42,6114
+2026-04-03,Tomato,Karnataka,1420.44,4929
+2026-04-03,Tomato,Uttar Pradesh,2117.84,5191
+2026-04-03,Tomato,Delhi,2801.67,4820
+2026-04-03,Gram,Maharashtra,4357.36,6206
+2026-04-03,Gram,Karnataka,4824.43,3997
+2026-04-03,Gram,Uttar Pradesh,4766.66,4932
+2026-04-03,Gram,Delhi,5657.07,4486
+2026-04-03,Tur,Maharashtra,6562.32,3696
+2026-04-03,Tur,Karnataka,7227.1,6016
+2026-04-03,Tur,Uttar Pradesh,7518.17,4675
+2026-04-03,Tur,Delhi,9536.15,4544
+2026-04-04,Onion,Maharashtra,1465.37,4639
+2026-04-04,Onion,Karnataka,1541.03,6521
+2026-04-04,Onion,Uttar Pradesh,1515.6,7097
+2026-04-04,Onion,Delhi,1920.92,4025
+2026-04-04,Potato,Maharashtra,892.17,5803
+2026-04-04,Potato,Karnataka,869.46,4688
+2026-04-04,Potato,Uttar Pradesh,967.15,5135
+2026-04-04,Potato,Delhi,1374.11,4516
+2026-04-04,Tomato,Maharashtra,1263.39,7824
+2026-04-04,Tomato,Karnataka,1893.32,4445
+2026-04-04,Tomato,Uttar Pradesh,1962.23,5176
+2026-04-04,Tomato,Delhi,2280.13,4158
+2026-04-04,Gram,Maharashtra,4374.82,5673
+2026-04-04,Gram,Karnataka,4602.09,4172
+2026-04-04,Gram,Uttar Pradesh,5148.19,6205
+2026-04-04,Gram,Delhi,6551.65,5173
+2026-04-04,Tur,Maharashtra,6822.15,4963
+2026-04-04,Tur,Karnataka,7424.95,3834
+2026-04-04,Tur,Uttar Pradesh,7012.7,4035
+2026-04-04,Tur,Delhi,9758.53,4754
+2026-04-05,Onion,Maharashtra,1487.68,6746
+2026-04-05,Onion,Karnataka,1403.09,5630
+2026-04-05,Onion,Uttar Pradesh,1572.98,5846
+2026-04-05,Onion,Delhi,1971.17,3692
+2026-04-05,Potato,Maharashtra,977.46,6529
+2026-04-05,Potato,Karnataka,945.02,5198
+2026-04-05,Potato,Uttar Pradesh,969.91,2501
+2026-04-05,Potato,Delhi,1319.03,4487
+2026-04-05,Tomato,Maharashtra,1791.21,3389
+2026-04-05,Tomato,Karnataka,1765.23,2928
+2026-04-05,Tomato,Uttar Pradesh,2205.94,3913
+2026-04-05,Tomato,Delhi,2666.08,4756
+2026-04-05,Gram,Maharashtra,4273.44,4774
+2026-04-05,Gram,Karnataka,4966.2,4860
+2026-04-05,Gram,Uttar Pradesh,5134.37,5019
+2026-04-05,Gram,Delhi,5749.72,2461
+2026-04-05,Tur,Maharashtra,6780.01,4931
+2026-04-05,Tur,Karnataka,6800.11,5995
+2026-04-05,Tur,Uttar Pradesh,7948.05,4727
+2026-04-05,Tur,Delhi,9121.73,4400
+2026-04-06,Onion,Maharashtra,1267.09,5803
+2026-04-06,Onion,Karnataka,1575.59,5979
+2026-04-06,Onion,Uttar Pradesh,1356.39,4238
+2026-04-06,Onion,Delhi,1880.61,4079
+2026-04-06,Potato,Maharashtra,973.61,7218
+2026-04-06,Potato,Karnataka,957.53,4739
+2026-04-06,Potato,Uttar Pradesh,1124.88,5296
+2026-04-06,Potato,Delhi,1394.24,4230
+2026-04-06,Tomato,Maharashtra,1508.46,4074
+2026-04-06,Tomato,Karnataka,1526.24,5960
+2026-04-06,Tomato,Uttar Pradesh,2170.92,6849
+2026-04-06,Tomato,Delhi,2585.12,4930
+2026-04-06,Gram,Maharashtra,4386.86,4745
+2026-04-06,Gram,Karnataka,5142.39,6336
+2026-04-06,Gram,Uttar Pradesh,5137.46,5985
+2026-04-06,Gram,Delhi,6487.93,5585
+2026-04-06,Tur,Maharashtra,7262.54,6160
+2026-04-06,Tur,Karnataka,7431.51,5804
+2026-04-06,Tur,Uttar Pradesh,7214.47,5756
+2026-04-06,Tur,Delhi,8649.98,4843
+2026-04-07,Onion,Maharashtra,1287.3,5873
+2026-04-07,Onion,Karnataka,1408.7,5845
+2026-04-07,Onion,Uttar Pradesh,1585.53,3405
+2026-04-07,Onion,Delhi,2037.48,3537
+2026-04-07,Potato,Maharashtra,1002.0,5557
+2026-04-07,Potato,Karnataka,1020.24,4255
+2026-04-07,Potato,Uttar Pradesh,1003.55,4541
+2026-04-07,Potato,Delhi,1365.97,5341
+2026-04-07,Tomato,Maharashtra,1579.93,6752
+2026-04-07,Tomato,Karnataka,1403.74,4006
+2026-04-07,Tomato,Uttar Pradesh,1742.64,3647
+2026-04-07,Tomato,Delhi,2101.28,4330
+2026-04-07,Gram,Maharashtra,4516.16,6641
+2026-04-07,Gram,Karnataka,5087.81,6158
+2026-04-07,Gram,Uttar Pradesh,5331.42,5478
+2026-04-07,Gram,Delhi,5961.05,5384
+2026-04-07,Tur,Maharashtra,6416.5,4516
+2026-04-07,Tur,Karnataka,6972.74,4302
+2026-04-07,Tur,Uttar Pradesh,7236.16,5344
+2026-04-07,Tur,Delhi,9436.75,3281
+2026-04-08,Onion,Maharashtra,1372.84,6749
+2026-04-08,Onion,Karnataka,1570.45,7447
+2026-04-08,Onion,Uttar Pradesh,1732.02,6144
+2026-04-08,Onion,Delhi,1821.46,4611
+2026-04-08,Potato,Maharashtra,936.96,4943
+2026-04-08,Potato,Karnataka,1004.7,6258
+2026-04-08,Potato,Uttar Pradesh,1080.26,4121
+2026-04-08,Potato,Delhi,1358.47,3489
+2026-04-08,Tomato,Maharashtra,1785.38,5218
+2026-04-08,Tomato,Karnataka,1795.05,6069
+2026-04-08,Tomato,Uttar Pradesh,1727.56,6945
+2026-04-08,Tomato,Delhi,2055.28,3521
+2026-04-08,Gram,Maharashtra,4721.87,6894
+2026-04-08,Gram,Karnataka,4812.26,5780
+2026-04-08,Gram,Uttar Pradesh,5246.24,5298
+2026-04-08,Gram,Delhi,6865.8,5190
+2026-04-08,Tur,Maharashtra,7076.17,4482
+2026-04-08,Tur,Karnataka,7018.98,4946
+2026-04-08,Tur,Uttar Pradesh,6973.48,5360
+2026-04-08,Tur,Delhi,9040.56,4524
+2026-04-09,Onion,Maharashtra,1303.66,7465
+2026-04-09,Onion,Karnataka,1404.08,5494
+2026-04-09,Onion,Uttar Pradesh,1686.22,4429
+2026-04-09,Onion,Delhi,2091.3,3016
+2026-04-09,Potato,Maharashtra,1042.69,5571
+2026-04-09,Potato,Karnataka,951.57,4948
+2026-04-09,Potato,Uttar Pradesh,1102.22,4415
+2026-04-09,Potato,Delhi,1254.54,3822
+2026-04-09,Tomato,Maharashtra,1507.73,7578
+2026-04-09,Tomato,Karnataka,1726.68,6138
+2026-04-09,Tomato,Uttar Pradesh,1978.69,4015
+2026-04-09,Tomato,Delhi,2419.81,4627
+2026-04-09,Gram,Maharashtra,4527.62,7645
+2026-04-09,Gram,Karnataka,5206.24,6922
+2026-04-09,Gram,Uttar Pradesh,4943.02,4355
+2026-04-09,Gram,Delhi,6165.12,4618
+2026-04-09,Tur,Maharashtra,6930.8,3142
+2026-04-09,Tur,Karnataka,7052.95,5429
+2026-04-09,Tur,Uttar Pradesh,7303.11,6291
+2026-04-09,Tur,Delhi,9474.8,5048
+2026-04-10,Onion,Maharashtra,1406.88,6597
+2026-04-10,Onion,Karnataka,1708.61,6643
+2026-04-10,Onion,Uttar Pradesh,1460.94,4746
+2026-04-10,Onion,Delhi,1948.58,4391
+2026-04-10,Potato,Maharashtra,989.44,4623
+2026-04-10,Potato,Karnataka,998.45,3136
+2026-04-10,Potato,Uttar Pradesh,1146.94,4487
+2026-04-10,Potato,Delhi,1311.41,3752
+2026-04-10,Tomato,Maharashtra,1973.41,2402
+2026-04-10,Tomato,Karnataka,1837.78,5151
+2026-04-10,Tomato,Uttar Pradesh,1847.27,6726
+2026-04-10,Tomato,Delhi,2245.03,4617
+2026-04-10,Gram,Maharashtra,4719.41,7730
+2026-04-10,Gram,Karnataka,4616.47,4990
+2026-04-10,Gram,Uttar Pradesh,5488.87,6028
+2026-04-10,Gram,Delhi,5840.83,3965
+2026-04-10,Tur,Maharashtra,6860.87,6486
+2026-04-10,Tur,Karnataka,6752.85,2195
+2026-04-10,Tur,Uttar Pradesh,7665.45,3779
+2026-04-10,Tur,Delhi,8379.7,1734
+2026-04-11,Onion,Maharashtra,1531.2,5698
+2026-04-11,Onion,Karnataka,1486.08,6725
+2026-04-11,Onion,Uttar Pradesh,1669.28,6616
+2026-04-11,Onion,Delhi,1823.87,3972
+2026-04-11,Potato,Maharashtra,828.59,5300
+2026-04-11,Potato,Karnataka,976.68,5922
+2026-04-11,Potato,Uttar Pradesh,1049.59,5623
+2026-04-11,Potato,Delhi,1357.24,5723
+2026-04-11,Tomato,Maharashtra,1682.22,4509
+2026-04-11,Tomato,Karnataka,1891.46,4418
+2026-04-11,Tomato,Uttar Pradesh,2235.59,4716
+2026-04-11,Tomato,Delhi,2310.88,3622
+2026-04-11,Gram,Maharashtra,4847.39,5978
+2026-04-11,Gram,Karnataka,4626.69,7795
+2026-04-11,Gram,Uttar Pradesh,4806.94,5595
+2026-04-11,Gram,Delhi,6611.56,2994
+2026-04-11,Tur,Maharashtra,6904.92,4383
+2026-04-11,Tur,Karnataka,7430.65,4249
+2026-04-11,Tur,Uttar Pradesh,7743.75,6105
+2026-04-11,Tur,Delhi,9677.65,4201
+2026-04-12,Onion,Maharashtra,1406.48,4915
+2026-04-12,Onion,Karnataka,1690.44,4526
+2026-04-12,Onion,Uttar Pradesh,1469.15,5665
+2026-04-12,Onion,Delhi,1896.46,3239
+2026-04-12,Potato,Maharashtra,841.07,5018
+2026-04-12,Potato,Karnataka,988.67,5519
+2026-04-12,Potato,Uttar Pradesh,1113.39,5526
+2026-04-12,Potato,Delhi,1295.14,3841
+2026-04-12,Tomato,Maharashtra,1848.39,6969
+2026-04-12,Tomato,Karnataka,1868.64,4769
+2026-04-12,Tomato,Uttar Pradesh,1741.83,3554
+2026-04-12,Tomato,Delhi,2558.75,4462
+2026-04-12,Gram,Maharashtra,4799.23,6014
+2026-04-12,Gram,Karnataka,5344.98,5281
+2026-04-12,Gram,Uttar Pradesh,5442.29,5512
+2026-04-12,Gram,Delhi,6172.01,4971
+2026-04-12,Tur,Maharashtra,6874.94,5952
+2026-04-12,Tur,Karnataka,7098.88,5223
+2026-04-12,Tur,Uttar Pradesh,8508.77,6184
+2026-04-12,Tur,Delhi,9617.77,4089
+2026-04-13,Onion,Maharashtra,1555.82,6131
+2026-04-13,Onion,Karnataka,1517.82,4943
+2026-04-13,Onion,Uttar Pradesh,1584.69,1829
+2026-04-13,Onion,Delhi,2018.27,3609
+2026-04-13,Potato,Maharashtra,1053.97,5577
+2026-04-13,Potato,Karnataka,911.61,5210
+2026-04-13,Potato,Uttar Pradesh,973.97,5473
+2026-04-13,Potato,Delhi,1329.37,4766
+2026-04-13,Tomato,Maharashtra,1589.26,5593
+2026-04-13,Tomato,Karnataka,1571.52,6001
+2026-04-13,Tomato,Uttar Pradesh,2045.37,5495
+2026-04-13,Tomato,Delhi,2427.32,4331
+2026-04-13,Gram,Maharashtra,5159.89,5820
+2026-04-13,Gram,Karnataka,4902.36,4577
+2026-04-13,Gram,Uttar Pradesh,4805.41,5664
+2026-04-13,Gram,Delhi,6773.0,4216
+2026-04-13,Tur,Maharashtra,6586.24,5103
+2026-04-13,Tur,Karnataka,6823.56,5573
+2026-04-13,Tur,Uttar Pradesh,6762.23,6280
+2026-04-13,Tur,Delhi,8995.56,4577
+2026-04-14,Onion,Maharashtra,1283.28,6298
+2026-04-14,Onion,Karnataka,1596.07,5667
+2026-04-14,Onion,Uttar Pradesh,1475.87,5249
+2026-04-14,Onion,Delhi,1852.03,3797
+2026-04-14,Potato,Maharashtra,1014.9,6440
+2026-04-14,Potato,Karnataka,996.28,4237
+2026-04-14,Potato,Uttar Pradesh,1092.79,5019
+2026-04-14,Potato,Delhi,1147.08,4626
+2026-04-14,Tomato,Maharashtra,1743.67,6891
+2026-04-14,Tomato,Karnataka,1626.61,1919
+2026-04-14,Tomato,Uttar Pradesh,1998.62,5291
+2026-04-14,Tomato,Delhi,2090.37,3217
+2026-04-14,Gram,Maharashtra,5563.91,5795
+2026-04-14,Gram,Karnataka,5110.95,5086
+2026-04-14,Gram,Uttar Pradesh,4379.04,5366
+2026-04-14,Gram,Delhi,6295.35,4088
+2026-04-14,Tur,Maharashtra,6642.61,5849
+2026-04-14,Tur,Karnataka,6998.55,3932
+2026-04-14,Tur,Uttar Pradesh,7656.78,3050
+2026-04-14,Tur,Delhi,8374.84,4591
+2026-04-15,Onion,Maharashtra,1497.24,5491
+2026-04-15,Onion,Karnataka,1348.75,4517
+2026-04-15,Onion,Uttar Pradesh,1564.47,3404
+2026-04-15,Onion,Delhi,1906.32,4521
+2026-04-15,Potato,Maharashtra,1043.11,5089
+2026-04-15,Potato,Karnataka,1048.55,3248
+2026-04-15,Potato,Uttar Pradesh,1094.16,4196
+2026-04-15,Potato,Delhi,1331.51,3801
+2026-04-15,Tomato,Maharashtra,2013.68,4583
+2026-04-15,Tomato,Karnataka,1972.32,4968
+2026-04-15,Tomato,Uttar Pradesh,1912.34,4816
+2026-04-15,Tomato,Delhi,2260.87,3988
+2026-04-15,Gram,Maharashtra,4578.87,6470
+2026-04-15,Gram,Karnataka,4885.98,6781
+2026-04-15,Gram,Uttar Pradesh,5435.23,4388
+2026-04-15,Gram,Delhi,6694.07,3389
+2026-04-15,Tur,Maharashtra,6960.54,6244
+2026-04-15,Tur,Karnataka,6207.91,5361
+2026-04-15,Tur,Uttar Pradesh,7229.18,4241
+2026-04-15,Tur,Delhi,9907.88,3477
+2026-04-16,Onion,Maharashtra,1340.35,5639
+2026-04-16,Onion,Karnataka,1599.23,5114
+2026-04-16,Onion,Uttar Pradesh,1736.76,5530
+2026-04-16,Onion,Delhi,1734.61,3576
+2026-04-16,Potato,Maharashtra,904.23,6088
+2026-04-16,Potato,Karnataka,812.24,7946
+2026-04-16,Potato,Uttar Pradesh,1085.57,5148
+2026-04-16,Potato,Delhi,1393.21,5874
+2026-04-16,Tomato,Maharashtra,1924.83,6609
+2026-04-16,Tomato,Karnataka,1874.08,5114
+2026-04-16,Tomato,Uttar Pradesh,1850.04,4173
+2026-04-16,Tomato,Delhi,2294.1,2919
+2026-04-16,Gram,Maharashtra,4575.46,4093
+2026-04-16,Gram,Karnataka,4924.5,5805
+2026-04-16,Gram,Uttar Pradesh,5164.78,4975
+2026-04-16,Gram,Delhi,7468.59,5653
+2026-04-16,Tur,Maharashtra,6137.76,5814
+2026-04-16,Tur,Karnataka,6796.3,4195
+2026-04-16,Tur,Uttar Pradesh,6838.97,5432
+2026-04-16,Tur,Delhi,8995.88,4774
+2026-04-17,Onion,Maharashtra,1557.09,7082
+2026-04-17,Onion,Karnataka,1415.43,5763
+2026-04-17,Onion,Uttar Pradesh,1673.49,4525
+2026-04-17,Onion,Delhi,1904.39,5287
+2026-04-17,Potato,Maharashtra,959.84,6262
+2026-04-17,Potato,Karnataka,938.81,3979
+2026-04-17,Potato,Uttar Pradesh,1008.94,4875
+2026-04-17,Potato,Delhi,1236.5,3992
+2026-04-17,Tomato,Maharashtra,1414.06,4311
+2026-04-17,Tomato,Karnataka,1983.26,5898
+2026-04-17,Tomato,Uttar Pradesh,1868.02,3982
+2026-04-17,Tomato,Delhi,2227.52,3701
+2026-04-17,Gram,Maharashtra,4828.81,7318
+2026-04-17,Gram,Karnataka,4685.18,4498
+2026-04-17,Gram,Uttar Pradesh,5208.45,4640
+2026-04-17,Gram,Delhi,6211.99,5622
+2026-04-17,Tur,Maharashtra,7071.8,5731
+2026-04-17,Tur,Karnataka,6499.44,5485
+2026-04-17,Tur,Uttar Pradesh,7922.2,4624
+2026-04-17,Tur,Delhi,9913.0,5034
+2026-04-18,Onion,Maharashtra,1638.21,5894
+2026-04-18,Onion,Karnataka,1588.97,6751
+2026-04-18,Onion,Uttar Pradesh,1652.09,4498
+2026-04-18,Onion,Delhi,1944.17,4190
+2026-04-18,Potato,Maharashtra,853.94,5396
+2026-04-18,Potato,Karnataka,1073.5,2956
+2026-04-18,Potato,Uttar Pradesh,1156.61,6122
+2026-04-18,Potato,Delhi,1279.32,4434
+2026-04-18,Tomato,Maharashtra,1753.47,6922
+2026-04-18,Tomato,Karnataka,2046.76,3789
+2026-04-18,Tomato,Uttar Pradesh,2065.05,4794
+2026-04-18,Tomato,Delhi,2451.07,3417
+2026-04-18,Gram,Maharashtra,5216.29,7456
+2026-04-18,Gram,Karnataka,4601.33,4287
+2026-04-18,Gram,Uttar Pradesh,4981.06,6038
+2026-04-18,Gram,Delhi,6479.13,5558
+2026-04-18,Tur,Maharashtra,7056.86,6632
+2026-04-18,Tur,Karnataka,7220.78,3800
+2026-04-18,Tur,Uttar Pradesh,7357.94,6060
+2026-04-18,Tur,Delhi,9284.31,4402
+2026-04-19,Onion,Maharashtra,1401.03,4411
+2026-04-19,Onion,Karnataka,1504.44,5588
+2026-04-19,Onion,Uttar Pradesh,1520.52,4764
+2026-04-19,Onion,Delhi,1886.26,4895
+2026-04-19,Potato,Maharashtra,924.03,7169
+2026-04-19,Potato,Karnataka,1104.13,5177
+2026-04-19,Potato,Uttar Pradesh,979.01,2914
+2026-04-19,Potato,Delhi,1208.96,2900
+2026-04-19,Tomato,Maharashtra,2029.61,5684
+2026-04-19,Tomato,Karnataka,1929.28,2925
+2026-04-19,Tomato,Uttar Pradesh,1709.21,5887
+2026-04-19,Tomato,Delhi,2493.35,3882
+2026-04-19,Gram,Maharashtra,4803.35,8192
+2026-04-19,Gram,Karnataka,4784.17,5929
+2026-04-19,Gram,Uttar Pradesh,5184.81,8213
+2026-04-19,Gram,Delhi,5661.98,5051
+2026-04-19,Tur,Maharashtra,6651.54,6185
+2026-04-19,Tur,Karnataka,6779.78,5211
+2026-04-19,Tur,Uttar Pradesh,7768.13,8112
+2026-04-19,Tur,Delhi,9673.62,3321
+2026-04-20,Onion,Maharashtra,1389.15,5051
+2026-04-20,Onion,Karnataka,1304.52,4915
+2026-04-20,Onion,Uttar Pradesh,1687.94,3725
+2026-04-20,Onion,Delhi,2125.82,4390
+2026-04-20,Potato,Maharashtra,893.6,5398
+2026-04-20,Potato,Karnataka,1109.38,6035
+2026-04-20,Potato,Uttar Pradesh,1050.61,4762
+2026-04-20,Potato,Delhi,1317.86,3590
+2026-04-20,Tomato,Maharashtra,1334.05,7824
+2026-04-20,Tomato,Karnataka,1883.56,5682
+2026-04-20,Tomato,Uttar Pradesh,1938.42,4264
+2026-04-20,Tomato,Delhi,2400.32,2720
+2026-04-20,Gram,Maharashtra,5403.86,4648
+2026-04-20,Gram,Karnataka,4501.62,5333
+2026-04-20,Gram,Uttar Pradesh,5569.58,5571
+2026-04-20,Gram,Delhi,5965.79,5559
+2026-04-20,Tur,Maharashtra,7033.95,6153
+2026-04-20,Tur,Karnataka,7399.58,7783
+2026-04-20,Tur,Uttar Pradesh,8433.29,4313
+2026-04-20,Tur,Delhi,10043.25,4306
+2026-04-21,Onion,Maharashtra,1500.61,3675
+2026-04-21,Onion,Karnataka,1500.31,4407
+2026-04-21,Onion,Uttar Pradesh,1700.17,6071
+2026-04-21,Onion,Delhi,1752.06,3982
+2026-04-21,Potato,Maharashtra,1023.89,5348
+2026-04-21,Potato,Karnataka,1048.91,5632
+2026-04-21,Potato,Uttar Pradesh,1074.32,4728
+2026-04-21,Potato,Delhi,1227.84,3102
+2026-04-21,Tomato,Maharashtra,1897.95,5577
+2026-04-21,Tomato,Karnataka,1825.94,4816
+2026-04-21,Tomato,Uttar Pradesh,1890.16,6046
+2026-04-21,Tomato,Delhi,2371.95,2927
+2026-04-21,Gram,Maharashtra,4868.37,5919
+2026-04-21,Gram,Karnataka,4875.08,7728
+2026-04-21,Gram,Uttar Pradesh,5112.9,5876
+2026-04-21,Gram,Delhi,5987.5,4249
+2026-04-21,Tur,Maharashtra,6981.09,3827
+2026-04-21,Tur,Karnataka,7169.78,5369
+2026-04-21,Tur,Uttar Pradesh,7470.58,6037
+2026-04-21,Tur,Delhi,9465.5,5182
+2026-04-22,Onion,Maharashtra,1322.21,5706
+2026-04-22,Onion,Karnataka,1531.66,4137
+2026-04-22,Onion,Uttar Pradesh,1716.36,7324
+2026-04-22,Onion,Delhi,1999.96,4404
+2026-04-22,Potato,Maharashtra,951.64,4762
+2026-04-22,Potato,Karnataka,870.81,4520
+2026-04-22,Potato,Uttar Pradesh,953.36,6704
+2026-04-22,Potato,Delhi,1305.44,3723
+2026-04-22,Tomato,Maharashtra,1934.99,4309
+2026-04-22,Tomato,Karnataka,1701.41,5334
+2026-04-22,Tomato,Uttar Pradesh,2158.15,5501
+2026-04-22,Tomato,Delhi,2490.17,4062
+2026-04-22,Gram,Maharashtra,4749.39,6421
+2026-04-22,Gram,Karnataka,4504.89,5901
+2026-04-22,Gram,Uttar Pradesh,4745.66,5645
+2026-04-22,Gram,Delhi,6233.59,6701
+2026-04-22,Tur,Maharashtra,6690.65,3995
+2026-04-22,Tur,Karnataka,7020.92,5809
+2026-04-22,Tur,Uttar Pradesh,8207.01,4410
+2026-04-22,Tur,Delhi,8605.41,4653
+2026-04-23,Onion,Maharashtra,1276.49,5070
+2026-04-23,Onion,Karnataka,1491.37,5189
+2026-04-23,Onion,Uttar Pradesh,1685.1,4316
+2026-04-23,Onion,Delhi,1970.15,3988
+2026-04-23,Potato,Maharashtra,956.55,5664
+2026-04-23,Potato,Karnataka,1029.16,6151
+2026-04-23,Potato,Uttar Pradesh,1078.68,5453
+2026-04-23,Potato,Delhi,1203.24,4040
+2026-04-23,Tomato,Maharashtra,1854.14,6365
+2026-04-23,Tomato,Karnataka,1717.45,4569
+2026-04-23,Tomato,Uttar Pradesh,1838.78,5536
+2026-04-23,Tomato,Delhi,2648.78,3674
+2026-04-23,Gram,Maharashtra,4928.31,6325
+2026-04-23,Gram,Karnataka,4823.16,5600
+2026-04-23,Gram,Uttar Pradesh,5384.11,5917
+2026-04-23,Gram,Delhi,7200.04,3686
+2026-04-23,Tur,Maharashtra,6943.55,4967
+2026-04-23,Tur,Karnataka,6692.02,5251
+2026-04-23,Tur,Uttar Pradesh,7517.81,7918
+2026-04-23,Tur,Delhi,9237.13,3095
+2026-04-24,Onion,Maharashtra,1475.64,3250
+2026-04-24,Onion,Karnataka,1512.01,5280
+2026-04-24,Onion,Uttar Pradesh,1698.55,5973
+2026-04-24,Onion,Delhi,1943.57,3879
+2026-04-24,Potato,Maharashtra,892.81,4302
+2026-04-24,Potato,Karnataka,1020.71,3922
+2026-04-24,Potato,Uttar Pradesh,1022.58,4004
+2026-04-24,Potato,Delhi,1352.98,5441
+2026-04-24,Tomato,Maharashtra,1499.0,3496
+2026-04-24,Tomato,Karnataka,1832.08,5279
+2026-04-24,Tomato,Uttar Pradesh,1998.53,4553
+2026-04-24,Tomato,Delhi,2403.37,4294
+2026-04-24,Gram,Maharashtra,4975.89,3759
+2026-04-24,Gram,Karnataka,4738.81,6098
+2026-04-24,Gram,Uttar Pradesh,4802.86,7479
+2026-04-24,Gram,Delhi,6182.79,4407
+2026-04-24,Tur,Maharashtra,6962.41,4898
+2026-04-24,Tur,Karnataka,6254.14,4811
+2026-04-24,Tur,Uttar Pradesh,7921.25,4663
+2026-04-24,Tur,Delhi,8941.6,4740
+2026-04-25,Onion,Maharashtra,1403.91,4988
+2026-04-25,Onion,Karnataka,1541.73,6074
+2026-04-25,Onion,Uttar Pradesh,1889.81,5827
+2026-04-25,Onion,Delhi,2144.18,3595
+2026-04-25,Potato,Maharashtra,874.99,5624
+2026-04-25,Potato,Karnataka,1006.9,4127
+2026-04-25,Potato,Uttar Pradesh,1039.73,5399
+2026-04-25,Potato,Delhi,1340.23,4403
+2026-04-25,Tomato,Maharashtra,1818.59,4992
+2026-04-25,Tomato,Karnataka,1755.42,4001
+2026-04-25,Tomato,Uttar Pradesh,2312.96,5013
+2026-04-25,Tomato,Delhi,2400.03,3256
+2026-04-25,Gram,Maharashtra,5640.43,4847
+2026-04-25,Gram,Karnataka,4719.13,6334
+2026-04-25,Gram,Uttar Pradesh,5335.57,6619
+2026-04-25,Gram,Delhi,7039.54,4894
+2026-04-25,Tur,Maharashtra,6238.79,5270
+2026-04-25,Tur,Karnataka,7225.52,7440
+2026-04-25,Tur,Uttar Pradesh,6830.99,6202
+2026-04-25,Tur,Delhi,9405.96,4670
+2026-04-26,Onion,Maharashtra,1432.08,4619
+2026-04-26,Onion,Karnataka,1614.66,5952
+2026-04-26,Onion,Uttar Pradesh,1721.45,4986
+2026-04-26,Onion,Delhi,1934.02,2752
+2026-04-26,Potato,Maharashtra,1004.52,6026
+2026-04-26,Potato,Karnataka,932.18,4696
+2026-04-26,Potato,Uttar Pradesh,1019.73,3517
+2026-04-26,Potato,Delhi,1258.26,3092
+2026-04-26,Tomato,Maharashtra,1678.98,4734
+2026-04-26,Tomato,Karnataka,1533.94,7392
+2026-04-26,Tomato,Uttar Pradesh,2207.71,4220
+2026-04-26,Tomato,Delhi,2500.98,4333
+2026-04-26,Gram,Maharashtra,5031.05,5162
+2026-04-26,Gram,Karnataka,5252.74,5207
+2026-04-26,Gram,Uttar Pradesh,4659.3,6360
+2026-04-26,Gram,Delhi,6860.33,6744
+2026-04-26,Tur,Maharashtra,6175.92,6332
+2026-04-26,Tur,Karnataka,6904.49,6087
+2026-04-26,Tur,Uttar Pradesh,6800.28,3737
+2026-04-26,Tur,Delhi,8978.36,4063
+2026-04-27,Onion,Maharashtra,1368.11,6287
+2026-04-27,Onion,Karnataka,1648.55,5894
+2026-04-27,Onion,Uttar Pradesh,1799.85,5415
+2026-04-27,Onion,Delhi,1860.97,5090
+2026-04-27,Potato,Maharashtra,905.16,6567
+2026-04-27,Potato,Karnataka,1110.32,5743
+2026-04-27,Potato,Uttar Pradesh,948.07,4081
+2026-04-27,Potato,Delhi,1408.59,3864
+2026-04-27,Tomato,Maharashtra,1778.47,6398
+2026-04-27,Tomato,Karnataka,1999.74,5556
+2026-04-27,Tomato,Uttar Pradesh,1916.67,4687
+2026-04-27,Tomato,Delhi,2619.58,4442
+2026-04-27,Gram,Maharashtra,4525.32,7508
+2026-04-27,Gram,Karnataka,4826.63,4851
+2026-04-27,Gram,Uttar Pradesh,4862.56,4468
+2026-04-27,Gram,Delhi,6314.91,5541
+2026-04-27,Tur,Maharashtra,6355.31,5764
+2026-04-27,Tur,Karnataka,6795.29,4989
+2026-04-27,Tur,Uttar Pradesh,6784.48,4779
+2026-04-27,Tur,Delhi,9242.83,4432
+2026-04-28,Onion,Maharashtra,1472.55,4224
+2026-04-28,Onion,Karnataka,1656.18,5484
+2026-04-28,Onion,Uttar Pradesh,1630.21,4990
+2026-04-28,Onion,Delhi,1945.87,4174
+2026-04-28,Potato,Maharashtra,981.17,3614
+2026-04-28,Potato,Karnataka,962.83,4994
+2026-04-28,Potato,Uttar Pradesh,1071.13,6193
+2026-04-28,Potato,Delhi,1262.48,3601
+2026-04-28,Tomato,Maharashtra,1661.13,4664
+2026-04-28,Tomato,Karnataka,1792.18,6074
+2026-04-28,Tomato,Uttar Pradesh,1748.83,5427
+2026-04-28,Tomato,Delhi,2109.12,3550
+2026-04-28,Gram,Maharashtra,4501.27,8240
+2026-04-28,Gram,Karnataka,4776.89,3273
+2026-04-28,Gram,Uttar Pradesh,4429.94,5593
+2026-04-28,Gram,Delhi,6626.76,4778
+2026-04-28,Tur,Maharashtra,6794.81,6846
+2026-04-28,Tur,Karnataka,6849.88,6205
+2026-04-28,Tur,Uttar Pradesh,6731.59,4095
+2026-04-28,Tur,Delhi,8519.33,3780
+2026-04-29,Onion,Maharashtra,1440.93,5682
+2026-04-29,Onion,Karnataka,1534.27,4286
+2026-04-29,Onion,Uttar Pradesh,1584.37,3502
+2026-04-29,Onion,Delhi,2172.59,3757
+2026-04-29,Potato,Maharashtra,914.02,7321
+2026-04-29,Potato,Karnataka,913.96,4078
+2026-04-29,Potato,Uttar Pradesh,976.86,4932
+2026-04-29,Potato,Delhi,1347.21,4591
+2026-04-29,Tomato,Maharashtra,2279.12,3056
+2026-04-29,Tomato,Karnataka,1984.51,4676
+2026-04-29,Tomato,Uttar Pradesh,1843.52,4380
+2026-04-29,Tomato,Delhi,2269.25,5347
+2026-04-29,Gram,Maharashtra,4912.61,6201
+2026-04-29,Gram,Karnataka,5347.21,4078
+2026-04-29,Gram,Uttar Pradesh,4665.15,3135
+2026-04-29,Gram,Delhi,6168.83,4588
+2026-04-29,Tur,Maharashtra,6767.49,5721
+2026-04-29,Tur,Karnataka,6459.62,6108
+2026-04-29,Tur,Uttar Pradesh,7575.83,5733
+2026-04-29,Tur,Delhi,8483.26,4249
+2026-04-30,Onion,Maharashtra,1304.67,5114
+2026-04-30,Onion,Karnataka,1591.72,5359
+2026-04-30,Onion,Uttar Pradesh,1505.82,5006
+2026-04-30,Onion,Delhi,1826.22,4920
+2026-04-30,Potato,Maharashtra,934.23,6798
+2026-04-30,Potato,Karnataka,964.44,4712
+2026-04-30,Potato,Uttar Pradesh,1000.51,5876
+2026-04-30,Potato,Delhi,1267.84,4515
+2026-04-30,Tomato,Maharashtra,1689.31,3360
+2026-04-30,Tomato,Karnataka,1749.84,4021
+2026-04-30,Tomato,Uttar Pradesh,1968.78,3809
+2026-04-30,Tomato,Delhi,2637.7,3927
+2026-04-30,Gram,Maharashtra,4556.87,6982
+2026-04-30,Gram,Karnataka,5213.0,5824
+2026-04-30,Gram,Uttar Pradesh,4862.33,3584
+2026-04-30,Gram,Delhi,6175.2,3895
+2026-04-30,Tur,Maharashtra,6771.18,5172
+2026-04-30,Tur,Karnataka,7406.07,4617
+2026-04-30,Tur,Uttar Pradesh,7444.33,6183
+2026-04-30,Tur,Delhi,9491.32,3951
+2026-05-01,Onion,Maharashtra,1810.06,3732
+2026-05-01,Onion,Karnataka,1884.79,3610
+2026-05-01,Onion,Uttar Pradesh,2182.12,3675
+2026-05-01,Onion,Delhi,2452.33,4165
+2026-05-01,Potato,Maharashtra,971.36,3992
+2026-05-01,Potato,Karnataka,970.75,5379
+2026-05-01,Potato,Uttar Pradesh,1173.72,3891
+2026-05-01,Potato,Delhi,1386.32,5119
+2026-05-01,Tomato,Maharashtra,1641.15,5247
+2026-05-01,Tomato,Karnataka,1657.78,5048
+2026-05-01,Tomato,Uttar Pradesh,1955.88,5659
+2026-05-01,Tomato,Delhi,2672.04,3401
+2026-05-01,Gram,Maharashtra,3931.68,6146
+2026-05-01,Gram,Karnataka,4979.66,6139
+2026-05-01,Gram,Uttar Pradesh,5019.26,5694
+2026-05-01,Gram,Delhi,6947.41,4783
+2026-05-01,Tur,Maharashtra,6556.78,4999
+2026-05-01,Tur,Karnataka,7021.97,6986
+2026-05-01,Tur,Uttar Pradesh,7389.51,4980
+2026-05-01,Tur,Delhi,9122.96,4879
+2026-05-02,Onion,Maharashtra,2118.41,4658
+2026-05-02,Onion,Karnataka,1997.79,4078
+2026-05-02,Onion,Uttar Pradesh,1806.36,4419
+2026-05-02,Onion,Delhi,2631.7,3340
+2026-05-02,Potato,Maharashtra,899.52,5128
+2026-05-02,Potato,Karnataka,973.29,6338
+2026-05-02,Potato,Uttar Pradesh,1028.29,7082
+2026-05-02,Potato,Delhi,1348.66,2979
+2026-05-02,Tomato,Maharashtra,1742.25,4831
+2026-05-02,Tomato,Karnataka,1427.3,6946
+2026-05-02,Tomato,Uttar Pradesh,2105.03,5533
+2026-05-02,Tomato,Delhi,2488.58,2894
+2026-05-02,Gram,Maharashtra,4452.19,7212
+2026-05-02,Gram,Karnataka,4510.28,2886
+2026-05-02,Gram,Uttar Pradesh,5055.46,5398
+2026-05-02,Gram,Delhi,6466.13,5092
+2026-05-02,Tur,Maharashtra,7013.52,5843
+2026-05-02,Tur,Karnataka,7638.29,3664
+2026-05-02,Tur,Uttar Pradesh,7701.06,5626
+2026-05-02,Tur,Delhi,8784.7,2797
+2026-05-03,Onion,Maharashtra,1794.65,3708
+2026-05-03,Onion,Karnataka,2079.25,3550
+2026-05-03,Onion,Uttar Pradesh,1990.76,3375
+2026-05-03,Onion,Delhi,2751.14,3084
+2026-05-03,Potato,Maharashtra,937.13,5433
+2026-05-03,Potato,Karnataka,1092.88,4474
+2026-05-03,Potato,Uttar Pradesh,1147.29,5210
+2026-05-03,Potato,Delhi,1307.77,6000
+2026-05-03,Tomato,Maharashtra,1557.91,5162
+2026-05-03,Tomato,Karnataka,1620.83,6265
+2026-05-03,Tomato,Uttar Pradesh,2303.44,6669
+2026-05-03,Tomato,Delhi,2701.79,3841
+2026-05-03,Gram,Maharashtra,4494.84,4109
+2026-05-03,Gram,Karnataka,5592.04,6396
+2026-05-03,Gram,Uttar Pradesh,4964.12,7031
+2026-05-03,Gram,Delhi,6079.91,4805
+2026-05-03,Tur,Maharashtra,6650.72,6265
+2026-05-03,Tur,Karnataka,7073.59,3735
+2026-05-03,Tur,Uttar Pradesh,7510.01,6048
+2026-05-03,Tur,Delhi,9331.85,4620
+2026-05-04,Onion,Maharashtra,1759.64,4251
+2026-05-04,Onion,Karnataka,1914.89,4653
+2026-05-04,Onion,Uttar Pradesh,2098.34,4376
+2026-05-04,Onion,Delhi,2748.73,3502
+2026-05-04,Potato,Maharashtra,969.16,4446
+2026-05-04,Potato,Karnataka,1002.62,4702
+2026-05-04,Potato,Uttar Pradesh,1031.52,4625
+2026-05-04,Potato,Delhi,1250.91,2434
+2026-05-04,Tomato,Maharashtra,1636.49,5770
+2026-05-04,Tomato,Karnataka,1598.82,5279
+2026-05-04,Tomato,Uttar Pradesh,2346.85,6023
+2026-05-04,Tomato,Delhi,2787.21,4312
+2026-05-04,Gram,Maharashtra,5032.51,5279
+2026-05-04,Gram,Karnataka,4655.25,2644
+2026-05-04,Gram,Uttar Pradesh,5552.8,7267
+2026-05-04,Gram,Delhi,6228.45,4218
+2026-05-04,Tur,Maharashtra,6390.96,5980
+2026-05-04,Tur,Karnataka,7610.32,3428
+2026-05-04,Tur,Uttar Pradesh,7662.25,4723
+2026-05-04,Tur,Delhi,9398.53,4367
+2026-05-05,Onion,Maharashtra,1863.46,4184
+2026-05-05,Onion,Karnataka,1965.15,4834
+2026-05-05,Onion,Uttar Pradesh,2145.85,4015
+2026-05-05,Onion,Delhi,2466.99,2843
+2026-05-05,Potato,Maharashtra,1013.31,5597
+2026-05-05,Potato,Karnataka,1049.37,7122
+2026-05-05,Potato,Uttar Pradesh,1128.7,5093
+2026-05-05,Potato,Delhi,1284.23,1957
+2026-05-05,Tomato,Maharashtra,1737.52,5193
+2026-05-05,Tomato,Karnataka,1947.67,5101
+2026-05-05,Tomato,Uttar Pradesh,1903.92,3220
+2026-05-05,Tomato,Delhi,2272.01,4381
+2026-05-05,Gram,Maharashtra,5225.67,6052
+2026-05-05,Gram,Karnataka,4996.78,6961
+2026-05-05,Gram,Uttar Pradesh,4855.19,5963
+2026-05-05,Gram,Delhi,6164.58,5213
+2026-05-05,Tur,Maharashtra,6800.13,5887
+2026-05-05,Tur,Karnataka,6753.83,6007
+2026-05-05,Tur,Uttar Pradesh,8418.12,3992
+2026-05-05,Tur,Delhi,9197.11,4185
+2026-05-06,Onion,Maharashtra,1981.34,3795
+2026-05-06,Onion,Karnataka,1651.84,5149
+2026-05-06,Onion,Uttar Pradesh,2187.9,2505
+2026-05-06,Onion,Delhi,2547.89,4041
+2026-05-06,Potato,Maharashtra,1052.11,6598
+2026-05-06,Potato,Karnataka,991.25,5350
+2026-05-06,Potato,Uttar Pradesh,1047.24,6128
+2026-05-06,Potato,Delhi,1259.19,3355
+2026-05-06,Tomato,Maharashtra,1974.33,5506
+2026-05-06,Tomato,Karnataka,2146.43,4556
+2026-05-06,Tomato,Uttar Pradesh,1958.24,4077
+2026-05-06,Tomato,Delhi,2462.97,2817
+2026-05-06,Gram,Maharashtra,4455.64,4399
+2026-05-06,Gram,Karnataka,5126.21,6686
+2026-05-06,Gram,Uttar Pradesh,4534.76,7037
+2026-05-06,Gram,Delhi,7299.53,4485
+2026-05-06,Tur,Maharashtra,6445.3,8693
+2026-05-06,Tur,Karnataka,6514.36,5284
+2026-05-06,Tur,Uttar Pradesh,7562.83,6345
+2026-05-06,Tur,Delhi,9514.38,3601
+2026-05-07,Onion,Maharashtra,1773.77,3981
+2026-05-07,Onion,Karnataka,1871.96,4087
+2026-05-07,Onion,Uttar Pradesh,2029.98,2696
+2026-05-07,Onion,Delhi,2772.72,2770
+2026-05-07,Potato,Maharashtra,862.35,5368
+2026-05-07,Potato,Karnataka,1008.75,3424
+2026-05-07,Potato,Uttar Pradesh,1080.02,3952
+2026-05-07,Potato,Delhi,1440.77,4419
+2026-05-07,Tomato,Maharashtra,1693.38,4727
+2026-05-07,Tomato,Karnataka,1850.89,5908
+2026-05-07,Tomato,Uttar Pradesh,1965.3,4782
+2026-05-07,Tomato,Delhi,2474.67,3516
+2026-05-07,Gram,Maharashtra,4507.41,3597
+2026-05-07,Gram,Karnataka,5225.42,6197
+2026-05-07,Gram,Uttar Pradesh,4870.99,7665
+2026-05-07,Gram,Delhi,6457.58,3523
+2026-05-07,Tur,Maharashtra,7121.13,5997
+2026-05-07,Tur,Karnataka,7287.36,4814
+2026-05-07,Tur,Uttar Pradesh,7686.72,4738
+2026-05-07,Tur,Delhi,9605.17,2476
+2026-05-08,Onion,Maharashtra,1836.78,5745
+2026-05-08,Onion,Karnataka,1901.74,3559
+2026-05-08,Onion,Uttar Pradesh,2044.96,2911
+2026-05-08,Onion,Delhi,2358.41,2935
+2026-05-08,Potato,Maharashtra,960.99,5497
+2026-05-08,Potato,Karnataka,994.2,5308
+2026-05-08,Potato,Uttar Pradesh,1128.8,4809
+2026-05-08,Potato,Delhi,1281.31,3775
+2026-05-08,Tomato,Maharashtra,1890.31,7124
+2026-05-08,Tomato,Karnataka,1747.39,5367
+2026-05-08,Tomato,Uttar Pradesh,2039.27,4007
+2026-05-08,Tomato,Delhi,2468.58,2827
+2026-05-08,Gram,Maharashtra,4009.58,6625
+2026-05-08,Gram,Karnataka,4751.54,6084
+2026-05-08,Gram,Uttar Pradesh,5136.79,4470
+2026-05-08,Gram,Delhi,6412.97,3348
+2026-05-08,Tur,Maharashtra,7363.34,4048
+2026-05-08,Tur,Karnataka,7023.6,4166
+2026-05-08,Tur,Uttar Pradesh,7742.69,4668
+2026-05-08,Tur,Delhi,9124.1,4682
+2026-05-09,Onion,Maharashtra,1893.32,4715
+2026-05-09,Onion,Karnataka,1877.01,2911
+2026-05-09,Onion,Uttar Pradesh,2112.62,3600
+2026-05-09,Onion,Delhi,2699.87,3027
+2026-05-09,Potato,Maharashtra,966.2,3751
+2026-05-09,Potato,Karnataka,1136.91,5090
+2026-05-09,Potato,Uttar Pradesh,1106.43,4163
+2026-05-09,Potato,Delhi,1343.56,2957
+2026-05-09,Tomato,Maharashtra,1865.93,5160
+2026-05-09,Tomato,Karnataka,1880.0,5997
+2026-05-09,Tomato,Uttar Pradesh,1726.29,4315
+2026-05-09,Tomato,Delhi,2557.46,5678
+2026-05-09,Gram,Maharashtra,4581.63,6902
+2026-05-09,Gram,Karnataka,4849.74,8119
+2026-05-09,Gram,Uttar Pradesh,4532.87,5660
+2026-05-09,Gram,Delhi,5861.56,2216
+2026-05-09,Tur,Maharashtra,6873.06,5710
+2026-05-09,Tur,Karnataka,6985.42,5151
+2026-05-09,Tur,Uttar Pradesh,8882.23,4741
+2026-05-09,Tur,Delhi,9589.56,3480
+2026-05-10,Onion,Maharashtra,1926.15,4069
+2026-05-10,Onion,Karnataka,1946.5,5521
+2026-05-10,Onion,Uttar Pradesh,2242.06,3951
+2026-05-10,Onion,Delhi,2349.49,2854
+2026-05-10,Potato,Maharashtra,1141.41,5299
+2026-05-10,Potato,Karnataka,1082.33,6780
+2026-05-10,Potato,Uttar Pradesh,1073.33,4158
+2026-05-10,Potato,Delhi,1152.03,4547
+2026-05-10,Tomato,Maharashtra,1613.65,5751
+2026-05-10,Tomato,Karnataka,1625.34,4983
+2026-05-10,Tomato,Uttar Pradesh,1980.74,5268
+2026-05-10,Tomato,Delhi,2244.54,4957
+2026-05-10,Gram,Maharashtra,4422.26,4105
+2026-05-10,Gram,Karnataka,4850.3,5888
+2026-05-10,Gram,Uttar Pradesh,5201.96,7069
+2026-05-10,Gram,Delhi,6349.43,4338
+2026-05-10,Tur,Maharashtra,6244.57,6467
+2026-05-10,Tur,Karnataka,7198.44,4821
+2026-05-10,Tur,Uttar Pradesh,6632.9,6444
+2026-05-10,Tur,Delhi,8810.04,3526
+2026-05-11,Onion,Maharashtra,1934.66,3250
+2026-05-11,Onion,Karnataka,1817.53,2328
+2026-05-11,Onion,Uttar Pradesh,2188.36,3426
+2026-05-11,Onion,Delhi,2978.57,2465
+2026-05-11,Potato,Maharashtra,888.06,4927
+2026-05-11,Potato,Karnataka,1022.5,4768
+2026-05-11,Potato,Uttar Pradesh,1101.26,4021
+2026-05-11,Potato,Delhi,1226.29,2561
+2026-05-11,Tomato,Maharashtra,1332.97,4979
+2026-05-11,Tomato,Karnataka,1816.24,4598
+2026-05-11,Tomato,Uttar Pradesh,2223.88,6228
+2026-05-11,Tomato,Delhi,2402.04,2564
+2026-05-11,Gram,Maharashtra,4434.04,5432
+2026-05-11,Gram,Karnataka,4659.75,5031
+2026-05-11,Gram,Uttar Pradesh,4918.39,5126
+2026-05-11,Gram,Delhi,6211.44,4629
+2026-05-11,Tur,Maharashtra,6904.97,4543
+2026-05-11,Tur,Karnataka,7689.38,4231
+2026-05-11,Tur,Uttar Pradesh,6763.99,5380
+2026-05-11,Tur,Delhi,8997.17,4257
+2026-05-12,Onion,Maharashtra,1604.15,5463
+2026-05-12,Onion,Karnataka,2078.41,2833
+2026-05-12,Onion,Uttar Pradesh,1925.43,5132
+2026-05-12,Onion,Delhi,2540.11,2563
+2026-05-12,Potato,Maharashtra,794.3,5165
+2026-05-12,Potato,Karnataka,989.92,6016
+2026-05-12,Potato,Uttar Pradesh,960.86,3479
+2026-05-12,Potato,Delhi,1355.07,4805
+2026-05-12,Tomato,Maharashtra,1464.53,6757
+2026-05-12,Tomato,Karnataka,1885.09,6412
+2026-05-12,Tomato,Uttar Pradesh,1962.36,2477
+2026-05-12,Tomato,Delhi,2440.11,4848
+2026-05-12,Gram,Maharashtra,4320.79,5693
+2026-05-12,Gram,Karnataka,4829.38,2456
+2026-05-12,Gram,Uttar Pradesh,5733.42,4554
+2026-05-12,Gram,Delhi,6612.57,4367
+2026-05-12,Tur,Maharashtra,7310.53,6006
+2026-05-12,Tur,Karnataka,7013.58,4322
+2026-05-12,Tur,Uttar Pradesh,7853.03,3126
+2026-05-12,Tur,Delhi,9658.15,3120
+2026-05-13,Onion,Maharashtra,2043.8,4411
+2026-05-13,Onion,Karnataka,2076.02,4114
+2026-05-13,Onion,Uttar Pradesh,1893.63,3184
+2026-05-13,Onion,Delhi,2710.59,3179
+2026-05-13,Potato,Maharashtra,1035.95,6003
+2026-05-13,Potato,Karnataka,938.57,4425
+2026-05-13,Potato,Uttar Pradesh,1066.4,2685
+2026-05-13,Potato,Delhi,1441.14,4353
+2026-05-13,Tomato,Maharashtra,2025.25,3799
+2026-05-13,Tomato,Karnataka,2127.63,7612
+2026-05-13,Tomato,Uttar Pradesh,1713.42,5771
+2026-05-13,Tomato,Delhi,2472.22,2764
+2026-05-13,Gram,Maharashtra,4807.33,7201
+2026-05-13,Gram,Karnataka,4681.92,7211
+2026-05-13,Gram,Uttar Pradesh,4566.43,3894
+2026-05-13,Gram,Delhi,6485.06,4467
+2026-05-13,Tur,Maharashtra,6423.94,6455
+2026-05-13,Tur,Karnataka,7360.1,6166
+2026-05-13,Tur,Uttar Pradesh,7440.59,5602
+2026-05-13,Tur,Delhi,9169.46,5643
+2026-05-14,Onion,Maharashtra,1796.96,6072
+2026-05-14,Onion,Karnataka,2003.9,2934
+2026-05-14,Onion,Uttar Pradesh,2269.13,3943
+2026-05-14,Onion,Delhi,2733.33,3830
+2026-05-14,Potato,Maharashtra,977.3,4897
+2026-05-14,Potato,Karnataka,1074.92,5263
+2026-05-14,Potato,Uttar Pradesh,1107.61,2846
+2026-05-14,Potato,Delhi,1355.79,3489
+2026-05-14,Tomato,Maharashtra,2111.58,6247
+2026-05-14,Tomato,Karnataka,1927.83,5775
+2026-05-14,Tomato,Uttar Pradesh,1779.11,6623
+2026-05-14,Tomato,Delhi,2871.77,4314
+2026-05-14,Gram,Maharashtra,5192.68,5470
+2026-05-14,Gram,Karnataka,4614.6,5895
+2026-05-14,Gram,Uttar Pradesh,5303.38,5117
+2026-05-14,Gram,Delhi,6627.16,4716
+2026-05-14,Tur,Maharashtra,6298.96,6131
+2026-05-14,Tur,Karnataka,7511.69,5443
+2026-05-14,Tur,Uttar Pradesh,8016.69,3782
+2026-05-14,Tur,Delhi,9583.08,3063
+2026-05-15,Onion,Maharashtra,1761.71,3734
+2026-05-15,Onion,Karnataka,1887.65,3604
+2026-05-15,Onion,Uttar Pradesh,2080.3,4490
+2026-05-15,Onion,Delhi,2593.96,2101
+2026-05-15,Potato,Maharashtra,1033.8,4625
+2026-05-15,Potato,Karnataka,1002.89,5733
+2026-05-15,Potato,Uttar Pradesh,1073.97,6094
+2026-05-15,Potato,Delhi,1358.53,3310
+2026-05-15,Tomato,Maharashtra,2217.71,5771
+2026-05-15,Tomato,Karnataka,1851.53,6277
+2026-05-15,Tomato,Uttar Pradesh,2029.89,5399
+2026-05-15,Tomato,Delhi,2973.44,3779
+2026-05-15,Gram,Maharashtra,4526.03,6316
+2026-05-15,Gram,Karnataka,5269.91,4085
+2026-05-15,Gram,Uttar Pradesh,4464.56,4903
+2026-05-15,Gram,Delhi,5868.75,4066
+2026-05-15,Tur,Maharashtra,6976.12,4565
+2026-05-15,Tur,Karnataka,6482.93,5336
+2026-05-15,Tur,Uttar Pradesh,7888.14,3305
+2026-05-15,Tur,Delhi,9744.1,4653
+2026-05-16,Onion,Maharashtra,2010.83,5314
+2026-05-16,Onion,Karnataka,2265.93,3760
+2026-05-16,Onion,Uttar Pradesh,2120.19,3525
+2026-05-16,Onion,Delhi,2634.04,4020
+2026-05-16,Potato,Maharashtra,860.21,4598
+2026-05-16,Potato,Karnataka,1103.78,6336
+2026-05-16,Potato,Uttar Pradesh,1034.98,5854
+2026-05-16,Potato,Delhi,1349.39,5200
+2026-05-16,Tomato,Maharashtra,1797.98,6695
+2026-05-16,Tomato,Karnataka,2410.54,5892
+2026-05-16,Tomato,Uttar Pradesh,1991.07,5722
+2026-05-16,Tomato,Delhi,2403.44,5910
+2026-05-16,Gram,Maharashtra,4701.49,5835
+2026-05-16,Gram,Karnataka,4603.67,7131
+2026-05-16,Gram,Uttar Pradesh,5457.37,5002
+2026-05-16,Gram,Delhi,6644.07,3103
+2026-05-16,Tur,Maharashtra,6835.04,6058
+2026-05-16,Tur,Karnataka,7895.2,4451
+2026-05-16,Tur,Uttar Pradesh,6926.74,4104
+2026-05-16,Tur,Delhi,8776.04,5069
+2026-05-17,Onion,Maharashtra,2083.11,4547
+2026-05-17,Onion,Karnataka,2149.23,4157
+2026-05-17,Onion,Uttar Pradesh,2096.67,3589
+2026-05-17,Onion,Delhi,2597.85,2124
+2026-05-17,Potato,Maharashtra,973.22,5510
+2026-05-17,Potato,Karnataka,1059.94,5361
+2026-05-17,Potato,Uttar Pradesh,1049.41,4128
+2026-05-17,Potato,Delhi,1331.05,4590
+2026-05-17,Tomato,Maharashtra,1555.49,5652
+2026-05-17,Tomato,Karnataka,1929.89,4507
+2026-05-17,Tomato,Uttar Pradesh,1864.83,5230
+2026-05-17,Tomato,Delhi,2251.32,4279
+2026-05-17,Gram,Maharashtra,4326.31,7485
+2026-05-17,Gram,Karnataka,5715.68,4841
+2026-05-17,Gram,Uttar Pradesh,5342.17,4748
+2026-05-17,Gram,Delhi,6808.33,3319
+2026-05-17,Tur,Maharashtra,6969.86,4585
+2026-05-17,Tur,Karnataka,7035.66,4177
+2026-05-17,Tur,Uttar Pradesh,7874.06,4163
+2026-05-17,Tur,Delhi,9628.38,3724
+2026-05-18,Onion,Maharashtra,1884.47,4399
+2026-05-18,Onion,Karnataka,1912.25,4218
+2026-05-18,Onion,Uttar Pradesh,2292.76,3247
+2026-05-18,Onion,Delhi,2777.02,3998
+2026-05-18,Potato,Maharashtra,897.95,3938
+2026-05-18,Potato,Karnataka,1029.28,4686
+2026-05-18,Potato,Uttar Pradesh,1192.0,5034
+2026-05-18,Potato,Delhi,1270.35,3082
+2026-05-18,Tomato,Maharashtra,2003.22,4920
+2026-05-18,Tomato,Karnataka,1893.19,6269
+2026-05-18,Tomato,Uttar Pradesh,1886.75,4954
+2026-05-18,Tomato,Delhi,2476.19,4546
+2026-05-18,Gram,Maharashtra,4847.66,5901
+2026-05-18,Gram,Karnataka,4921.0,5413
+2026-05-18,Gram,Uttar Pradesh,4639.39,5841
+2026-05-18,Gram,Delhi,7107.95,3658
+2026-05-18,Tur,Maharashtra,6407.54,4588
+2026-05-18,Tur,Karnataka,7456.77,5735
+2026-05-18,Tur,Uttar Pradesh,7434.66,4081
+2026-05-18,Tur,Delhi,9424.07,2748
+2026-05-19,Onion,Maharashtra,1916.36,5018
+2026-05-19,Onion,Karnataka,1854.51,2807
+2026-05-19,Onion,Uttar Pradesh,2299.69,3375
+2026-05-19,Onion,Delhi,2774.01,2982
+2026-05-19,Potato,Maharashtra,944.1,6042
+2026-05-19,Potato,Karnataka,946.64,5402
+2026-05-19,Potato,Uttar Pradesh,1034.9,3679
+2026-05-19,Potato,Delhi,1350.62,3789
+2026-05-19,Tomato,Maharashtra,1754.92,4210
+2026-05-19,Tomato,Karnataka,2203.84,6186
+2026-05-19,Tomato,Uttar Pradesh,2177.63,4694
+2026-05-19,Tomato,Delhi,2135.16,5562
+2026-05-19,Gram,Maharashtra,4620.73,5248
+2026-05-19,Gram,Karnataka,5045.89,7213
+2026-05-19,Gram,Uttar Pradesh,5149.83,6976
+2026-05-19,Gram,Delhi,6826.42,3487
+2026-05-19,Tur,Maharashtra,6453.99,6619
+2026-05-19,Tur,Karnataka,5911.92,5105
+2026-05-19,Tur,Uttar Pradesh,6864.13,4523
+2026-05-19,Tur,Delhi,9250.53,3713
+2026-05-20,Onion,Maharashtra,1833.81,3335
+2026-05-20,Onion,Karnataka,2280.67,5560
+2026-05-20,Onion,Uttar Pradesh,1971.75,5063
+2026-05-20,Onion,Delhi,2591.06,3156
+2026-05-20,Potato,Maharashtra,951.37,4822
+2026-05-20,Potato,Karnataka,1077.77,5395
+2026-05-20,Potato,Uttar Pradesh,1028.64,3695
+2026-05-20,Potato,Delhi,1264.95,2686
+2026-05-20,Tomato,Maharashtra,1789.84,4225
+2026-05-20,Tomato,Karnataka,1833.59,6705
+2026-05-20,Tomato,Uttar Pradesh,2225.86,4967
+2026-05-20,Tomato,Delhi,2465.08,5503
+2026-05-20,Gram,Maharashtra,4825.59,5768
+2026-05-20,Gram,Karnataka,4402.18,6308
+2026-05-20,Gram,Uttar Pradesh,5449.51,4853
+2026-05-20,Gram,Delhi,6550.98,4121
+2026-05-20,Tur,Maharashtra,6676.19,2791
+2026-05-20,Tur,Karnataka,7034.7,6283
+2026-05-20,Tur,Uttar Pradesh,7225.87,5052
+2026-05-20,Tur,Delhi,9047.32,4288
+2026-05-21,Onion,Maharashtra,1875.03,3470
+2026-05-21,Onion,Karnataka,2166.53,4800
+2026-05-21,Onion,Uttar Pradesh,2039.65,4229
+2026-05-21,Onion,Delhi,2704.79,3472
+2026-05-21,Potato,Maharashtra,837.56,6674
+2026-05-21,Potato,Karnataka,969.4,4886
+2026-05-21,Potato,Uttar Pradesh,1247.05,5301
+2026-05-21,Potato,Delhi,1300.96,2235
+2026-05-21,Tomato,Maharashtra,2066.43,4060
+2026-05-21,Tomato,Karnataka,1687.15,4914
+2026-05-21,Tomato,Uttar Pradesh,2270.48,5773
+2026-05-21,Tomato,Delhi,2452.43,4246
+2026-05-21,Gram,Maharashtra,4434.41,6345
+2026-05-21,Gram,Karnataka,4928.24,6981
+2026-05-21,Gram,Uttar Pradesh,5499.11,6104
+2026-05-21,Gram,Delhi,6323.93,5103
+2026-05-21,Tur,Maharashtra,6719.41,4353
+2026-05-21,Tur,Karnataka,6954.92,5352
+2026-05-21,Tur,Uttar Pradesh,7921.6,4816
+2026-05-21,Tur,Delhi,8845.86,4045
+2026-05-22,Onion,Maharashtra,1915.57,4432
+2026-05-22,Onion,Karnataka,2118.0,4873
+2026-05-22,Onion,Uttar Pradesh,2041.97,3372
+2026-05-22,Onion,Delhi,2516.78,3506
+2026-05-22,Potato,Maharashtra,1057.94,5205
+2026-05-22,Potato,Karnataka,992.76,6807
+2026-05-22,Potato,Uttar Pradesh,1098.19,5436
+2026-05-22,Potato,Delhi,1245.14,4542
+2026-05-22,Tomato,Maharashtra,1603.73,4295
+2026-05-22,Tomato,Karnataka,1819.63,4646
+2026-05-22,Tomato,Uttar Pradesh,1944.08,3559
+2026-05-22,Tomato,Delhi,2677.26,4902
+2026-05-22,Gram,Maharashtra,3964.19,7380
+2026-05-22,Gram,Karnataka,4620.17,6850
+2026-05-22,Gram,Uttar Pradesh,5137.99,5587
+2026-05-22,Gram,Delhi,6387.65,5521
+2026-05-22,Tur,Maharashtra,6204.79,6230
+2026-05-22,Tur,Karnataka,7633.9,6017
+2026-05-22,Tur,Uttar Pradesh,8560.11,4471
+2026-05-22,Tur,Delhi,9823.29,3915
+2026-05-23,Onion,Maharashtra,2050.9,4266
+2026-05-23,Onion,Karnataka,1962.06,5106
+2026-05-23,Onion,Uttar Pradesh,2055.33,2759
+2026-05-23,Onion,Delhi,2580.88,3457
+2026-05-23,Potato,Maharashtra,1054.32,5679
+2026-05-23,Potato,Karnataka,1102.31,3833
+2026-05-23,Potato,Uttar Pradesh,1032.17,4711
+2026-05-23,Potato,Delhi,1320.98,4067
+2026-05-23,Tomato,Maharashtra,1928.82,5061
+2026-05-23,Tomato,Karnataka,1917.93,5215
+2026-05-23,Tomato,Uttar Pradesh,1804.42,4886
+2026-05-23,Tomato,Delhi,2458.27,3867
+2026-05-23,Gram,Maharashtra,4658.09,6266
+2026-05-23,Gram,Karnataka,4753.83,7336
+2026-05-23,Gram,Uttar Pradesh,4753.98,4754
+2026-05-23,Gram,Delhi,7427.11,3521
+2026-05-23,Tur,Maharashtra,6155.21,6371
+2026-05-23,Tur,Karnataka,6205.5,5015
+2026-05-23,Tur,Uttar Pradesh,8481.62,3455
+2026-05-23,Tur,Delhi,8503.12,2800
+2026-05-24,Onion,Maharashtra,2011.63,5234
+2026-05-24,Onion,Karnataka,1948.08,4601
+2026-05-24,Onion,Uttar Pradesh,2282.19,5221
+2026-05-24,Onion,Delhi,2614.64,1660
+2026-05-24,Potato,Maharashtra,899.78,5081
+2026-05-24,Potato,Karnataka,992.29,5065
+2026-05-24,Potato,Uttar Pradesh,1141.92,6274
+2026-05-24,Potato,Delhi,1317.48,4878
+2026-05-24,Tomato,Maharashtra,1863.25,5627
+2026-05-24,Tomato,Karnataka,2072.57,5339
+2026-05-24,Tomato,Uttar Pradesh,2402.36,3561
+2026-05-24,Tomato,Delhi,2385.47,3898
+2026-05-24,Gram,Maharashtra,4801.99,7738
+2026-05-24,Gram,Karnataka,4897.88,4184
+2026-05-24,Gram,Uttar Pradesh,5459.53,6394
+2026-05-24,Gram,Delhi,5776.16,4441
+2026-05-24,Tur,Maharashtra,6050.64,4817
+2026-05-24,Tur,Karnataka,6735.84,6115
+2026-05-24,Tur,Uttar Pradesh,7570.57,3714
+2026-05-24,Tur,Delhi,9793.53,2852
+2026-05-25,Onion,Maharashtra,1944.37,3577
+2026-05-25,Onion,Karnataka,1966.7,4456
+2026-05-25,Onion,Uttar Pradesh,2178.97,4874
+2026-05-25,Onion,Delhi,2635.63,3265
+2026-05-25,Potato,Maharashtra,926.96,5757
+2026-05-25,Potato,Karnataka,1041.56,5159
+2026-05-25,Potato,Uttar Pradesh,937.74,5331
+2026-05-25,Potato,Delhi,1355.52,3455
+2026-05-25,Tomato,Maharashtra,1535.92,7195
+2026-05-25,Tomato,Karnataka,1990.69,5022
+2026-05-25,Tomato,Uttar Pradesh,1764.59,4178
+2026-05-25,Tomato,Delhi,2750.52,4110
+2026-05-25,Gram,Maharashtra,4456.69,6802
+2026-05-25,Gram,Karnataka,4622.66,7603
+2026-05-25,Gram,Uttar Pradesh,5639.48,5037
+2026-05-25,Gram,Delhi,6237.47,2117
+2026-05-25,Tur,Maharashtra,6101.29,4067
+2026-05-25,Tur,Karnataka,7204.84,4919
+2026-05-25,Tur,Uttar Pradesh,6914.6,4718
+2026-05-25,Tur,Delhi,9627.4,4422
+2026-05-26,Onion,Maharashtra,1677.74,4163
+2026-05-26,Onion,Karnataka,1845.57,4778
+2026-05-26,Onion,Uttar Pradesh,2211.54,3155
+2026-05-26,Onion,Delhi,2554.87,2793
+2026-05-26,Potato,Maharashtra,800.26,5928
+2026-05-26,Potato,Karnataka,992.08,6284
+2026-05-26,Potato,Uttar Pradesh,987.51,4380
+2026-05-26,Potato,Delhi,1225.04,3196
+2026-05-26,Tomato,Maharashtra,1557.48,6662
+2026-05-26,Tomato,Karnataka,1753.89,5393
+2026-05-26,Tomato,Uttar Pradesh,1917.05,3730
+2026-05-26,Tomato,Delhi,2457.84,4479
+2026-05-26,Gram,Maharashtra,4227.9,7171
+2026-05-26,Gram,Karnataka,4611.58,5283
+2026-05-26,Gram,Uttar Pradesh,5353.09,4818
+2026-05-26,Gram,Delhi,6472.34,4164
+2026-05-26,Tur,Maharashtra,6828.02,2910
+2026-05-26,Tur,Karnataka,6322.54,5911
+2026-05-26,Tur,Uttar Pradesh,7988.73,4089
+2026-05-26,Tur,Delhi,9292.69,4235
+2026-05-27,Onion,Maharashtra,1989.82,2540
+2026-05-27,Onion,Karnataka,1906.23,3779
+2026-05-27,Onion,Uttar Pradesh,2202.86,5768
+2026-05-27,Onion,Delhi,2620.74,2211
+2026-05-27,Potato,Maharashtra,986.48,7023
+2026-05-27,Potato,Karnataka,1019.12,4308
+2026-05-27,Potato,Uttar Pradesh,1131.86,5663
+2026-05-27,Potato,Delhi,1259.17,4305
+2026-05-27,Tomato,Maharashtra,1994.41,6868
+2026-05-27,Tomato,Karnataka,1881.39,4886
+2026-05-27,Tomato,Uttar Pradesh,2239.85,3789
+2026-05-27,Tomato,Delhi,2580.72,2903
+2026-05-27,Gram,Maharashtra,5024.71,5854
+2026-05-27,Gram,Karnataka,5354.27,6422
+2026-05-27,Gram,Uttar Pradesh,4740.57,7138
+2026-05-27,Gram,Delhi,7003.81,5228
+2026-05-27,Tur,Maharashtra,6428.89,5215
+2026-05-27,Tur,Karnataka,7213.24,4522
+2026-05-27,Tur,Uttar Pradesh,8285.56,5144
+2026-05-27,Tur,Delhi,8188.49,4271
+2026-05-28,Onion,Maharashtra,1865.79,4209
+2026-05-28,Onion,Karnataka,1969.31,4702
+2026-05-28,Onion,Uttar Pradesh,2253.88,4063
+2026-05-28,Onion,Delhi,2608.68,3051
+2026-05-28,Potato,Maharashtra,960.05,4663
+2026-05-28,Potato,Karnataka,1052.47,5747
+2026-05-28,Potato,Uttar Pradesh,1173.03,6255
+2026-05-28,Potato,Delhi,1283.5,4656
+2026-05-28,Tomato,Maharashtra,1605.85,6328
+2026-05-28,Tomato,Karnataka,1792.5,4186
+2026-05-28,Tomato,Uttar Pradesh,2051.61,2325
+2026-05-28,Tomato,Delhi,2144.3,3858
+2026-05-28,Gram,Maharashtra,4681.9,5716
+2026-05-28,Gram,Karnataka,4358.74,4891
+2026-05-28,Gram,Uttar Pradesh,5306.97,6201
+2026-05-28,Gram,Delhi,6456.88,5472
+2026-05-28,Tur,Maharashtra,6952.23,4725
+2026-05-28,Tur,Karnataka,7023.47,3786
+2026-05-28,Tur,Uttar Pradesh,7477.34,6112
+2026-05-28,Tur,Delhi,9715.88,5121
+2026-05-29,Onion,Maharashtra,1872.16,5424
+2026-05-29,Onion,Karnataka,1991.34,5240
+2026-05-29,Onion,Uttar Pradesh,2117.94,4390
+2026-05-29,Onion,Delhi,2827.71,2957
+2026-05-29,Potato,Maharashtra,974.33,6987
+2026-05-29,Potato,Karnataka,1003.01,3872
+2026-05-29,Potato,Uttar Pradesh,1215.61,4530
+2026-05-29,Potato,Delhi,1343.11,4924
+2026-05-29,Tomato,Maharashtra,1675.42,4435
+2026-05-29,Tomato,Karnataka,1947.71,3375
+2026-05-29,Tomato,Uttar Pradesh,1939.22,5245
+2026-05-29,Tomato,Delhi,2442.01,2765
+2026-05-29,Gram,Maharashtra,5212.22,6300
+2026-05-29,Gram,Karnataka,5413.73,5543
+2026-05-29,Gram,Uttar Pradesh,4863.4,5854
+2026-05-29,Gram,Delhi,6388.72,3397
+2026-05-29,Tur,Maharashtra,7436.6,4864
+2026-05-29,Tur,Karnataka,6323.48,6661
+2026-05-29,Tur,Uttar Pradesh,7301.07,4392
+2026-05-29,Tur,Delhi,8615.58,5392
+2026-05-30,Onion,Maharashtra,1754.7,4323
+2026-05-30,Onion,Karnataka,2125.03,4390
+2026-05-30,Onion,Uttar Pradesh,2114.44,2537
+2026-05-30,Onion,Delhi,2554.83,3192
+2026-05-30,Potato,Maharashtra,904.3,5781
+2026-05-30,Potato,Karnataka,1060.42,6276
+2026-05-30,Potato,Uttar Pradesh,980.17,7196
+2026-05-30,Potato,Delhi,1386.22,3998
+2026-05-30,Tomato,Maharashtra,2016.11,8183
+2026-05-30,Tomato,Karnataka,1610.36,5026
+2026-05-30,Tomato,Uttar Pradesh,1522.31,5192
+2026-05-30,Tomato,Delhi,2570.58,3968
+2026-05-30,Gram,Maharashtra,4426.39,3642
+2026-05-30,Gram,Karnataka,5044.85,7550
+2026-05-30,Gram,Uttar Pradesh,4965.89,6044
+2026-05-30,Gram,Delhi,5917.09,4850
+2026-05-30,Tur,Maharashtra,6599.98,4708
+2026-05-30,Tur,Karnataka,6811.34,4848
+2026-05-30,Tur,Uttar Pradesh,7702.09,3687
+2026-05-30,Tur,Delhi,9233.8,3966
+2026-05-31,Onion,Maharashtra,1778.49,5809
+2026-05-31,Onion,Karnataka,1914.09,3506
+2026-05-31,Onion,Uttar Pradesh,2005.24,5229
+2026-05-31,Onion,Delhi,2719.65,2500
+2026-05-31,Potato,Maharashtra,1037.2,5778
+2026-05-31,Potato,Karnataka,1031.09,4900
+2026-05-31,Potato,Uttar Pradesh,1013.94,5337
+2026-05-31,Potato,Delhi,1294.84,5453
+2026-05-31,Tomato,Maharashtra,1545.42,7262
+2026-05-31,Tomato,Karnataka,1876.98,5577
+2026-05-31,Tomato,Uttar Pradesh,2165.83,4369
+2026-05-31,Tomato,Delhi,2671.85,1833
+2026-05-31,Gram,Maharashtra,4404.69,5032
+2026-05-31,Gram,Karnataka,4476.67,5596
+2026-05-31,Gram,Uttar Pradesh,5309.11,6336
+2026-05-31,Gram,Delhi,6551.93,3852
+2026-05-31,Tur,Maharashtra,6944.86,5693
+2026-05-31,Tur,Karnataka,7576.63,6080
+2026-05-31,Tur,Uttar Pradesh,7545.71,4102
+2026-05-31,Tur,Delhi,9121.17,3560
+2026-06-01,Onion,Maharashtra,2020.5,4180
+2026-06-01,Onion,Karnataka,2258.51,3720
+2026-06-01,Onion,Uttar Pradesh,2288.97,3673
+2026-06-01,Onion,Delhi,2796.89,2328
+2026-06-01,Potato,Maharashtra,837.24,4783
+2026-06-01,Potato,Karnataka,1046.58,4523
+2026-06-01,Potato,Uttar Pradesh,1050.15,5466
+2026-06-01,Potato,Delhi,1369.95,3136
+2026-06-01,Tomato,Maharashtra,3079.99,4255
+2026-06-01,Tomato,Karnataka,2814.64,2747
+2026-06-01,Tomato,Uttar Pradesh,3438.86,3033
+2026-06-01,Tomato,Delhi,3556.84,1800
+2026-06-01,Gram,Maharashtra,5088.17,4263
+2026-06-01,Gram,Karnataka,5318.28,5297
+2026-06-01,Gram,Uttar Pradesh,6262.29,4709
+2026-06-01,Gram,Delhi,7563.51,5143
+2026-06-01,Tur,Maharashtra,7426.04,5871
+2026-06-01,Tur,Karnataka,6273.82,5748
+2026-06-01,Tur,Uttar Pradesh,8005.78,4918
+2026-06-01,Tur,Delhi,10202.56,4687
+2026-06-02,Onion,Maharashtra,2127.54,4830
+2026-06-02,Onion,Karnataka,2213.76,1885
+2026-06-02,Onion,Uttar Pradesh,2228.26,4426
+2026-06-02,Onion,Delhi,2763.29,2729
+2026-06-02,Potato,Maharashtra,887.34,7537
+2026-06-02,Potato,Karnataka,1131.54,4332
+2026-06-02,Potato,Uttar Pradesh,1077.51,4319
+2026-06-02,Potato,Delhi,1377.05,4407
+2026-06-02,Tomato,Maharashtra,3044.65,3702
+2026-06-02,Tomato,Karnataka,3629.51,2613
+2026-06-02,Tomato,Uttar Pradesh,2860.44,2879
+2026-06-02,Tomato,Delhi,3689.6,1753
+2026-06-02,Gram,Maharashtra,4826.34,4530
+2026-06-02,Gram,Karnataka,5130.28,5808
+2026-06-02,Gram,Uttar Pradesh,5574.83,4820
+2026-06-02,Gram,Delhi,7502.98,3386
+2026-06-02,Tur,Maharashtra,6663.35,5961
+2026-06-02,Tur,Karnataka,6285.49,2752
+2026-06-02,Tur,Uttar Pradesh,7691.75,5492
+2026-06-02,Tur,Delhi,10348.9,4126
+2026-06-03,Onion,Maharashtra,2158.72,3813
+2026-06-03,Onion,Karnataka,2210.48,5012
+2026-06-03,Onion,Uttar Pradesh,2034.4,3866
+2026-06-03,Onion,Delhi,3117.87,3018
+2026-06-03,Potato,Maharashtra,1076.38,4856
+2026-06-03,Potato,Karnataka,1011.98,5298
+2026-06-03,Potato,Uttar Pradesh,912.37,3831
+2026-06-03,Potato,Delhi,1257.72,4657
+2026-06-03,Tomato,Maharashtra,3058.46,3697
+2026-06-03,Tomato,Karnataka,3209.08,3181
+2026-06-03,Tomato,Uttar Pradesh,3444.87,3130
+2026-06-03,Tomato,Delhi,4017.17,2367
+2026-06-03,Gram,Maharashtra,5417.71,5087
+2026-06-03,Gram,Karnataka,5807.58,4071
+2026-06-03,Gram,Uttar Pradesh,5368.88,5687
+2026-06-03,Gram,Delhi,7160.88,3636
+2026-06-03,Tur,Maharashtra,7184.73,4880
+2026-06-03,Tur,Karnataka,7071.01,6736
+2026-06-03,Tur,Uttar Pradesh,8230.61,6572
+2026-06-03,Tur,Delhi,9295.54,4984
+2026-06-04,Onion,Maharashtra,1947.49,3248
+2026-06-04,Onion,Karnataka,1893.83,5017
+2026-06-04,Onion,Uttar Pradesh,2186.72,3481
+2026-06-04,Onion,Delhi,2753.76,3254
+2026-06-04,Potato,Maharashtra,934.91,4105
+2026-06-04,Potato,Karnataka,1045.52,3753
+2026-06-04,Potato,Uttar Pradesh,1009.38,2893
+2026-06-04,Potato,Delhi,1235.32,4142
+2026-06-04,Tomato,Maharashtra,2492.85,2443
+2026-06-04,Tomato,Karnataka,3045.61,2931
+2026-06-04,Tomato,Uttar Pradesh,3604.81,4271
+2026-06-04,Tomato,Delhi,3834.42,2778
+2026-06-04,Gram,Maharashtra,5441.75,4891
+2026-06-04,Gram,Karnataka,4943.81,5250
+2026-06-04,Gram,Uttar Pradesh,5694.5,4564
+2026-06-04,Gram,Delhi,7348.56,3399
+2026-06-04,Tur,Maharashtra,6267.6,5676
+2026-06-04,Tur,Karnataka,7336.69,4024
+2026-06-04,Tur,Uttar Pradesh,7957.64,3229
+2026-06-04,Tur,Delhi,9164.85,3793
+2026-06-05,Onion,Maharashtra,1986.02,3519
+2026-06-05,Onion,Karnataka,2401.47,3119
+2026-06-05,Onion,Uttar Pradesh,2584.47,3883
+2026-06-05,Onion,Delhi,2875.45,3129
+2026-06-05,Potato,Maharashtra,1138.65,4451
+2026-06-05,Potato,Karnataka,936.55,4468
+2026-06-05,Potato,Uttar Pradesh,1070.65,3274
+2026-06-05,Potato,Delhi,1337.06,5354
+2026-06-05,Tomato,Maharashtra,2917.77,3268
+2026-06-05,Tomato,Karnataka,2924.27,3880
+2026-06-05,Tomato,Uttar Pradesh,3043.15,4278
+2026-06-05,Tomato,Delhi,4397.07,2628
+2026-06-05,Gram,Maharashtra,5176.82,6700
+2026-06-05,Gram,Karnataka,5851.85,4414
+2026-06-05,Gram,Uttar Pradesh,5572.21,3677
+2026-06-05,Gram,Delhi,7338.8,4533
+2026-06-05,Tur,Maharashtra,6180.33,5049
+2026-06-05,Tur,Karnataka,6558.64,4317
+2026-06-05,Tur,Uttar Pradesh,7789.96,4266
+2026-06-05,Tur,Delhi,9292.13,2698
+2026-06-06,Onion,Maharashtra,2085.81,3933
+2026-06-06,Onion,Karnataka,2090.53,3617
+2026-06-06,Onion,Uttar Pradesh,2314.28,2989
+2026-06-06,Onion,Delhi,2688.65,3888
+2026-06-06,Potato,Maharashtra,917.59,5448
+2026-06-06,Potato,Karnataka,1086.12,8977
+2026-06-06,Potato,Uttar Pradesh,981.69,5449
+2026-06-06,Potato,Delhi,1286.47,3568
+2026-06-06,Tomato,Maharashtra,2745.17,2690
+2026-06-06,Tomato,Karnataka,3041.47,2319
+2026-06-06,Tomato,Uttar Pradesh,3399.6,3159
+2026-06-06,Tomato,Delhi,4097.29,2266
+2026-06-06,Gram,Maharashtra,5053.68,5875
+2026-06-06,Gram,Karnataka,5062.68,4886
+2026-06-06,Gram,Uttar Pradesh,5457.14,4109
+2026-06-06,Gram,Delhi,6459.06,5071
+2026-06-06,Tur,Maharashtra,6480.66,6848
+2026-06-06,Tur,Karnataka,7647.76,3909
+2026-06-06,Tur,Uttar Pradesh,7054.21,7560
+2026-06-06,Tur,Delhi,10217.92,3974
+2026-06-07,Onion,Maharashtra,2095.27,3467
+2026-06-07,Onion,Karnataka,2230.95,3220
+2026-06-07,Onion,Uttar Pradesh,2049.88,2627
+2026-06-07,Onion,Delhi,2869.73,2210
+2026-06-07,Potato,Maharashtra,957.57,4361
+2026-06-07,Potato,Karnataka,960.98,6161
+2026-06-07,Potato,Uttar Pradesh,1086.52,4990
+2026-06-07,Potato,Delhi,1398.03,4384
+2026-06-07,Tomato,Maharashtra,3180.26,3152
+2026-06-07,Tomato,Karnataka,2965.63,2433
+2026-06-07,Tomato,Uttar Pradesh,3126.36,3727
+2026-06-07,Tomato,Delhi,4275.2,2980
+2026-06-07,Gram,Maharashtra,4555.58,6759
+2026-06-07,Gram,Karnataka,4828.04,6208
+2026-06-07,Gram,Uttar Pradesh,5630.78,5702
+2026-06-07,Gram,Delhi,6733.02,4936
+2026-06-07,Tur,Maharashtra,6132.16,4812
+2026-06-07,Tur,Karnataka,6719.56,3416
+2026-06-07,Tur,Uttar Pradesh,7588.54,6806
+2026-06-07,Tur,Delhi,10632.61,4077
+2026-06-08,Onion,Maharashtra,2199.39,4152
+2026-06-08,Onion,Karnataka,2240.0,3502
+2026-06-08,Onion,Uttar Pradesh,2318.29,3955
+2026-06-08,Onion,Delhi,2799.18,2812
+2026-06-08,Potato,Maharashtra,958.55,6473
+2026-06-08,Potato,Karnataka,941.5,5208
+2026-06-08,Potato,Uttar Pradesh,1203.44,6164
+2026-06-08,Potato,Delhi,1431.44,4019
+2026-06-08,Tomato,Maharashtra,2956.87,4168
+2026-06-08,Tomato,Karnataka,3365.43,2005
+2026-06-08,Tomato,Uttar Pradesh,2950.99,3943
+2026-06-08,Tomato,Delhi,3962.22,2164
+2026-06-08,Gram,Maharashtra,4745.94,4938
+2026-06-08,Gram,Karnataka,4982.12,7464
+2026-06-08,Gram,Uttar Pradesh,5753.15,4942
+2026-06-08,Gram,Delhi,7407.08,4769
+2026-06-08,Tur,Maharashtra,7218.85,6748
+2026-06-08,Tur,Karnataka,6886.72,4949
+2026-06-08,Tur,Uttar Pradesh,7894.06,4472
+2026-06-08,Tur,Delhi,9432.7,4319
+2026-06-09,Onion,Maharashtra,2160.62,2557
+2026-06-09,Onion,Karnataka,2266.97,3583
+2026-06-09,Onion,Uttar Pradesh,2380.89,4126
+2026-06-09,Onion,Delhi,3062.95,3630
+2026-06-09,Potato,Maharashtra,1057.26,7159
+2026-06-09,Potato,Karnataka,1036.9,5297
+2026-06-09,Potato,Uttar Pradesh,1131.1,5732
+2026-06-09,Potato,Delhi,1315.87,4323
+2026-06-09,Tomato,Maharashtra,2887.38,2879
+2026-06-09,Tomato,Karnataka,3313.29,3325
+2026-06-09,Tomato,Uttar Pradesh,3625.74,2109
+2026-06-09,Tomato,Delhi,3908.64,2516
+2026-06-09,Gram,Maharashtra,5584.33,5999
+2026-06-09,Gram,Karnataka,5583.04,4076
+2026-06-09,Gram,Uttar Pradesh,5357.57,5322
+2026-06-09,Gram,Delhi,6725.69,3574
+2026-06-09,Tur,Maharashtra,7020.41,4464
+2026-06-09,Tur,Karnataka,7894.91,6551
+2026-06-09,Tur,Uttar Pradesh,6842.86,4067
+2026-06-09,Tur,Delhi,8408.9,3373
+2026-06-10,Onion,Maharashtra,2159.37,3639
+2026-06-10,Onion,Karnataka,2237.56,2614
+2026-06-10,Onion,Uttar Pradesh,2392.88,3174
+2026-06-10,Onion,Delhi,2872.86,2804
+2026-06-10,Potato,Maharashtra,874.35,4274
+2026-06-10,Potato,Karnataka,1084.63,5683
+2026-06-10,Potato,Uttar Pradesh,1143.9,5324
+2026-06-10,Potato,Delhi,1348.01,2619
+2026-06-10,Tomato,Maharashtra,2842.05,3453
+2026-06-10,Tomato,Karnataka,3447.65,3741
+2026-06-10,Tomato,Uttar Pradesh,3525.13,3498
+2026-06-10,Tomato,Delhi,3880.14,2558
+2026-06-10,Gram,Maharashtra,5270.28,4512
+2026-06-10,Gram,Karnataka,5341.26,5046
+2026-06-10,Gram,Uttar Pradesh,6325.97,2919
+2026-06-10,Gram,Delhi,7627.04,3250
+2026-06-10,Tur,Maharashtra,6179.36,6866
+2026-06-10,Tur,Karnataka,7503.75,6583
+2026-06-10,Tur,Uttar Pradesh,7912.32,7059
+2026-06-10,Tur,Delhi,9691.43,3874
+2026-06-11,Onion,Maharashtra,2109.57,4955
+2026-06-11,Onion,Karnataka,2089.8,3269
+2026-06-11,Onion,Uttar Pradesh,2261.16,2068
+2026-06-11,Onion,Delhi,2889.37,1779
+2026-06-11,Potato,Maharashtra,967.43,6516
+2026-06-11,Potato,Karnataka,983.88,7028
+2026-06-11,Potato,Uttar Pradesh,968.56,6191
+2026-06-11,Potato,Delhi,1385.76,2627
+2026-06-11,Tomato,Maharashtra,3440.01,3427
+2026-06-11,Tomato,Karnataka,2883.35,2363
+2026-06-11,Tomato,Uttar Pradesh,3175.84,3045
+2026-06-11,Tomato,Delhi,4045.33,2351
+2026-06-11,Gram,Maharashtra,5410.58,5124
+2026-06-11,Gram,Karnataka,4799.99,5105
+2026-06-11,Gram,Uttar Pradesh,4936.88,5353
+2026-06-11,Gram,Delhi,6864.12,4130
+2026-06-11,Tur,Maharashtra,7389.93,4501
+2026-06-11,Tur,Karnataka,7653.87,4806
+2026-06-11,Tur,Uttar Pradesh,8342.94,4634
+2026-06-11,Tur,Delhi,9064.28,4549
+2026-06-12,Onion,Maharashtra,2017.13,3300
+2026-06-12,Onion,Karnataka,2127.05,3725
+2026-06-12,Onion,Uttar Pradesh,2460.42,2189
+2026-06-12,Onion,Delhi,2876.97,3214
+2026-06-12,Potato,Maharashtra,977.62,7010
+2026-06-12,Potato,Karnataka,1012.44,5068
+2026-06-12,Potato,Uttar Pradesh,1112.66,5099
+2026-06-12,Potato,Delhi,1311.67,4412
+2026-06-12,Tomato,Maharashtra,2769.08,3047
+2026-06-12,Tomato,Karnataka,2955.07,4179
+2026-06-12,Tomato,Uttar Pradesh,2577.56,3372
+2026-06-12,Tomato,Delhi,4034.05,1659
+2026-06-12,Gram,Maharashtra,5298.7,6084
+2026-06-12,Gram,Karnataka,5685.02,2471
+2026-06-12,Gram,Uttar Pradesh,6245.24,4262
+2026-06-12,Gram,Delhi,7449.05,4592
+2026-06-12,Tur,Maharashtra,6405.89,6289
+2026-06-12,Tur,Karnataka,7004.73,3082
+2026-06-12,Tur,Uttar Pradesh,8081.48,4224
+2026-06-12,Tur,Delhi,9060.48,3677
+2026-06-13,Onion,Maharashtra,2103.1,3922
+2026-06-13,Onion,Karnataka,2251.22,2752
+2026-06-13,Onion,Uttar Pradesh,2211.39,3488
+2026-06-13,Onion,Delhi,3103.35,2792
+2026-06-13,Potato,Maharashtra,1040.41,5598
+2026-06-13,Potato,Karnataka,984.16,5003
+2026-06-13,Potato,Uttar Pradesh,1059.81,5603
+2026-06-13,Potato,Delhi,1435.72,4287
+2026-06-13,Tomato,Maharashtra,3138.73,2802
+2026-06-13,Tomato,Karnataka,2979.57,2812
+2026-06-13,Tomato,Uttar Pradesh,3286.57,2900
+2026-06-13,Tomato,Delhi,4175.55,2034
+2026-06-13,Gram,Maharashtra,5206.71,6318
+2026-06-13,Gram,Karnataka,4757.22,7496
+2026-06-13,Gram,Uttar Pradesh,5669.4,2974
+2026-06-13,Gram,Delhi,7265.96,4026
+2026-06-13,Tur,Maharashtra,6765.35,6656
+2026-06-13,Tur,Karnataka,7516.45,5576
+2026-06-13,Tur,Uttar Pradesh,7760.57,4895
+2026-06-13,Tur,Delhi,10246.47,2816

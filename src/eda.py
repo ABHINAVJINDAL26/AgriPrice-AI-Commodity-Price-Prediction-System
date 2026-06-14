@@ -15,6 +15,17 @@ def load_data(file_path):
     data = pd.read_csv(file_path, parse_dates=["Date"])
     if "Price" not in data.columns and "Modal_Price" in data.columns:
         data["Price"] = data["Modal_Price"]
+        
+    if "State" in data.columns:
+        agg_cols = {
+            "Price": "mean",
+            "month": "first"
+        }
+        for col in ["price_lag_7", "price_lag_14", "price_lag_30", "rolling_mean_7", "rolling_mean_30", "rolling_std_7"]:
+            if col in data.columns:
+                agg_cols[col] = "mean"
+        data = data.groupby(["Commodity", "Date"], as_index=False).agg(agg_cols)
+        
     return data
 
 

@@ -3,7 +3,9 @@
 import os
 import subprocess
 import sys
-
+import time
+from datetime import datetime
+import schedule
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -22,12 +24,6 @@ def run_pipeline() -> None:
 	os.makedirs(os.path.join(BASE_DIR, "models"), exist_ok=True)
 
 	print("=" * 58)
-
-
-def launch_dashboard() -> None:
-	app_path = os.path.join(BASE_DIR, "app.py")
-	print("Launching dashboard at http://localhost:8501")
-	subprocess.run([sys.executable, "-m", "streamlit", "run", app_path], cwd=BASE_DIR, check=False)
 	print("AgriPrice AI - Starting Full Pipeline")
 	print("=" * 58)
 
@@ -42,8 +38,30 @@ def launch_dashboard() -> None:
 	print("=" * 58)
 
 
+def launch_dashboard() -> None:
+	app_path = os.path.join(BASE_DIR, "app.py")
+	print("Launching dashboard at http://localhost:8501")
+	subprocess.run([sys.executable, "-m", "streamlit", "run", app_path], cwd=BASE_DIR, check=False)
+
+
+def daily_pipeline() -> None:
+	print(f"Auto-running pipeline at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+	run_pipeline()
+
+
 if __name__ == "__main__":
-	if len(sys.argv) > 1 and sys.argv[1].lower() == "dashboard":
-		launch_dashboard()
+	if len(sys.argv) > 1:
+		cmd = sys.argv[1].lower()
+		if cmd == "dashboard":
+			launch_dashboard()
+		elif cmd == "schedule":
+			print("Scheduler started — pipeline will run daily at 06:00 AM")
+			schedule.every().day.at("06:00").do(daily_pipeline)
+			while True:
+				schedule.run_pending()
+				time.sleep(1)
+		else:
+			print(f"Unknown command: {cmd}")
+			sys.exit(1)
 	else:
 		run_pipeline()

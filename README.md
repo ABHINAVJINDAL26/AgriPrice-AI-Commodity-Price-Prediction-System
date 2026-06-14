@@ -13,6 +13,9 @@
 
 </div>
 
+> [!NOTE]
+> **Demo & Presentation Disclaimer**: This application is currently configured in **Demo Mode** using a high-fidelity simulated historical market dataset (`data/raw_data.csv`) that models actual price spikes, seasonal harvest dips, and festival demands in Rupees per Quintal (e.g., Onion base at Rs. 1,500/quintal). In production, this can be seamlessly integrated with the `data.gov.in` real-time API for live government reporting center feed ingestion.
+
 ---
 
 ## 📋 Table of Contents
@@ -1111,15 +1114,10 @@ jupyter>=1.0.0
 
 | Name | Role |
 |------|------|
-| Team Member 1 | ML Model Development |
-| Team Member 2 | Data Collection & Preprocessing |
-| Team Member 3 | EDA & Visualization |
-| Team Member 4 | Backend & Pipeline |
-| Team Member 5 | Dashboard & Presentation |
-| Team Member 6 | Research & Documentation |
+| **Abhinav Jindal** (Team Lead) | Lead Developer, Pipeline Orchestration, & ML Modeling |
+| **Parth Madrewar** | Frontend Dashboard Developer & Data Analyst |
 
-**Institution:** [Your College Name]
-**Mentor:** [Mentor Name]
+**Institution:** Lovely Professional University, Phagwara, Jalandhar, Punjab
 **SIH 2024 Participation**
 
 ---
