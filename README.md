@@ -194,6 +194,23 @@ All diagnostics (e.g. Model Comparisons and XGBoost Feature Importances) are upd
 * [ ] **Geospatial Maps**: State-wise visual color-graded pricing maps of India.
 * [ ] **Market Sentiment Ingestion**: Analyzing agriculture news headlines to anticipate market shocks.
 
+## 🎓 INT312 Course Outcomes Alignment
+
+This project directly demonstrates the practical implementation of the **INT312 (Big Data)** course outcomes:
+
+1. **CO1: Understand The Need And Importance Of Fundamental Concepts And Principles Of Big Data**
+   - *Mapping*: AgriPrice AI handles high-velocity and high-volume daily price records across 550+ reporting centers. The necessity of processing high-volume and high-velocity datasets is addressed by orchestrating an ingestion pipeline that cleanses raw tabular streams.
+2. **CO2: Analyze Internal Functioning Of Different Modules Of Big Data And Hadoop**
+   - *Mapping*: The preprocessing architecture mimics distributed ingestion and storage setups. In production, this scales by storing raw feeds in HDFS and executing MapReduce-based preprocessing steps.
+3. **CO3: Illustrate The Big Data Ecosystem And Appreciate Its Key Components**
+   - *Mapping*: The system implements a complete analytical ecosystem: Data Collection (ingestion layer), Preprocessing/Feature Engineering (analytical transformation), Model Training & Registry (machine learning layer), and Streamlit (visualization delivery).
+4. **CO4: Evaluate How Hadoop Solves Big Data Problems**
+   - *Mapping*: Illustrates how parallel processing resolves data bottlenecks. By dividing work into state-wise processing groups and training models concurrently, it mirrors Hadoop's distributed node computations.
+5. **CO5: Apply Tools And Techniques To Analyze Big Data**
+   - *Mapping*: Applied state-of-the-art big data analysis frameworks: Pandas for large-scale data manipulation, XGBoost for gradient boosted regression, Statsmodels for parametric time-series, and Plotly for interactive dashboards.
+6. **CO6: Examine Solution For A Given Problem Using Suitable Big Data Techniques**
+   - *Mapping*: Directly solved the Ministry of Consumer Affairs' problem of market volatility. The system leverages predictive analytics to output automated market stabilization recommendations (e.g. NAFED buffer stock release requirements in Metric Tons).
+
 ---
 
 ## 👥 Team & Institution
